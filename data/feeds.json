@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-25 19:23 UTC",
+  "updated": "2026-10-26 11:54 UTC",
   "feeds": {
     "comics": [
       {
@@ -51,6 +51,12 @@
         "source": "The Daily Cartoonist"
       },
       {
+        "title": "Wonder Woman comic debut sold for $1.6M at auction - Fox Business",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVDJqQUpaakZTeHJ0STZRVzEwbmMwQmtCMFBuaXh2OW9Qek5mVVJtbi1oYXdodXRTZDRJaUw0V1R0MmN1QV9veVZLMjB5b0l6X3RnN0hFNHpvdUlwUm5nNlBKT1Z4Vm1SY1hzQ3Y2OU5DdGNHamVfWk4wYW1nek9wYUs3RG5Ha0nSAYwBQVVfeXFMUGpSbnVoaW1hOWd0aC1KYVgyREM3ZngtWnZQcENGYUdvOU80RFhYRUE2N3g0U2htTjR0eE9LQU1RRi0ydktKUXVlcVIwbnJMRWd2T0VmZFc1WW1lVnYtZmlsd1FHRWhQQnVtakZOSzZKQ0NQRDJVN2RjbnktWnNUcm1DUDlTWnQ2ZlFlMEs?oc=5",
+        "date": "Thu, 23 Jun 2022 07:00:00 GMT",
+        "source": "Fox Business"
+      },
+      {
         "title": "Rare Comics and Comic Art Auction - The Detroit News",
         "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUGNkMmRaQWpIbTZ5aTR5Nld3VjE5VW1CYzgtbHB1WEM2eWNaaFpMY3JESVRuQ2pReUpRd0xDdEFXbmU4cmtaYkhOTUxEWXdwX1RfeHVjTXhZR0FsNFRIRC0zRXdZWWM3UGZYNzJKSWNFTWVoUk9SRWFveGtUeGxGMloyTFVNbkhhUHhaeVNYOTVUOTV4dDBPQlVpczhEenVJaC1XdHdR?oc=5",
         "date": "Sat, 19 Mar 2016 07:00:00 GMT",
@@ -67,12 +73,6 @@
         "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdFBmZkFfMUVoQ09iRG5TNFpVXzdXaVpHSU1OaEpOVjlWYUtUak15bldfeW4tU2NIdlFSVzlaZ05udGFycXdpOGw0Vllmb0tlNWZxVXBfU2ZWcUYxSGIxX1JSWE1lVC1kbXdZNXRhcVZXeWlfUzg5Qmh5Nk9SckdURHZqbkh2cmh4QjRtM05ibi1rb2t2S3RTS2sta0JpU1JScGtz?oc=5",
         "date": "Sun, 09 Jun 2024 07:00:00 GMT",
         "source": "ABC News & Headlines – Australian Broadcasting Corporation"
-      },
-      {
-        "title": "These Rare Superhero Comics Can be Worth Big Bucks - Remind Magazine",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOM0FWcU1EVHM0YU9BV1pwSm85QzcxRjF3aTRJY3lDSDdTNjQwUFlOWDhFbTVDeFltQ0U4dW0xTENBSU9oeWhHMEZiNktRdU5MYloteHFlWDBXbEFROW5lZmJNbUx6LTZXQkpGV1o0aDJZODhXb04wam1UZ01UVzlBQkdEOUtFSXVqT1pMSHhnZmpzR2FoekppNXJsZGs?oc=5",
-        "date": "Sun, 03 Mar 2024 08:00:00 GMT",
-        "source": "Remind Magazine"
       }
     ],
     "research": [
@@ -137,16 +137,16 @@
         "source": "9DashLine"
       },
       {
-        "title": "Zambia pushed back on U.S. health funding deal to protect interests, government says - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPSE1UU09SQ3FIbk1qY194aUNnY0g2ek5SMng1emZZY2lnTGhYV2lhclQ2OVVrS05FMzg3VllRUE9XYXRtRG5rWk5ZbF9PZ1lseTZFWFFOQk8yRlNIeW9wUlZ1bm1mbllCN2NpVlZrSzFfb0E4dWtWQlJRek9EVlVsdHItTE9QTWktU2xjN1M2YVg2Y0JFcl9sLUxBdjFsUHEzczVKdmdfaGUxcENMYTdGWndTZ3lYcXdad3h5TjlaZWRFU1M0RVZSS2F5WGNJa2hBZUYxM0ROa19SczNMSXBoMGNVRTlrdw?oc=5",
-        "date": "Thu, 26 Feb 2026 08:00:00 GMT",
-        "source": "Reuters"
-      },
-      {
         "title": "Global Health Politics: Multipolarity Is the New Reality - Think Global Health",
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWmtjaFhTRlRxeEJMbFpHUDJCN0staWFSRUoxSVl2R0JTR2poUGZHVHFfaERFblA4ZHRiRHVsdThYQ1JYRm16cWt6OEg3VkhObnFuUmZ5Y3dyaGpKYWxhRnhRUkI3WXBnU0pDTTBXdDhUbDJ3YTEwQS1pXzNQWUVZLUNJSHlacTdtWVNpeFZaT25Sa3hP?oc=5",
         "date": "Mon, 30 Sep 2024 07:00:00 GMT",
         "source": "Think Global Health"
+      },
+      {
+        "title": "Zambia pushed back on U.S. health funding deal to protect interests, government says - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPSE1UU09SQ3FIbk1qY194aUNnY0g2ek5SMng1emZZY2lnTGhYV2lhclQ2OVVrS05FMzg3VllRUE9XYXRtRG5rWk5ZbF9PZ1lseTZFWFFOQk8yRlNIeW9wUlZ1bm1mbllCN2NpVlZrSzFfb0E4dWtWQlJRek9EVlVsdHItTE9QTWktU2xjN1M2YVg2Y0JFcl9sLUxBdjFsUHEzczVKdmdfaGUxcENMYTdGWndTZ3lYcXdad3h5TjlaZWRFU1M0RVZSS2F5WGNJa2hBZUYxM0ROa19SczNMSXBoMGNVRTlrdw?oc=5",
+        "date": "Thu, 26 Feb 2026 08:00:00 GMT",
+        "source": "Reuters"
       }
     ],
     "scifi": [
@@ -181,6 +181,12 @@
         "source": "Deadline"
       },
       {
+        "title": "Apple TV’s Biggest Sci-Fi Series Ever Gets Official Return Update - Collider",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOYzFzel9PMGZNcG80eG9XakxnclVXS3dSMlJsNU5NTFFURUhBVTllODVheXJmQV9vWXJ6c2hlbmVPZ3NNWWJpeExGNDR3UHFGLWNpQ0dTVHV1V2Jpb3JqQWFRdUw4YkxibHBMWXlOY3Q3aDNraHZkSmJPTDR3NzlBSGlSWmR2SzByVC1feHlnYjgyVmUy?oc=5",
+        "date": "Fri, 14 Aug 2026 07:00:00 GMT",
+        "source": "Collider"
+      },
+      {
         "title": "Apple TV+'s Underrated Sci-Fi Show Gets an Uncertain Update on Its Future Amid Renewal Rumors - Comic Book Resources",
         "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBUazNPeGZZXy0xVmtjRjJvNGQtdEUzV001U1l5MnNsTnhOak03SlVLbE5qTmhaTTV6dGE5Y2tMZnd4WFRVLW14WVJmUjFSZkJJZU52MWlILU84bVRsMUpHamtNRlk4SzZidmZZNmNsOE5YUQ?oc=5",
         "date": "Fri, 04 Jul 2025 07:00:00 GMT",
@@ -200,15 +206,9 @@
       },
       {
         "title": "‘3 Body Problem’ Season 2: Has Netflix Renewed The Sci-Fi Series? - AugustMan Singapore",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPOXBRU1lBeEE0NmhCZWFWTU1TRlFOQTBSa1UzNU5jT0NBMGxDUkhfWm5Nc1hXMmVSZnpWMlFwaHoybEp1dFhUeGdPQXNteFV3RXFIRkE0Z0xuS05mU1RUX3hpcWpyVWRfUEluNWRuZElFbXV4V0JHZ3FLbFQ5NGljVjNQbTA0Z05QWjdFNnZULTl0LTlDX0J6b1VHamUyd9IBowFBVV95cUxPbW1CbV9UZVR2MFFqMjluS2xTZUpGcHBad1ZHZDRLN3M4LVMtTUo1bmRoM0MzX2J5RVpmQnFfdEtiWXJwQnhHTVlaU0IyVWlValhQc0NaRF91ZEh0OWxJTXptZERnZzNEZDhDaV9VVWJlVFB2Q29wMElPeTFJUjc2NkYwaXIwQ3UwUEZyc3AzcXZJbzJGakVzTDBsVXA5akVFQnFj?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOeVFSSUhSV09uWFo1bTRxNG4tMHdZaGVqTzBtZGp3MzdMVXJTQkVBVm13aXFPYXJjbTJBZTQ4eWFNNU1PcjRmeEpxR3JtUGxKT2ZDaDZqVkZSUTY3cHVkZ09naGVVc29QLTFPZGlheWF1OGtQWUw2eVpDbjY5OFFCZWU3cFZkNlY2bWJQZnZ3a2l4MlNXN2dIQ2pGV09JUdIBowFBVV95cUxOcy1SY0FDTVRuNi1VR3ZoNGhEbkxmQ0x4eS1XSWI2SjBCdnd4VU1CYXRrZzlYN0FXZ242bDB2OWpHdXF2ay1TQ0FwYmVxbWg1eDA1SVA0UEtwZWVpN2ZCNWZjb1c0MTdLVTNseFZIdy14NlBjM3V1Q0ZLQzlvYXhaczBMbWNrTWNFRkhnMDFSSE5tTF8zb2tXSUU5bGk0UVA0Qno0?oc=5",
         "date": "Wed, 28 Aug 2024 07:00:00 GMT",
         "source": "AugustMan Singapore"
-      },
-      {
-        "title": "A Season 2 Of 'Beyond' Is Definitely Possible - Romper",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSnRLYUpKY3p0MXkwcl9iVDFLc2lDWmNsWEtTYm1UODBKMUxheTZNLVNWbHR4cVZnRlBGMlFLWWEzWldkM0YtcUo4Vy1Mb0U4eUtiQnNyUTFlclJDWkg4NGJheV9EOTlISXJfY3VEYkIzRThGNkc0YXpRenN2S095NWlWR1dCTXktTHZ2UDF6RnhNOVliSVJ0eDcyR2hPUnBDejFrck05d1JmdmhRcnM0?oc=5",
-        "date": "Mon, 02 Jan 2017 08:00:00 GMT",
-        "source": "Romper"
       },
       {
         "title": "Silo: Season Three; Apple TV Unveils Premiere Date, Teaser & First Photos for Sci-fi Series’ Return - TV Series Finale",
@@ -225,64 +225,10 @@
     ],
     "sports": [
       {
-        "title": "Ohio State replaces BYU at No. 2 in AP Top 25 - ESPN",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRmcwYmJ0N2x0Y18xeGNVMTJMaXZsRG8zYnZlZndiSmJBNDhWaXJqY0R5YU9jOWVEYWdIb1pHZW94ak9uSDhZNDlGZ1NJU0REMnJrN3hFYkhkX1J2bEtadWxZNnh5R3FXUDVmSW1ZMjFsTWR6TGZTVW9YMDFlZnVZMFc4R1ZlYjBMSWkwc2k0a1lpRmR4bHMzaW80ZGI?oc=5",
-        "date": "Sun, 25 Oct 2026 18:36:55 GMT",
-        "source": "ESPN"
-      },
-      {
-        "title": "College football AP Top 25 rankings: Some marquee wins have have aged well -- others? not so much - CBS Sports",
+        "title": "College football AP Top 25 rankings: Some marquee wins have aged well -- others, not so much - CBS Sports",
         "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTzFLTmFzcWZoQTNjcmJhemRSTU1fUlJ0MDhmNXlsa2xmQk1ZRUFEOVVpbmJrcDMzUTdONzBXZnZJdG42S1RMRERYS1g0QWxnejBzY3R2ajR1S2lXNFpENll1czdHRXB0NXc3b3ZzTlhGckxod1Rmc2F4MXViUjNfZk80R19Tb3M4N0twUkFPWjVMTGk2anluYmVn?oc=5",
         "date": "Sun, 25 Oct 2026 19:19:00 GMT",
         "source": "CBS Sports"
-      },
-      {
-        "title": "Wisconsin Football Cracks AP Top 25 for First Time Since 2023 Season - Sports Illustrated",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNcW1SS19CUFVwbi12bEtvRTBBMDU3NzhLZTdKYTBWcmdEQnZJXzVXd1JwMXpLVTFkdnZWd3MyWG1BR1pSdmpiMTBzeUEwdjZ2RDFKdHdQMnpPZE1VdU9uZjY2anVJNVIzOENrTkFLb1B4WTNQbEVyNXEyM0NWNnZ5SG43MHNRc2h4TkhGdm9aVFRHejM1Z25vMUNmX1E4VGRpREVRV3h3R2J0bTZyX1pB?oc=5",
-        "date": "Sun, 25 Oct 2026 18:25:35 GMT",
-        "source": "Sports Illustrated"
-      },
-      {
-        "title": "AP Top 25: BYU tumbles below Notre Dame as Utah, UCLA rise in college football rankings - The New York Times",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWnhGUUgxeE1Sa1NUREZuanBaVFJ2a3N3YVdaSVZHMy12X3NjTWZHU2haREZxZkNhQmV2M2VzLWRXZGlXQXgzWUxISmRSai1MZkhMMFFWOUNBUUJRX3dFLVB6RjJYSmhYem9KSkF5YXFBRkVvTkVETXZuOFBsaVFlYUZSeGh5djZJTmZYV2J4UQ?oc=5",
-        "date": "Sun, 25 Oct 2026 18:47:47 GMT",
-        "source": "The New York Times"
-      },
-      {
-        "title": "College football winners and losers: Stunning falls from grace by Oregon, Michigan and others show farce of preseason polls - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQbDkxWUd2Y21taW5NX3ZSWnhUMXIyakotYWt3OU1TQmR5YUF4QTBySTB1a0o3WGtZLUlYUFpPVkZNM3hDb3c0VzJVSzVPU3F5RlRfb2tJYV9hSkI5Wld0M0RHTVRmM2R1MEpsUzMyeTNoR0RobW9yV0VpX3B3MndlU0tGM0RpUGtGV0phRFRNSTRRTlR3d2VFS1Z5ejlBNkRGRW41WFZ5YkExM2lEbjRNRVlONXg5R0h2dDZoeDJIandsdDhlTEdhdi1KTWpNRTNBNTBza3UwaXNvUGVDbG5DWVg0SjJKcXU1cnVDbkJDT1g3S2pVUzgwaWMxUEhGdGN2LW51aExqRkxrdVlXSEVKUDh5RFE?oc=5",
-        "date": "Sun, 25 Oct 2026 02:18:00 GMT",
-        "source": "Yahoo Sports"
-      },
-      {
-        "title": "AP Top 25 live updates: Every team changed except No. 1 Miami - AP News",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5YNko2Qkl0a3JtV1plVHc5SXNHY3VQVjhLbkVDQ2RKdE9XVzE1RmpGOHlBalVVYXRSSzhwNWo4XzlKb0JzSXhEZ0U2SUROVGNVREtpSDhXb3lvZVJndzRUcjFZSW80ajJWS2tIOVFpaTE?oc=5",
-        "date": "Sun, 25 Oct 2026 19:15:00 GMT",
-        "source": "AP News"
-      },
-      {
-        "title": "College Football Rankings: AP Poll Top 25 after Week 8 released - On3",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVjY3OHFGZHlUUXJTcTRXZ1ZZSHJMWEh2RWRwbHkxSmRpMm41TlA2UHlmYUxRV1hrczB3SUk2Vnp6NXM0RXZ3b1NHb2ZnQVFlQkdaV3VZUG5WMEZoc3pzLTNwaTNjRjZKTGNLTURLSlNnMkI4ZDVESjkwbWliOU1IdXF4R2VPNXJXblhQdEVyWnRBUQ?oc=5",
-        "date": "Sun, 25 Oct 2026 18:04:59 GMT",
-        "source": "On3"
-      },
-      {
-        "title": "2026 College Football Rankings Top 25 Week 9: Expert picks, analysis, AP projections including BYU, Utah - NBC Sports",
-        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOMEhRT3NHNmlUaGJPRnRpVTJjcTlncTFFcUh5RXpNNXVOMVZVZ3lFOGxCZ0ZScklSbW9DendNejJWSE9TTy1qdmhqYVU2a1VBcXB4aVhrV0pYRGcwb1FEUm5VbkxhdVZKNFpPYlNac1VOTEV1MDBFanlIVG0za2JwaUdiM0czakVuOFBnUmN0ajFqVWRJenJBLVpPX2JwNW5tcmV0dHo1QVJZVm5VOG53dDN6cVFDYW9lcHZvVEQtWnVzSFd2R3Z1TWs3dGI4UHVpVTNhLUpR?oc=5",
-        "date": "Sun, 25 Oct 2026 13:37:42 GMT",
-        "source": "NBC Sports"
-      },
-      {
-        "title": "Live updates: More big changes in the AP Top 25 - FOX Sports",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdFFvbFUxQ3JsT2FVVG1IaUtkdWFkMFpqdVRqRG90ZzdzZ0sxTE1EYTg1cHpwc1ZiMmtZQ2JqRWNLLWNSTXpWNVd4d0FNRHlYYnFfYUIxOUxvaFFDM3ZUdTlNenFGaF9kb0s5aUd4Z25FeHRlU3RmWnFvNmpZaF9CRFB0bTZFMXpGbGttM3p3?oc=5",
-        "date": "Sun, 25 Oct 2026 16:28:25 GMT",
-        "source": "FOX Sports"
-      },
-      {
-        "title": "College football rankings after Week 8: Updated US LBM Coaches Poll, AP Top 25 - USA Today",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWUd2MTVIc3Q4NmJ6TDhoc2VzMFNzeVhjMktndkhHM0hoUGdDbFpEV0tOdHcycTRfWFA1Ul9wREdScFZCSVdpYU1vQ0x6bjRXUTBpYkpSZy1GbVpWWURUMjZoN0FkWkJWMEhKeEdlR2JFbDRoSlBNZzNITzVFSEZZMENvTU9WUk5hUmo1c2NmdUluYUlTSmZ1TFNlTWtJSTJwRnZFeUtucGY5aFpXOGJTTnUwN3FyRlJ0MEdSVTcwUW0?oc=5",
-        "date": "Sun, 25 Oct 2026 16:40:47 GMT",
-        "source": "USA Today"
       },
       {
         "title": "College football Week 8: Live updates, schedule, scores, rankings - NCAA.com",
@@ -295,6 +241,60 @@
         "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQLVN6MWg4bDVLOVVyRjg3ejVjcW85QmRGaTlnMHZMcmFrMUpNTDBTaV9GRkVRcU01bGxCS1B6NnNKTFB4ZUlKQzRVZHVfWE00UzRPd0pGYzB5R3FzYjduM2YwQzFZYVV1ZEM4T2h1b29ibkVmc2NQVjBicnF0bWlXdlEydkJEYThSR2t1SWUwZFBBcFl5N3I1c0o4WTN1X1Jh?oc=5",
         "date": "Sun, 25 Oct 2026 06:50:00 GMT",
         "source": "ESPN"
+      },
+      {
+        "title": "Tomorrow's Top 25 Today: Texas vaults back into top 10 as BYU, Texas Tech fall in college football rankings - CBS Sports",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTTF4UG04ZHdRZkFuYmlGTkxoODBjM3RkcGwxM2JicDJpOTlVV2hHV1M5MVpjaHhvWF90bHBGTkFRUU8wYnZhNUV3NVJyOEJqSDdaUlU0ZmU0dWQtcmswU2RrUzMxc0JJZzY0UDU1MHJlclhPYmluR0pTbjUwQXAyOGxvRDZDbEdlYzJzczdHWHBPMHVuMnNOS1F0UFlCYWxObVRPUDJ2WEw1TW9TaFN4ODY5Z2ZKak95OFZwYw?oc=5",
+        "date": "Sun, 25 Oct 2026 04:59:00 GMT",
+        "source": "CBS Sports"
+      },
+      {
+        "title": "LSU Enters Top 10, Michigan Falls Out Of AP Top 25 After Week 1 - FOX Sports",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQX1pjMU5tcGd3RXhTamRiZ1hlWEh2VHBaSXFHMU1tbWtvcWh2eHR3OWhRdHdOcGI2ejNYTEFwMWN4eXBFZ2c4SjlCR05FMTFEb3c3aHgydVJmajJaWjhueVptUi1MTW40RUZfcGZqMmdiaTJBRi0wNUtCbW1HRjhtb1RKZ2w4YVN1eW9NSG5mWGdMcVh1NVlMd0c0UDhaLTVBQjNDZHN1ZlRObHkyTWs00gGvAUFVX3lxTE55ald3b1o3U3JNMHFrVV8tMWhlNEx3NHpQd3ZVeVBkYzlTWkYwTWRac0VFZDRfTGR4NVBlQ21YS2RwV2VBek9JOS1hUjR3bFBaM1dsZ1ZmQTcwYW56SGJHQVdYdHNIRUpTcEZuX0VjV3NHY0JaTy1ueUxnQ053elI0QkJRRi1jSkR2aWhGSXAyTkVaeXV4VG1JWGlWRVVJRG5uYnUwVXdtNW01dmZMRlk?oc=5",
+        "date": "Tue, 08 Sep 2026 07:00:00 GMT",
+        "source": "FOX Sports"
+      },
+      {
+        "title": "AP Poll Prediction: Projecting Top 25 ranking after Week 7 of college football - On3",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTzNxa1d3Q1E2WUNZUi1GempKdTd1cmNJYmU5ZGNYb0lzTFI3Z0lteS1JRThRbDZGN0treVFGNTR4SWR4ZDNsQ1BMaFVJbHVNZnZlcVB2bzh3RVpoTG9pSXk2aUNOQ1cyVUpnX0tBalotS0kxemlkWGJhaHpZZ1FDZTBpbzl4QU9ITnVaU1FIMUZMYjJDV1VzQ1I0d2tvWTJBUjlfNVBsc1Y0dzd0?oc=5",
+        "date": "Sat, 17 Oct 2026 07:00:00 GMT",
+        "source": "On3"
+      },
+      {
+        "title": "College football rankings: Projected AP Top 25 after Florida, Mississippi State arrive, Texas and Oregon prevail - FanSided",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxORHRNOE1KRXlJVkNtSmJfNHhfZkJoZXNZSlhfYjI3ekV5ZHFicWVFdFZqcXFPbDYxOFAzU0ZwMk5JRXZRT2FMQ0podGU2aGFOdjFuY1ZZTzdZSml4UUJMdzAxb1QtN0lkVnBER19ReDF6a2x0QTR2Vi1Ecl84eXZyaEc4UTJmSkRCYUtGMnpMb1lmd2EwbkQtV0NBYmVpZ0pCUUk5Z2VjbUhBLXZOOTBaalprLUtDS3N1UHlEZEFMbXMwcXJBNGlTR0NvX2h0bkdSTkc5Vnp5V3hRZU05aW1lMw?oc=5",
+        "date": "Sun, 27 Sep 2026 07:00:00 GMT",
+        "source": "FanSided"
+      },
+      {
+        "title": "AP Top 25: Ole Miss moves into top five; SEC has 10 teams in poll - Chattanooga Times Free Press",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNzhFQk90QUx2by1oSHpDUGc3bGUzb1lLTkxTOFpyLTZiRVZsREl5cjl1cWg0NWxpRjhWMHFiTm44dTNrOWNHeDBwYUlNdG05Y2VfRktfTHNpcElCVFBPQ0tRalFJQ3VMalVRclgxa2tmV1BCQjNPWm5teEFnWV80ZWtaOHNpNDRDRHhFbWRrNFBNd3BqeDF0R28xV1JOTTA?oc=5",
+        "date": "Sun, 20 Sep 2026 07:00:00 GMT",
+        "source": "Chattanooga Times Free Press"
+      },
+      {
+        "title": "College Football Rankings: Projecting the New AP Top 25 Poll After Week 4 - Sports Illustrated",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZ2l5NTl2M190NHZKZkc5ZkZaV2F4M1dBU2tKRkdabTFteGdDZ3dKZlA5M1pTMWVHTWl3U1A0T3VQc2VFV0pKbS12Nk1kSnVVUUZUNjhuRVhwazU3NV9mNlI2RVc3SWk3cHJxOWhYaHh2Q183Rl9DMDhYSXJJT0huMW5ndzJsV2JvTFZtREFZMWtLTldxT294c2lPczlETVBtZno3RU5pdi1SNHo3SmN1UA?oc=5",
+        "date": "Sun, 27 Sep 2026 07:00:00 GMT",
+        "source": "Sports Illustrated"
+      },
+      {
+        "title": "Projecting the College Football Playoff top 12 after Week 6 - ESPN",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNc21qVTFUS1J4YUt0OHpMekE5bHJ6a19NUFhTRllqZ2hGTW81Si0xeG80Ymp4LWpoVlBIc0tzd0JMckxCZDhHeU05Rnh0b1BsbWFoMlBfUUJjTXJGMVliTmw3Nk55TFUyWVNDWXRCRXBfcE1HNFV3V0dTZ3g3YWpxcl9uREp3allwUHdFdGcxTHQ1R3BEcHlWeTlFNVI1RjBjeVloN1hqNGZmTExwYURRYWd3?oc=5",
+        "date": "Sat, 10 Oct 2026 07:00:00 GMT",
+        "source": "ESPN"
+      },
+      {
+        "title": "Updated AP Poll: LSU moves up in latest rankings ahead of SEC matchup against Kentucky - 247Sports",
+        "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQbWZIdUhvR1FDVzNibU8tc25GdFktQVQzVENUbUVWc3Z6NjRSTDhTM0pNSHd2eGhaYmlvT2ZlSDVyTXNMZ1pCWjQ0UzVCT0c3VWExazYtTy1mcVFaTFVNZXZBNXF5YUdsVTVDWHpHT0RPYUJhWnlkcC10MWJRRklBMEFWY0ZsMVlzRFRyWFcwdjhFQ2RpQ3J3UWt3UVpUUl91MXlwQy1kaG9paEZmS0plOV9fX3VNcy1QWUdIeVhoUDVwMzhXb011TWxkQjk0VjBHa2lDV0NZTmY1MGp5bXhaRmpBaGhMLVhpLTI3Ymt1WHZuQQ?oc=5",
+        "date": "Sun, 04 Oct 2026 07:00:00 GMT",
+        "source": "247Sports"
+      },
+      {
+        "title": "College football Week 4: Recaps, highlights, rankings and scores - NCAA.com",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTDRDN3IwQThRZVJkckthNGlUcTc1V0JXYzh6VDJOY1NiZE8wTzdtaG1IQy1EMEZzajhoWFNLb1hfZmRSM2hBOE1TbjQ2d2pCRThNMnZhenhrUzduYktVdUJQR0E3MVRmRnRHcGpwN2VPVVZLYVMxS3gxcGZmNmRCWVRrcERiTnRvdndYX1dBMXQtbVNqMmktNTlLMTl1eGoyNUprYkNBZUdkSkFj?oc=5",
+        "date": "Sun, 27 Sep 2026 07:00:00 GMT",
+        "source": "NCAA.com"
       }
     ],
     "lastz": [
@@ -325,7 +325,7 @@
       {
         "title": "Last Z: Survival Shooter Codes (October 2026) - Pocket Gamer",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9YZDBXek9NSnI3bmF4eDBVT3dFdTRGWkRuQzAzTzJ3elItbVFOMlZPUnAwM2lQWGZtQVh2aDVpelEtT01BcHhxUkF3dXYycDc2UmNRamZoZFU1cnpwWlhDby04QmIwd0FwOGc?oc=5",
-        "date": "Sun, 11 Oct 2026 07:00:00 GMT",
+        "date": "Tue, 12 May 2026 08:31:12 GMT",
         "source": "Pocket Gamer"
       },
       {
