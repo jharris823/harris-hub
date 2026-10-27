@@ -1,13 +1,7 @@
 {
-  "updated": "2026-10-26 11:54 UTC",
+  "updated": "2026-10-27 11:43 UTC",
   "feeds": {
     "comics": [
-      {
-        "title": "Valuable comic books: Top 10 most valuable comic books of all time - Just Collecting",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbHlKXzIwRUxobjlobzBYclpoNk82S2VzNy1EQ21tUmZLTUNqRmZzVTdIeXJGeksybGxreDRlWE1rbWFHNHRMLS1VM1NGYnowTll0Z3ZCMGxGVjBiRVBsSktOamVTcllsdjVSZHlyWnZDRGNaRVk4eERyV0VXVE52eUpxcXg4TjU0NW5OOXRMT212OUh1SXpoeFdwYW9ZSzQ?oc=5",
-        "date": "Wed, 05 Aug 2026 07:00:00 GMT",
-        "source": "Just Collecting"
-      },
       {
         "title": "Jim Lee X-Men #6 Cover & Frank Miller Daredevil Pages Sell At Auction - Bleeding Cool News",
         "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcGRKYnptODMzN1JXXzlNYVZQVmV1elpoSG0zQWJ1U01hcjF5MmlXUXh3VWpaVllNaHlFek5GNFo5MlppcDhILUw5ZHZpd0wxLTlBQkJjMl9BQW1HUklEV2hXZ3lORDJWcXBOdTMybUgzb25DWmVZRzdyRmRpZHJpdmFmME9QYXB6WUY0SU82SllnM0FUbWZPbHQtbkNNcllG?oc=5",
@@ -15,46 +9,16 @@
         "source": "Bleeding Cool News"
       },
       {
-        "title": "North Texas auction house presenting original artwork from some of comics' most legendary artists - WFAA",
-        "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQZEtNLVd6dVVjZFMzb29lWFN0V3NZLWhBaE1GWFNqNTQ0WDdVa3B5WGdoaDhKVGJaaktUUmNXVHNjNmdFNDBZU19JS2ZCYWxTRjQxZUlfV2l4M0tsVGhjRW1IdElMWER3blJNRllzdnhSWXBoVG5MLW14d3FyeW8yb2ZxWDJEM3dOUFRGOWotLWpHUFBkalFlUmlZZzlVeU92U2FOOGN6LU5CSWgyNjJrdnN2TDlJR094MFlNa29TSW9qZnBIeGNOdUlwSEJkeVhCZW5jRjJCZ2szTXcxWXFXMkw4WWRHY18xTkxWbkhGZTlFc3J4NVU3ZkZjVFN1TlhCS0lIdlZ3?oc=5",
-        "date": "Sat, 28 Feb 2026 08:00:00 GMT",
-        "source": "WFAA"
-      },
-      {
-        "title": "The comic books selling for millions - The Times",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTTJna1A2NTJoSm96a3J5TU5Oa3l2RTBxbDhUUHJYTTNSTml3Vi1lS3F0SnM4anFUYXZZVzJ3ZTRwcV9vTGZfT21xdE5HanZYQjBDNXVqZE94Rl9XWTBwRjU5N1huUzFGRnFVTXBwQU45QXJjOEI4TnU2LUc5STBMUHlSa09OSW5sRUoxNGtJaFlqSHlUckt0LUU2OGdpWndY?oc=5",
-        "date": "Fri, 21 Nov 2025 08:00:00 GMT",
-        "source": "The Times"
-      },
-      {
-        "title": "Highest Graded Copy of Sheena #1, Up for Auction - Bleeding Cool News",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNSXBTVTZtaEdjQ1RZUVdTd1VzcjJrTXo5Qk1veGpvQ1NIajB1a0x4dF9GSzRqY2xRWTNHOUJBM2lZUEVURWtjSzFHOW9RcXFwbkU0ekhjUF8tNUhJVUdIWFNZc2lIa1h1cGtOVS02ZXpCSEp4SWctWHZQaFJ6UzktSHVrVnp4dw?oc=5",
-        "date": "Sat, 19 Sep 2026 07:00:00 GMT",
-        "source": "Bleeding Cool News"
+        "title": "Valuable comic books: Top 10 most valuable comic books of all time - Just Collecting",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbHlKXzIwRUxobjlobzBYclpoNk82S2VzNy1EQ21tUmZLTUNqRmZzVTdIeXJGeksybGxreDRlWE1rbWFHNHRMLS1VM1NGYnowTll0Z3ZCMGxGVjBiRVBsSktOamVTcllsdjVSZHlyWnZDRGNaRVk4eERyV0VXVE52eUpxcXg4TjU0NW5OOXRMT212OUh1SXpoeFdwYW9ZSzQ?oc=5",
+        "date": "Wed, 05 Aug 2026 07:00:00 GMT",
+        "source": "Just Collecting"
       },
       {
         "title": "Batman Vs Superman in UK Comics Auction - Arts & Collections",
         "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZFdiWl8za3VJeURDM3FfamRQTnZESUFpY3lwTmFQc3NZUFVZUGpRRXM3Y0VKaWZLbUhDQ2U5QlZKMHk0V1JHUC05R2N1dVlZUlhkT1FOVEpfMlYwc3RldDJyZEJORC1BZVR2X1ltNldkUGwwSGFwcTJ4MEE5S3FSQg?oc=5",
         "date": "Thu, 30 May 2024 08:49:59 GMT",
         "source": "Arts & Collections"
-      },
-      {
-        "title": "Batman #1 and Superman #1 Break UK Auction Records - Dark Knight News",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVThaLU96RHhyQmpCZnM2ZlNCYXBIV0o2ZnFiWUpsRVJYQjk1ZzFuQTFRbDdCQzhCOEhqQ09Oc1NicWRnd3BoMmJrSEVpU0tMTFhlMnplbVlIM0xSVDVsNWJUeDhSWWNsaDhNaU9ta1ZvNUlUbmZaeTBjdkFOUExXcTlPWDhMVmU0aDBSdEVuT1Q?oc=5",
-        "date": "Mon, 10 Jun 2024 07:00:00 GMT",
-        "source": "Dark Knight News"
-      },
-      {
-        "title": "Going… Going… Sold! - The Daily Cartoonist",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1BTWVESWZBUE9NOF9PRXVpUGo5TXRUcjlaOUJHZEhsWGEtOUYwckktTXFTREJzM1BqMzRpUUREeEI3SnV1dTJsd3U5WjFXZ0pqNmlzUXNoNzBIUFV6TTR2SXVmZEtfMWQzMWRRVjQ4NExielFqMXp0YnFR?oc=5",
-        "date": "Thu, 24 Oct 2024 07:00:00 GMT",
-        "source": "The Daily Cartoonist"
-      },
-      {
-        "title": "Wonder Woman comic debut sold for $1.6M at auction - Fox Business",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVDJqQUpaakZTeHJ0STZRVzEwbmMwQmtCMFBuaXh2OW9Qek5mVVJtbi1oYXdodXRTZDRJaUw0V1R0MmN1QV9veVZLMjB5b0l6X3RnN0hFNHpvdUlwUm5nNlBKT1Z4Vm1SY1hzQ3Y2OU5DdGNHamVfWk4wYW1nek9wYUs3RG5Ha0nSAYwBQVVfeXFMUGpSbnVoaW1hOWd0aC1KYVgyREM3ZngtWnZQcENGYUdvOU80RFhYRUE2N3g0U2htTjR0eE9LQU1RRi0ydktKUXVlcVIwbnJMRWd2T0VmZFc1WW1lVnYtZmlsd1FHRWhQQnVtakZOSzZKQ0NQRDJVN2RjbnktWnNUcm1DUDlTWnQ2ZlFlMEs?oc=5",
-        "date": "Thu, 23 Jun 2022 07:00:00 GMT",
-        "source": "Fox Business"
       },
       {
         "title": "Rare Comics and Comic Art Auction - The Detroit News",
@@ -73,6 +37,42 @@
         "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdFBmZkFfMUVoQ09iRG5TNFpVXzdXaVpHSU1OaEpOVjlWYUtUak15bldfeW4tU2NIdlFSVzlaZ05udGFycXdpOGw0Vllmb0tlNWZxVXBfU2ZWcUYxSGIxX1JSWE1lVC1kbXdZNXRhcVZXeWlfUzg5Qmh5Nk9SckdURHZqbkh2cmh4QjRtM05ibi1rb2t2S3RTS2sta0JpU1JScGtz?oc=5",
         "date": "Sun, 09 Jun 2024 07:00:00 GMT",
         "source": "ABC News & Headlines – Australian Broadcasting Corporation"
+      },
+      {
+        "title": "Superman & Batman vs Comic Publisher in All Funny Comics, at Auction - Bleeding Cool News",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNHhIVGt0eVVLWk5RbkJFb3pzbmQyalFtQUxqbGZMcjloakx4U0puSmgzQ29CS19uVElUQXdySzVNZ196SGYtd3VCUGwtYTNTN2trWDRTTzNqX1ItUzl3WE5KMFRJclZ1TjAtQjU1WjNJdGZhUnRHdkZ2dG5ydTRpR0Q2NWVzQkt5ZTk1eEZaS3hJamxBUU5HQnFCb2ZDcjQ?oc=5",
+        "date": "Sun, 19 May 2024 07:00:00 GMT",
+        "source": "Bleeding Cool News"
+      },
+      {
+        "title": "Collection of every D.C comic book ever published to sell at Sotheby’s - Just Collecting",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPaHJ3U0Z6WW5wZ3I1TFVGakdIYnFWZzJlUTZiTFE5MnUxSzlpXy1MLWFDT1ljTG9jWVU4ajNxWjlwRHg4SUctQVBLdEVTel9uc20xTmNJSUw5YmFCYWZiRlBybTFGRkhDTjR6VFRNODI3a3c3QXlVM2NJV0d2X0lSNXBIeHdGWl83ekxRN2F1SFZlRUh4OTlqbTJqV3JYQQ?oc=5",
+        "date": "Wed, 01 Apr 2020 07:00:00 GMT",
+        "source": "Just Collecting"
+      },
+      {
+        "title": "1st Green Arrow, Aquaman, More Fun Comics 73 to Set New Record Tonight - Bleeding Cool News",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNd1hwWFN4VEpWMzV4UlJaU2VNLVFhWTBfV28wUEdzX3Z0a09oX1UzTFpfSGduQTRWNk92cnotWWpjUFVBZk5OVGl4dkZlYnZwMXBtZHNnTHczazVvSXg0ZG5iOG82QXdFOUViTDhqa2dIN1NGWlJmVnVmdk9NYWxyMUhOdC1EdGpNeDRtWEtwV1NYajhHU1VWQ0xRWnhaVFdUVE1Z?oc=5",
+        "date": "Tue, 16 Sep 2025 07:00:00 GMT",
+        "source": "Bleeding Cool News"
+      },
+      {
+        "title": "Politics and Punishment on Krypton in Superman #65, Up for Auction - Bleeding Cool News",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNzBtZ2NEdHBlT1J4S0ZadFNmU3RUZjF5b25PZmM2VDhiYjJyVEpYV3I5cHNGTV9UOHNrWmlQdUE3Z1F5clM5bFJEa0ZVTDRrNnp5MmNkWVFMVGJMeEFyZUJiYzFoZlg5c05aRGVQaFBjekJESlBoOUFvRWlpMllWLVlhWFExQjhWZFlZZXROSS1VUHZiOHZTbkZGUzBrQQ?oc=5",
+        "date": "Sun, 24 Oct 2021 07:00:00 GMT",
+        "source": "Bleeding Cool News"
+      },
+      {
+        "title": "Superman comic book value: A guide for first-time buyers or sellers - Just Collecting",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNM2JXSm5KWWdiNkxHWnVFTHRFVk5VZ3hrbFZGeFU1V2ZLMXVNZjlsakRnSEtEWkRZaDRQR25QMTBoMF81Y1k5WTN3bGdPN2tyd0xONEE5QjdvWEtEOTFjMUFVUU5yRHgxSzduV1RqVm83ZEtXTjVrUmVJbUlVaGFOVVlnR1hPdURFYVVfSGt2TU9BdWE2aFdsTUNmVGFJMlh1?oc=5",
+        "date": "Thu, 06 Aug 2026 07:00:00 GMT",
+        "source": "Just Collecting"
+      },
+      {
+        "title": "In 2011, a man opened his late great-aunt’s Virginia closet and found 345 comics; the collection includin - The Times of India",
+        "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxORXlBbnZpS08tUmpraVlHNW9oclFScDd6a3VhZVF4aVJaaTZpbkhick5iTVBEYm8wcHVhYjhIejR0bUp4OFkwamRkZHZ3TV85LUVMRzBETVd3SVlWcHJyOWpUUTJCeHdaZE56c05XTF9MNGN5RVZnN1Ezdk4zdGZNZVQ1OVFUR2daRk5RdmJoSW9GZ0VHMkEwRFVJWmI1MkphNkJNRDN2NlYzemN2c3pzd24xYUR6aGdkdG12N2p0N1F5OTJMUU94T2VqRGFsYlpMSFpIVGVfUFZDYUEyMkFDeW1mVFowREFDM0RaVFRxWWNPM0hwcEVBb0xpRk95WkI2VlZXUUUzdHc1ZHg0ZFNsem5VS3lOVU9la250eHIxZ1NJaHM4dWh3MW5kQnptb2RZaEHSAbcCQVVfeXFMTzZ5RHVSUnEzdTl0RXN1dWpDQ3pFWTFfZFNmeXN4X2V1UGU3UWhXSkxVYm1DSHJMd2xvMDVfY0VHNXZHNGNfZm04RC1GU1FyRTdsSk1qZEg4dlBYWm5HT1UtQnh3RkExTk1WUlZzdndyVEJvYUtRd09hdlhkbUdsbXFTVkZ1alZReFV5SFk2SkFuZVc5czFCLUlKZWNNTjl0dlMzNnBseE5aT05BM0R1RFNsRmVEY1N5cm1lMVh3RjVzanp1bmpxc2hidGhpLXBURkpjV2FWVjR6c0xVQkI5ZlBDRVpYb1ZNNjZXb2VYUkhuc1dGbWYweVhSaFVWT3VfNkxCUGxzQzhHRURZblBFS3BOMWhJakJvZkJzTzF2Y0QwZkk0bDR1cVViRjhwOGN4RGpEc1dYTVU?oc=5",
+        "date": "Wed, 16 Sep 2026 07:00:00 GMT",
+        "source": "The Times of India"
       }
     ],
     "research": [
@@ -101,16 +101,16 @@
         "source": "Partners In Health"
       },
       {
-        "title": "The U.S. Government and Gavi, the Vaccine Alliance - KFF",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQN2VkTU04Q0JnOERYTGVpczNIQnV1QnE3RFJsN1ZtVHhzM2ItVFJDLW5ZMTFxTmdNVHNTcDVlcERMUmtqbS1VeHEyMHdsendIOUFvMWlJSE9BcTNNNVF6YTNWdkJmSVFWMU1JWjZkdlRHRVNQYWcwYUZvbENoVHlpVWh4LW9lNHgyYS1XVlV5OA?oc=5",
-        "date": "Mon, 04 May 2026 07:00:00 GMT",
-        "source": "KFF"
-      },
-      {
         "title": "Researchers Dispute US Government's Upbeat Data About PEPFAR’s Impact On HIV - Health Policy Watch",
         "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdmdqaWt1VTNXeVpjLXotX2VlTjhrNS1iUDcyakZkTUYtT0ZscXZ2bm1aU29EemNZVnNzc0twWU5ITDhGN3dkdWhqSDN6MDBqbmNjeWNZT21oZ0FNUzZyX3RQTmhFcUZyLUpnaTNsNlV1V1FRU04xTWFaWnNxRTdMT3JuV2R0TjdqeXJEaWhGbFNyTFE5VFpabUVvakVjVUhvX3FoWFFhekV5U1U?oc=5",
         "date": "Wed, 22 Apr 2026 07:00:00 GMT",
         "source": "Health Policy Watch"
+      },
+      {
+        "title": "The U.S. Government and Gavi, the Vaccine Alliance - KFF",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQN2VkTU04Q0JnOERYTGVpczNIQnV1QnE3RFJsN1ZtVHhzM2ItVFJDLW5ZMTFxTmdNVHNTcDVlcERMUmtqbS1VeHEyMHdsendIOUFvMWlJSE9BcTNNNVF6YTNWdkJmSVFWMU1JWjZkdlRHRVNQYWcwYUZvbENoVHlpVWh4LW9lNHgyYS1XVlV5OA?oc=5",
+        "date": "Mon, 04 May 2026 07:00:00 GMT",
+        "source": "KFF"
       },
       {
         "title": "Rolling Out the Trump Administration’s Global Health Agreements: What Can We Learn from Past Government-to-Government Assistance? - Center for Global Development",
@@ -151,16 +151,34 @@
     ],
     "scifi": [
       {
-        "title": "The Ark: Season Three Premiere Date, Trailer & Poster Released by Syfy - TV Series Finale",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQc2FURkVFV2pzSlJxYlgyU2M1TmZWRHdxb1dQTldTV2hNX3BCWUp4cDFqSEw3azg5Vy1OTHJQWnZKdDBYNkgtZldPNkV4N3dCNnlWZDJtbGtjaDdsenRDNGRib1FycEttVVJ2OUYxLUJTanRQSzZZYk5WQUpwdXBLOW5Xc0RxVmlLRnVYa1FObW9lN0JzWTBlUFNaZ0pRQmxBUzk1X9IBqgFBVV95cUxOU25rR1RlbW1MNkZWdVdCTG1SVF8xakExcWNGSjdBdkJxWXlQQTJLa1o3UldaT1JFVHJ2OGxMWlp6RURMQzNqVDEzWGFhMk5WQ3RTT29WV0I2eDcxYWk2OFY4NUJtRUtlbnppMFpmRkNZamRSZENuVDJDR3lJMUtac3ZRdTBzR1cyZGdqZHdMZ3ZmangzX0g3VDZGMFRXYU1WVG9rQmllYWRUUQ?oc=5",
-        "date": "Sun, 21 Jun 2026 07:00:00 GMT",
-        "source": "TV Series Finale"
+        "title": "Upcoming space & sci-fi TV shows for 2026: Star Trek: Strange New Worlds S4, 3 Body Problem, Vought Rising, Blade Runner 2099 & more - Space",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ORkZBTFNfbzZrN2N6Uzh2VEN4c2ZLRE5pQUZRVVlXaWRlQnN4dVhZNU5CQXFKd3RBVkwtUWdfUWkzemFYcUJNT3d4clljN1NyNzRqYl9iVVhYZw?oc=5",
+        "date": "Wed, 22 Jul 2026 07:00:00 GMT",
+        "source": "Space"
+      },
+      {
+        "title": "SYFY's final (for now) original sci-fi series is finally coming back - and it's well worth watching - Substack",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8weWRhUWFIVUF4eTRtdjBteGd2VTJsWGxINlp0TElXMXVIVmhDdS1ocVRiam1aUmRvZjI0ZU53VjVRalVPVmFwcTQ5ZkJfY2szLW5zZ1JzVWZ0LUNJVi1hT0xyMmtOLTJBRV9TSURRM1BQaXllaVc3eg?oc=5",
+        "date": "Sat, 20 Jun 2026 07:00:00 GMT",
+        "source": "Substack"
+      },
+      {
+        "title": "'Alien: Earth' Season 2 First Look: See the Cast Behind the Scenes - TV Insider",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQjBDSkFzb1Q1R1F6RHJ3TmtuV2Z3bWdiZ281VzBCQktrVzRTQ3VjZ1NlQnprUFY0dWZ5cWhuRGpGbDRwWkx4WGtlQ1dXWHo4dEx1SS1qdXNRVEY2TlhDY1ZKNnliY3ZaVkJDcnFfVVF5NTIwSnJ2b3hmN3RUMS1IZ2FrNWdmSDVLY01va05TYTJ0dTBTUjNDV3RIVy1hdU0?oc=5",
+        "date": "Tue, 15 Sep 2026 07:00:00 GMT",
+        "source": "TV Insider"
       },
       {
         "title": "All of the Cancelled and Ending Sci Fi and Fantasy Shows from the 2025-26 Season (So Far) - Cancelled Sci Fi",
         "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZDlkVWlHWDNUUjM2LURSRVllWGcwRFZlcWxzenVZMTRLMzlOU1F3dWFjNWRtOWRVV1pzTHhZUkZEM05naUVDdXlyOXpINWFCVGMtN2wzZ19DR1NVeU9RT25Kc0tSbTVrN3ZNQzJ4NVJIUnhEalVzS2dMM0ZhT0xjUDdYNTBDcEZrNU1tazF2Z1hELTJDZXMwZk1QMGwwUWsySXpXTUFQdklVYUU4UDBYVzlPRXBFWEVINk0tc3pDd1pEVGp0UXdGQmdn0gHKAUFVX3lxTE1kOWRVaUdYM1RSMzYtRFJFWWVYZzBEVmVxbHN6dVkxNEszOU5TUXd1YWM1ZG05ZFVXWnNMeFlSRkQzTmdpRUN1eXI5ekg1YUJUYy03bDNnX0NHU1V5T1FPbkpzS1JtNWs3dk1DMng1UkhSeERqVXNLZ0wzRmFPTGNQN1g1MENwRms1TW1rMXZnWEQtMkNlczBmTVAwbDBRazJJeldNQVB2SVVhRThQMFhXOU9FcEVYRUg2TS1zekN3WkRUanRRd0ZCZ2c?oc=5",
         "date": "Fri, 22 May 2026 07:00:00 GMT",
         "source": "Cancelled Sci Fi"
+      },
+      {
+        "title": "15 Best TV Shows Based On Sci-Fi Books - TVLine",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1XRFo2YXFFTHpDVGp0a0o0UVZ5UFQxVWNWRlQydlV0azh0TUZLUUhmcUkzMHNfeDA0dXllWktVUjdmYTVQUzhZU1B3NElYSGhoaVJ5Sk9nc01OV3FNNkNHeklNcDQ4eDAxaFhydU4xaE9pNFpVR1E?oc=5",
+        "date": "Sat, 26 Sep 2026 07:00:00 GMT",
+        "source": "TVLine"
       },
       {
         "title": "6 Sci-Fi Series Renewed For 2026 That You Should Binge Now - JustWatch",
@@ -175,55 +193,55 @@
         "source": "Winter is Coming"
       },
       {
-        "title": "‘From’ Sci-fi Horror Series Renewed For Season 2 By Epix - Deadline",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSkphVFdnaURrd05Nbkt4Nzc2LTBmc3hmNWoxNk1kcE01YTNnWVdjSkQ0SXBkczZUMTFKTkNRTkl1cHFGLTA0al91ZzhYV1FoU0JtaGYzc0RYSkQwbmp6VnBtYlhIQXlQVnRNSHhvYzR0UEVyT09HZnk1OVhCM3REQWd1OWxQQ2ZKeS0wMw?oc=5",
-        "date": "Sun, 24 Apr 2022 07:00:00 GMT",
+        "title": "20 New & Returning Streaming Shows To Look Out For This Summer - Deadline",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQQXFyNE5ycUV5ME9sbGo0bnBYazkxblV1a1pKbjBTbldZdkhMTHFaeW00X3hYS0Q3VUVxaVpJbFhoN3ZUQW1hdzRwVnRzNDk4NHlwMFQxQWNDZlBrZ0Y5Vnkwc0poR0JncGx5OE1pb1AySjNoVFg0TFoyTTVxUjY4Sg?oc=5",
+        "date": "Sun, 12 Jul 2026 07:00:00 GMT",
         "source": "Deadline"
       },
       {
-        "title": "Apple TV’s Biggest Sci-Fi Series Ever Gets Official Return Update - Collider",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOYzFzel9PMGZNcG80eG9XakxnclVXS3dSMlJsNU5NTFFURUhBVTllODVheXJmQV9vWXJ6c2hlbmVPZ3NNWWJpeExGNDR3UHFGLWNpQ0dTVHV1V2Jpb3JqQWFRdUw4YkxibHBMWXlOY3Q3aDNraHZkSmJPTDR3NzlBSGlSWmR2SzByVC1feHlnYjgyVmUy?oc=5",
-        "date": "Fri, 14 Aug 2026 07:00:00 GMT",
-        "source": "Collider"
+        "title": "New Sci-Fi TV Shows (October 2026) - Rotten Tomatoes",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNU0lVeFVISGdfTFY5bXFEYTd5WjlnYjlDQ1E3VUZtMVlBYktLemEwLUt5bDlFUkNDQ3Zyd240amZOS0FicmJrRFp5Wlg2ckIyTVJ6QU9UOVRNVWFwNXFuOEpfRmFaUndub0RfdFY1Y1prTmQ5NTRvUE1XUWtWZE1nbHJyQ1F0bVk?oc=5",
+        "date": "Sun, 08 Jan 2023 04:17:22 GMT",
+        "source": "Rotten Tomatoes"
       },
       {
-        "title": "Apple TV+'s Underrated Sci-Fi Show Gets an Uncertain Update on Its Future Amid Renewal Rumors - Comic Book Resources",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBUazNPeGZZXy0xVmtjRjJvNGQtdEUzV001U1l5MnNsTnhOak03SlVLbE5qTmhaTTV6dGE5Y2tMZnd4WFRVLW14WVJmUjFSZkJJZU52MWlILU84bVRsMUpHamtNRlk4SzZidmZZNmNsOE5YUQ?oc=5",
-        "date": "Fri, 04 Jul 2025 07:00:00 GMT",
-        "source": "Comic Book Resources"
+        "title": "More Missions to Come! SYFY's The Ark Renewed for Season 3 - Everything to Know - SYFY",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9qLXdMVTFrenFabWtDU0tIVGI5OXZKYnZhZFNGOWFOeFF0cGotblVwaWEycHBxNGRfS0tkSEtybURtTGtXVDlBcXBqLUVyb3FwSjREakZmSVIybTF6bEdtUGNsNjNMU09paGxoTTFMemVXc05ENkE?oc=5",
+        "date": "Wed, 05 Mar 2025 08:00:00 GMT",
+        "source": "SYFY"
       },
       {
-        "title": "'Alien: Earth' Season 2 First Look: See the Cast Behind the Scenes - TV Insider",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQjBDSkFzb1Q1R1F6RHJ3TmtuV2Z3bWdiZ281VzBCQktrVzRTQ3VjZ1NlQnprUFY0dWZ5cWhuRGpGbDRwWkx4WGtlQ1dXWHo4dEx1SS1qdXNRVEY2TlhDY1ZKNnliY3ZaVkJDcnFfVVF5NTIwSnJ2b3hmN3RUMS1IZ2FrNWdmSDVLY01va05TYTJ0dTBTUjNDV3RIVy1hdU0?oc=5",
-        "date": "Tue, 15 Sep 2026 07:00:00 GMT",
-        "source": "TV Insider"
+        "title": "3 Body Problem Begins Production on Season 2 - Netflix",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBoZHNWMDRJNEEtc19RRlcwVXlSS2p3YVg4eGcxb05nZ3dIMUdRdXdRZS1JM0F0UG0wdU9UN2FjN3NNSW5JX1VuZWZYdDk4WjZOVHJNM3V3YnlpWENnZGhEcjFZbVU1ZXk2NDdrTzNR?oc=5",
+        "date": "Wed, 15 May 2024 19:16:04 GMT",
+        "source": "Netflix"
       },
       {
-        "title": "Apple’s acclaimed sci-fi hit “Dark Matter” renewed for season two - Apple",
-        "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPbEZkTGRXa3FaU2FMNmVVR1ZEdWtpNGxpUWNzNEZNWjF6QUxzWmFaeS1LOEdZVEFZb3RmVm0tR3BvZHRHMERDdDV2MllaN1duZHhxTm9SOEFNWXpzU1h0enZFMmM4andtXzdLaE5STi1DeU9vSkl5ZkNmT3E3UHZrTDRmNjZmLUtITHhkeWJHSHo2ZHZhb3g3dENzMW4tRTBBallfenViM2tQVlU2MEJFQUpQZTc3eTZRZHlzcGxFeHVpOEJFUkEzVWRIckNrSlJVU2dMVW5wNmtvc1JyS09YYlFmT3YwMEZkaVhTZThHTTJ6UU5Xci1COTUteXpTTjA?oc=5",
-        "date": "Fri, 16 Aug 2024 07:00:00 GMT",
-        "source": "Apple"
-      },
-      {
-        "title": "‘3 Body Problem’ Season 2: Has Netflix Renewed The Sci-Fi Series? - AugustMan Singapore",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOeVFSSUhSV09uWFo1bTRxNG4tMHdZaGVqTzBtZGp3MzdMVXJTQkVBVm13aXFPYXJjbTJBZTQ4eWFNNU1PcjRmeEpxR3JtUGxKT2ZDaDZqVkZSUTY3cHVkZ09naGVVc29QLTFPZGlheWF1OGtQWUw2eVpDbjY5OFFCZWU3cFZkNlY2bWJQZnZ3a2l4MlNXN2dIQ2pGV09JUdIBowFBVV95cUxOcy1SY0FDTVRuNi1VR3ZoNGhEbkxmQ0x4eS1XSWI2SjBCdnd4VU1CYXRrZzlYN0FXZ242bDB2OWpHdXF2ay1TQ0FwYmVxbWg1eDA1SVA0UEtwZWVpN2ZCNWZjb1c0MTdLVTNseFZIdy14NlBjM3V1Q0ZLQzlvYXhaczBMbWNrTWNFRkhnMDFSSE5tTF8zb2tXSUU5bGk0UVA0Qno0?oc=5",
-        "date": "Wed, 28 Aug 2024 07:00:00 GMT",
-        "source": "AugustMan Singapore"
-      },
-      {
-        "title": "Silo: Season Three; Apple TV Unveils Premiere Date, Teaser & First Photos for Sci-fi Series’ Return - TV Series Finale",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNRjBsSThXa0RRNExyRGh6dk1ZLXpjdURnNXdPcEVGc3NGM2pMTFNzcXptSmEwbUVmYnJSV243aHg0bHhHQklZOFJOSXlTNWFGWllUWlV2VjVrb2tUTTRCWFFOQlhabm9XUDctcTZwTHdUQkRKN2Y4TUFUSFhSZU5mV0FPVXo4cmRzU21hcVZBZkVBbl9WVlcwWXU2Tkw3M09JYURGUjVEVWRqVGNqOE9SSjFXcXFFSXhhREZDWGVVdFJoVElfR3ZBd9IBzgFBVV95cUxPUHVQemxnZ2ptRUlmUWM0ZmxnUnFid3FmTXBvQTZPZDc2V243RXZaUFlLRW5vbWJPSE81czRmSEFXYzlMN1c2SWpHNEVSQzRvck5ERGNHb3ZPSFpZQ3hSVWltOW9idmZpUVpaX3YwZHV3eU16amREaEhuRzFBMTFmWlYzNENoZFM1VTFDU2t0OVVfS1BxeVRKaDZNZm1iUWlrRDNkT0ZQc0l1NFN2dkE1UjNhcDQ4b2RlMThvWGI0VzlsWDRnaWNTekl1UkNRdw?oc=5",
-        "date": "Wed, 22 Apr 2026 07:00:00 GMT",
-        "source": "TV Series Finale"
-      },
-      {
-        "title": "All of the Cancelled and Ending Sci Fi and Fantasy Shows from the 2024-25 Season (So Far) - Cancelled Sci Fi",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxONGc3cFBTZzRYY0VKckdoc0FQSWp1Ykp5WlM4QU5JMnZHZ09Pa0F1NE1YSXpIUDFFNGw5X04xaG1TX2ZXQ2Izcl9BN0lDNFRwOWRXZkNmUGdQTFlPZDQ3b0pRaGczOXRlaGU4REdCZDlSRUNnUmtyVnQyd1ZoeWM1YlBXei1RemRQeWhGbVdabkhjR25Kd3RrcnNiZU9WWnc3MkppMXNKd1ltc2FveGtTUXItaFU5MVFtZmRJMUVzdmg4dWpEWlozblZn0gHKAUFVX3lxTE40ZzdwUFNnNFhjRUpyR2hzQVBJanViSnlaUzhBTkkydkdnT09rQXU0TVhJekhQMUU0bDlfTjFobVNfZldDYjNyX0E3SUM0VHA5ZFdmQ2ZQZ1BMWU9kNDdvSlFoZzM5dGVoZThER0JkOVJFQ2dSa3JWdDJ3Vmh5YzViUFd6LVF6ZFB5aEZtV1puSGNHbkp3dGtyc2JlT1ZadzcySmkxc0p3WW1zYW94a1NRci1oVTkxUW1mZEkxRXN2aDh1akRaWjNuVmc?oc=5",
-        "date": "Mon, 11 Aug 2025 07:00:00 GMT",
-        "source": "Cancelled Sci Fi"
+        "title": "'Carrie' renewed for season 2 as part of potential 3-season plan - WLUK",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQWV2NzgwVUJVX1NvOTBKV0lzM0pGcUNYNG82SzZSanJsSzU1cDZLeW1VRW1veXdiS25QMDZDYUQ1MnhSVnd2b2hoMzVqVWxLSGFVQXF1YnN0Nmtpc2lRQTJqa3pRVFBzcFJVWW5kTEliY19LRHh0MTNocXFlZUF4YzlSNkF0Nk40M01YV1Nwa0l3a3VZdDRqbW9ndEstYmV1aGZHX2s2eUU?oc=5",
+        "date": "Thu, 22 Oct 2026 19:02:10 GMT",
+        "source": "WLUK"
       }
     ],
     "sports": [
+      {
+        "title": "AP college football Week 8 poll reaction: What's next for Top 25 - ESPN",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNcnJ3YlpVanFzZUg4U2lzYk9kWG1WZVhXaHlzN0JFWElUTmg4akRKNUszMkVuS0t0WEs5bUpaMUs0NkhSR3NNdTktdlhac3poQUdOOTNlRVpQUGZaSjNhMVBGa2gxZEdCTkFGbFI0OEJBdGF3NlN1MHBBbFVTdi1LTEJLVmtTVkFNZXk1d3dIekxKclNsNHRRa21kdEdKbVZDVkZSRFFzaFVSbjN4OWRR?oc=5",
+        "date": "Sun, 25 Oct 2026 19:00:00 GMT",
+        "source": "ESPN"
+      },
+      {
+        "title": "AP Top 25: BYU tumbles below Notre Dame as Utah, UCLA rise in college football rankings - The Athletic - The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWnhGUUgxeE1Sa1NUREZuanBaVFJ2a3N3YVdaSVZHMy12X3NjTWZHU2haREZxZkNhQmV2M2VzLWRXZGlXQXgzWUxISmRSai1MZkhMMFFWOUNBUUJRX3dFLVB6RjJYSmhYem9KSkF5YXFBRkVvTkVETXZuOFBsaVFlYUZSeGh5djZJTmZYV2J4UQ?oc=5",
+        "date": "Sun, 25 Oct 2026 18:47:47 GMT",
+        "source": "The New York Times"
+      },
+      {
+        "title": "Week 8 AP Top 25 Poll sees Big Ten gain equal footing on SEC and unbeaten Utah earn major respect - Fox News",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQ0MwQ2JHVlEyY0Fyb0Iwa0stZDFnRVk0dkk2UVB2MUQ2TkhEbTBrQzZQdXM0RTFDX3VjTWpNTlNlSWd4TkVTbUltS0Ezb21yWUw5eDlpZnVydzJqMnRPdlY5dUxPYlhjYWZHMkZLOG13b2FNQ3dqRmhsRGF2NGxoMng1YWJnYlRUYTVSRGh2dWhXdVBaakdOX0V3VUlwZUNCYm9RTHJ0WWpJeEhOZjN3YUZxalJ1Zm1XQlN6NUpRdGtPZw?oc=5",
+        "date": "Sun, 25 Oct 2026 19:18:14 GMT",
+        "source": "Fox News"
+      },
       {
         "title": "College football AP Top 25 rankings: Some marquee wins have aged well -- others, not so much - CBS Sports",
         "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTzFLTmFzcWZoQTNjcmJhemRSTU1fUlJ0MDhmNXlsa2xmQk1ZRUFEOVVpbmJrcDMzUTdONzBXZnZJdG42S1RMRERYS1g0QWxnejBzY3R2ajR1S2lXNFpENll1czdHRXB0NXc3b3ZzTlhGckxod1Rmc2F4MXViUjNfZk80R19Tb3M4N0twUkFPWjVMTGk2anluYmVn?oc=5",
@@ -231,10 +249,40 @@
         "source": "CBS Sports"
       },
       {
-        "title": "College football Week 8: Live updates, schedule, scores, rankings - NCAA.com",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPS2FVeEV0dUd3RVZfX25ueDZ6RE0ycVZzTURfUjB3VzVUbDBLa0VEUk95V0ptTWR6M3doazJiOERzRFgzQ1pCTzlSd1pOTFgwTnhVS1V1LUN0a21qR3FJQnNlM1I0dEowVjBZM3NxTkpJb2dFMFhkS2JYelVIN0ZzZHFhZmxWMnZnLTZMakJ1WVZPUWRWX2FWWWVXNUtfVHhfeWF2TTQ0OUhCTnM0?oc=5",
-        "date": "Sun, 25 Oct 2026 03:13:43 GMT",
-        "source": "NCAA.com"
+        "title": "AP Top 25 Rankings for Week 9: Texas Jumps, BYU Sinks in College Football Poll - Sports Illustrated",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNT2w1ZkNTTGkzSDlOd1F1TVh3blZHRWNERHBZTkJBTFI2SWJjWUthZUd3UXA0TXd0OHliakNmbll4TU8tbVVtR0J0dm1aMFFnSG9BVXc4RkR0amlNVmJ1YU5VVGdYLXlveDVXb3FVTC1wUFJpOUdYZDU3UDloQUdQb0RKNW9oR2dTaWM3TmJ3RVdTN2pWZTZiSzNad0w0V1VtWEE?oc=5",
+        "date": "Sun, 25 Oct 2026 18:17:12 GMT",
+        "source": "Sports Illustrated"
+      },
+      {
+        "title": "AP Top 25 live updates: Every team changed except No. 1 Miami - AP News",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5YNko2Qkl0a3JtV1plVHc5SXNHY3VQVjhLbkVDQ2RKdE9XVzE1RmpGOHlBalVVYXRSSzhwNWo4XzlKb0JzSXhEZ0U2SUROVGNVREtpSDhXb3lvZVJndzRUcjFZSW80ajJWS2tIOVFpaTE?oc=5",
+        "date": "Sun, 25 Oct 2026 20:42:00 GMT",
+        "source": "AP News"
+      },
+      {
+        "title": "College football AP Top 25 rankings 2026: Voter reveals Week 9 ballot - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxObDhoeTdmd1lRSTJSMlNsVm8wbnczczhaMVk2Zm1oanJ4QmFwdW9zbVlhcVF1WHhKOGVMaHdRa0dRc1dWOFQwY2RxdlJYd3F2aS1YekRUMDZWVW54WDctTFlkc2JQeDBBNExwUUZXRkVtZEVqNTFOcGdVdGtUTWg3UA?oc=5",
+        "date": "Sun, 25 Oct 2026 12:15:17 GMT",
+        "source": "Yahoo Sports"
+      },
+      {
+        "title": "Badgers ranked for the 1st time since 2023 after big win - Bucky's 5th Quarter",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPQTEtSmFhSGVtTFQyTnZBZW1hb0dXVjZOSnY2SFZyUWN2QUJUeno1WHNmS0RZNlBRTmFiWHR3OHQtLW1ka2FOTFdzWkdnRXZabmg1MHZSR2xNMjZkTGlPNDA1dWVkVlcwU2gtMlpUXzg2cjRpbVFvUlJoMlhQZDZGMGhWb0h1amtDMTdMV1kwRjBwZjZJMTFGVGFJOFFMM3FtR2VfZEhYNkYxbWw2aE1EaktBcDI2SWtsRzc2RHBNcHctRzdRUXBoRWlEUHZWUmVLdUZ3YS1Ia2dLODRnY2Z4Zl9JaG8?oc=5",
+        "date": "Sun, 25 Oct 2026 19:28:34 GMT",
+        "source": "Bucky's 5th Quarter"
+      },
+      {
+        "title": "Updated AP Poll: LSU moves up in latest rankings entering the bye week - 247Sports",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPN1pDc2VUS0huQVp1OWhpbm9GUUJtRjBjWk1ib1BfT3JQRGVCSTYzZ1FrRzZxSUV1aDZsLTU4aFNoR0t1YndUdmxmRFdOb0FseV9EUTBONF80X3N3SS15WTVLRkkxY3NkNW1BVHZ4bXFIUlc3OGFUV3FTSnJMbEl1V1FPQmdEazBJMG1fay1ZYjhHeUNIZ3E5SldMQUt2YkZiTkNseHFoLWRDM0taX3h0QzQwSGdsVm45WlpqOTBaOHphSkk?oc=5",
+        "date": "Sun, 25 Oct 2026 18:28:52 GMT",
+        "source": "247Sports"
+      },
+      {
+        "title": "Riley: A new No. 1 emerges in my latest AP Top 25 poll as three more top-10 teams lose in Week 8 - NOLA.com",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQUzlTSHZxNklKVnlCaE9ZcXAwSUpNTWZsS2VmUmlFOG5nWmxOMVFxdU5tU2JQTy1EcEZtOFgtTmtMeURZbjNiZUE0eHhMNmtINlNaRnp6eUhSLWdUZFdpdlBSaFgtVFlHLTNnNzh6eDF2Yl9mZVM4LXAtaEFfMnBBeVBVdnlCMENpc2x3Q00xU0FsWGFJZFRDQ294UVBtbTVXQ0E2NTNJLXk2eWlrc1U0TlljQTIwNXh1VjJ0V2FSRzhtRHkzRlFGM2hhU3HSAdIBQVVfeXFMTi1EQUVqZ0g0ckQyQnFldkh6YjNEdml0VGhnUlluOUl6NHhkY0xxUGltRzQ2NEJGQnVkVlJYNXhDRjFhWWgwNkVOdFBjUXhLV2lnX1c0UnYtWU04VkdNMFV2TWg0cGdaRGMxWkloUW9mYk9XZUliSWV0RWcwNk03WXZXc0Mtek1MSHZFemYtaWRzdVc4bWx0LXB0NzIzd19sRkNCeVZCMHZFbGV5bmlyVEc1dU5CZ1NrdmJyenNaX1F3QW1CZTJ6OFU0eWgxTGRaSnhn?oc=5",
+        "date": "Sun, 25 Oct 2026 15:00:00 GMT",
+        "source": "NOLA.com"
       },
       {
         "title": "College Football Playoff top 12 projection after Week 8 - ESPN",
@@ -247,63 +295,9 @@
         "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTTF4UG04ZHdRZkFuYmlGTkxoODBjM3RkcGwxM2JicDJpOTlVV2hHV1M5MVpjaHhvWF90bHBGTkFRUU8wYnZhNUV3NVJyOEJqSDdaUlU0ZmU0dWQtcmswU2RrUzMxc0JJZzY0UDU1MHJlclhPYmluR0pTbjUwQXAyOGxvRDZDbEdlYzJzczdHWHBPMHVuMnNOS1F0UFlCYWxObVRPUDJ2WEw1TW9TaFN4ODY5Z2ZKak95OFZwYw?oc=5",
         "date": "Sun, 25 Oct 2026 04:59:00 GMT",
         "source": "CBS Sports"
-      },
-      {
-        "title": "LSU Enters Top 10, Michigan Falls Out Of AP Top 25 After Week 1 - FOX Sports",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQX1pjMU5tcGd3RXhTamRiZ1hlWEh2VHBaSXFHMU1tbWtvcWh2eHR3OWhRdHdOcGI2ejNYTEFwMWN4eXBFZ2c4SjlCR05FMTFEb3c3aHgydVJmajJaWjhueVptUi1MTW40RUZfcGZqMmdiaTJBRi0wNUtCbW1HRjhtb1RKZ2w4YVN1eW9NSG5mWGdMcVh1NVlMd0c0UDhaLTVBQjNDZHN1ZlRObHkyTWs00gGvAUFVX3lxTE55ald3b1o3U3JNMHFrVV8tMWhlNEx3NHpQd3ZVeVBkYzlTWkYwTWRac0VFZDRfTGR4NVBlQ21YS2RwV2VBek9JOS1hUjR3bFBaM1dsZ1ZmQTcwYW56SGJHQVdYdHNIRUpTcEZuX0VjV3NHY0JaTy1ueUxnQ053elI0QkJRRi1jSkR2aWhGSXAyTkVaeXV4VG1JWGlWRVVJRG5uYnUwVXdtNW01dmZMRlk?oc=5",
-        "date": "Tue, 08 Sep 2026 07:00:00 GMT",
-        "source": "FOX Sports"
-      },
-      {
-        "title": "AP Poll Prediction: Projecting Top 25 ranking after Week 7 of college football - On3",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTzNxa1d3Q1E2WUNZUi1GempKdTd1cmNJYmU5ZGNYb0lzTFI3Z0lteS1JRThRbDZGN0treVFGNTR4SWR4ZDNsQ1BMaFVJbHVNZnZlcVB2bzh3RVpoTG9pSXk2aUNOQ1cyVUpnX0tBalotS0kxemlkWGJhaHpZZ1FDZTBpbzl4QU9ITnVaU1FIMUZMYjJDV1VzQ1I0d2tvWTJBUjlfNVBsc1Y0dzd0?oc=5",
-        "date": "Sat, 17 Oct 2026 07:00:00 GMT",
-        "source": "On3"
-      },
-      {
-        "title": "College football rankings: Projected AP Top 25 after Florida, Mississippi State arrive, Texas and Oregon prevail - FanSided",
-        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxORHRNOE1KRXlJVkNtSmJfNHhfZkJoZXNZSlhfYjI3ekV5ZHFicWVFdFZqcXFPbDYxOFAzU0ZwMk5JRXZRT2FMQ0podGU2aGFOdjFuY1ZZTzdZSml4UUJMdzAxb1QtN0lkVnBER19ReDF6a2x0QTR2Vi1Ecl84eXZyaEc4UTJmSkRCYUtGMnpMb1lmd2EwbkQtV0NBYmVpZ0pCUUk5Z2VjbUhBLXZOOTBaalprLUtDS3N1UHlEZEFMbXMwcXJBNGlTR0NvX2h0bkdSTkc5Vnp5V3hRZU05aW1lMw?oc=5",
-        "date": "Sun, 27 Sep 2026 07:00:00 GMT",
-        "source": "FanSided"
-      },
-      {
-        "title": "AP Top 25: Ole Miss moves into top five; SEC has 10 teams in poll - Chattanooga Times Free Press",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNzhFQk90QUx2by1oSHpDUGc3bGUzb1lLTkxTOFpyLTZiRVZsREl5cjl1cWg0NWxpRjhWMHFiTm44dTNrOWNHeDBwYUlNdG05Y2VfRktfTHNpcElCVFBPQ0tRalFJQ3VMalVRclgxa2tmV1BCQjNPWm5teEFnWV80ZWtaOHNpNDRDRHhFbWRrNFBNd3BqeDF0R28xV1JOTTA?oc=5",
-        "date": "Sun, 20 Sep 2026 07:00:00 GMT",
-        "source": "Chattanooga Times Free Press"
-      },
-      {
-        "title": "College Football Rankings: Projecting the New AP Top 25 Poll After Week 4 - Sports Illustrated",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZ2l5NTl2M190NHZKZkc5ZkZaV2F4M1dBU2tKRkdabTFteGdDZ3dKZlA5M1pTMWVHTWl3U1A0T3VQc2VFV0pKbS12Nk1kSnVVUUZUNjhuRVhwazU3NV9mNlI2RVc3SWk3cHJxOWhYaHh2Q183Rl9DMDhYSXJJT0huMW5ndzJsV2JvTFZtREFZMWtLTldxT294c2lPczlETVBtZno3RU5pdi1SNHo3SmN1UA?oc=5",
-        "date": "Sun, 27 Sep 2026 07:00:00 GMT",
-        "source": "Sports Illustrated"
-      },
-      {
-        "title": "Projecting the College Football Playoff top 12 after Week 6 - ESPN",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNc21qVTFUS1J4YUt0OHpMekE5bHJ6a19NUFhTRllqZ2hGTW81Si0xeG80Ymp4LWpoVlBIc0tzd0JMckxCZDhHeU05Rnh0b1BsbWFoMlBfUUJjTXJGMVliTmw3Nk55TFUyWVNDWXRCRXBfcE1HNFV3V0dTZ3g3YWpxcl9uREp3allwUHdFdGcxTHQ1R3BEcHlWeTlFNVI1RjBjeVloN1hqNGZmTExwYURRYWd3?oc=5",
-        "date": "Sat, 10 Oct 2026 07:00:00 GMT",
-        "source": "ESPN"
-      },
-      {
-        "title": "Updated AP Poll: LSU moves up in latest rankings ahead of SEC matchup against Kentucky - 247Sports",
-        "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQbWZIdUhvR1FDVzNibU8tc25GdFktQVQzVENUbUVWc3Z6NjRSTDhTM0pNSHd2eGhaYmlvT2ZlSDVyTXNMZ1pCWjQ0UzVCT0c3VWExazYtTy1mcVFaTFVNZXZBNXF5YUdsVTVDWHpHT0RPYUJhWnlkcC10MWJRRklBMEFWY0ZsMVlzRFRyWFcwdjhFQ2RpQ3J3UWt3UVpUUl91MXlwQy1kaG9paEZmS0plOV9fX3VNcy1QWUdIeVhoUDVwMzhXb011TWxkQjk0VjBHa2lDV0NZTmY1MGp5bXhaRmpBaGhMLVhpLTI3Ymt1WHZuQQ?oc=5",
-        "date": "Sun, 04 Oct 2026 07:00:00 GMT",
-        "source": "247Sports"
-      },
-      {
-        "title": "College football Week 4: Recaps, highlights, rankings and scores - NCAA.com",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTDRDN3IwQThRZVJkckthNGlUcTc1V0JXYzh6VDJOY1NiZE8wTzdtaG1IQy1EMEZzajhoWFNLb1hfZmRSM2hBOE1TbjQ2d2pCRThNMnZhenhrUzduYktVdUJQR0E3MVRmRnRHcGpwN2VPVVZLYVMxS3gxcGZmNmRCWVRrcERiTnRvdndYX1dBMXQtbVNqMmktNTlLMTl1eGoyNUprYkNBZUdkSkFj?oc=5",
-        "date": "Sun, 27 Sep 2026 07:00:00 GMT",
-        "source": "NCAA.com"
       }
     ],
     "lastz": [
-      {
-        "title": "Whiteout Survival codes (October 2026) for free resources - GamesRadar+",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5DNWtuY3RobUo5RFZPeVpqSXc3VG1TZ2I4akNvTjQ5QnJXNmFNOTZGaERBc21ZbzFYUkRaOFBrcHdPcTg2bnRzZi1vTHc4UXAwc2ptSF91cGkwYk1va0ZCcG0tVjR4S2hGTmxjWlA1SmRreFlmc0thRGpEVQ?oc=5",
-        "date": "Wed, 21 Oct 2026 14:20:30 GMT",
-        "source": "GamesRadar+"
-      },
       {
         "title": "Last Z: Survival Shooter Gold Bars: Price, Best Value Packs & What to Buy (2026) - topuplist.com",
         "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUUgxOGZDTzMxVU5ncmo5RkVkTXBldjQyNVR0dzJLVE1PTm4wVUpvVm1FenVtSGg2YzFWeFFTUzVDeU83MDRIbERYZXhLNmMzQ2haajRIMGMtZWJJMHpoMDdfNl8xRWFsb3dRVXFRY19KZFV4UTdCZU10STlnMlhsbFlHYndaMXZtTXNBYlF5a3RWWUlqcEczcnIwVXg?oc=5",
@@ -311,16 +305,10 @@
         "source": "topuplist.com"
       },
       {
-        "title": "All Pokemon Legends Z-A Mystery Gift Codes and Rewards (October 2026) - GamesRadar+",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOem1sODhaQWJRVHhaYzNGWW8yYlp2VlVBQ0E5bnZkWHluWm82UGszQkIxQjc3c0FWMldXcENvWldJXzR3QmlWTmMyRnUtcjBpV3IxVEZHRk9CR1NTY25tbVpBbjUxdHEtMXNNSWd5NFR5OWRuSEptc3ZGVERmTnM5dzVfbkJLVTQ?oc=5",
-        "date": "Thu, 01 Oct 2026 07:00:00 GMT",
-        "source": "GamesRadar+"
-      },
-      {
-        "title": "Universal Tower Defense Z codes for free Gems and Rerolls - GamesRadar+",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5zdUM5Q2JxMlFuMWlzOFA5MHlKVnM0WnVTSlcxVG1scHEwNVBLekNLckFWQUwyUmdKRmRibGVtcUVKamlGOURoSVVvVzJhYmN1bktxaU1USmQyN0tqbE4yREktejRlSnlXaGNaMkQ2cEJHOTZxYW1IbmtfTVo?oc=5",
-        "date": "Fri, 02 Oct 2026 07:00:00 GMT",
-        "source": "GamesRadar+"
+        "title": "Universal Tower Defense Z codes for September 2026 - Eurogamer.net",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9sYTQxTFRpVVVDWER6Wi1EaVN2WG1YT0N3UVRkS2VOT2ZnQ2pHSDBldjJRZUZpbVl0QmlSY2p3TGl3OEVjdzdtMThBa3NGaDc1clpmWGJrbFo5VHhzR0hqYWk4dkhWQQ?oc=5",
+        "date": "Wed, 02 Sep 2026 07:00:00 GMT",
+        "source": "Eurogamer.net"
       },
       {
         "title": "Last Z: Survival Shooter Codes (October 2026) - Pocket Gamer",
@@ -329,22 +317,34 @@
         "source": "Pocket Gamer"
       },
       {
-        "title": "Roblox Codes for All Top Experiences (October 2026) - Beebom",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0yam9fSEN1cnc1MGh0T3RCMFNyZi03ZzlxbGJBTXJTMjg2TlUtRHdBWEhhbmYyczdVdmtwbWVSX1dYSl8xZHQ4NjRZdDhSdG5Sc0gtTm5R0gFbQVVfeXFMTW5tNXFNTkNDU0hHX0I4X2xLNjhrcGpBN05ZcXFuenBMRXlwbXc5WUhGTHl3N2RHdnF2cTFCeXlaT3pPRVBMakYwYVZTMGlTb1ZkakRUY1l3c0V6TQ?oc=5",
-        "date": "Thu, 22 Oct 2026 21:48:32 GMT",
-        "source": "Beebom"
-      },
-      {
         "title": "POLY-Z RNG Codes (September 2026) [Zombie Shooter] - Pro Game Guides",
         "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1UUkVMQXA2d0p2aG1XUERIdXRfcjd0U0xfcEE0V3RoMGJmLWVFa0hRUTZFN015djRRT3RoYjFzNldGMUdWaGxWN29iRG9DNkxoSm5fWWQ3SVNHcy1Wbk96YTZEMA?oc=5",
         "date": "Tue, 01 Sep 2026 07:00:00 GMT",
         "source": "Pro Game Guides"
       },
       {
-        "title": "Puzzles & Survival codes: October 2026 - Pocket Gamer",
-        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9XMjNacnVHMnowNGdBclloVjgtUHZ1ZXRIRWpVOVFvUzFNLTh0M0tBaDlUQjQ2NVhxLWg3X3RxV2paQmt5Z01KYV9BRTFodDlOY3pmdkFZNGUzXzBZcENIcA?oc=5",
+        "title": "Magic Chess: Go Go redeem codes (October 2026) - Pocket Gamer",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0xYVhXakJOdk9Va1ZRY3NRclZJczZ2anhDQ2RXUzhyajc4enBJM2phN1Azem9za0hicFBZal90S2s3YUJxVWdrZzQxd1AxMEdmRjF2TmF5TjQ0MU81R1ZGZ0NR?oc=5",
         "date": "Sun, 11 Oct 2026 07:00:00 GMT",
         "source": "Pocket Gamer"
+      },
+      {
+        "title": "Roblox Game Codes [October 26, 2026] - Sportskeeda",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9Ma0pGWGxHb0NOQkpDN0VMbVNwb0NJeDZmaHU4ZlViZDlGVGVYOHpDdlpJbnNsU0NNUTBxV2Fva2k2bTFlU0tZdEN1T0g0VVI2RVhGNzU2Y0F2QnBYak5wbktFTGhSWGxMSjkwajQ1NA?oc=5",
+        "date": "Tue, 27 Oct 2026 08:15:15 GMT",
+        "source": "Sportskeeda"
+      },
+      {
+        "title": "Reminiscence Zombies Codes (October 2026) - Beebom",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBFS3VjcEhESzM2QUNIclVrN3FadXV1eWdHd1ltUGRCNXE5YUZMNi1pTGd2YUVaZjR3MVRyZjBmdGg1RXJfelBTbFdxeDdZTUEtdGNNMk5kVy0wQdIBX0FVX3lxTFBZb2c3cmZVT204cUZtNTJxOURTYjdRYVJOc3BDUjJoM1ZrNVVuMlRXVk13TkgyOXIxMTVTbUpRZ216WVlZOXBwb3ZOZVNUUEdyVUlPSHliTTMxX0ZQR29j?oc=5",
+        "date": "Thu, 01 Oct 2026 07:00:00 GMT",
+        "source": "Beebom"
+      },
+      {
+        "title": "Roblox codes list - free stuff to redeem today - Pocket Tactics",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1xZXJ1ZU5xaFQ3TnF2X3pheXJnYzhnb2RNc1pxYnVjWHFxTWhvbkZGaXV6UTBjQXhYLVVSZGUzSlA1Q2UwS19iaUlZR253WWUzejZyNGVYUHVhZFk?oc=5",
+        "date": "Mon, 24 Aug 2026 07:00:00 GMT",
+        "source": "Pocket Tactics"
       },
       {
         "title": "Zombie Waves Codes (March 2026) - GameRant",
@@ -356,6 +356,18 @@
         "title": "Last Shelter Survival codes: October 2026 - Pocket Gamer",
         "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9GdVl0UldPMExjMWJpVHJoeExMZ09EVVZkS2JJd19kQXZQdVZoQ0syaFlkWWxhY2I2SWFhZnN1bWNuMU1rdjJhMmdOUnNJNVk0ZGloRkVmdUo1cEJMMGhDbGFoZmV5TVE?oc=5",
         "date": "Wed, 10 Nov 2021 21:40:15 GMT",
+        "source": "Pocket Gamer"
+      },
+      {
+        "title": "Roblox Game Codes (October 2026) – 1200+ Active Game Codes! - Pro Game Guides",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBPZGRBdVN5ckw2LWl5RElpdGppYjgydlZpamJRVHRLVEEwNnZFemlCYm9RMmRyeWhCeGU0b3lBTWJFaXRTb1VmM2g5NWFNWDJaeUsyM0tfUlNyUXVxM19UaQ?oc=5",
+        "date": "Tue, 19 May 2020 23:11:17 GMT",
+        "source": "Pro Game Guides"
+      },
+      {
+        "title": "Roblox Codes - complete list of redeem codes - Pocket Gamer",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAxQU40cTRuX3FhbzJlNml0cXozU0dOaGVvRVJFWnJnU2lpX3ZXZEpCdUJuVlN5TERCNG1xU21nSkdQM0dSdGhhRVJteHFPdTdSZDFB?oc=5",
+        "date": "Sat, 24 Oct 2026 00:00:00 GMT",
         "source": "Pocket Gamer"
       }
     ]
