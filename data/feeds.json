@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29 11:50 UTC",
+  "updated": "2026-10-30 11:48 UTC",
   "feeds": {
     "comics": [
       {
@@ -33,12 +33,6 @@
         "source": "Arts & Collections"
       },
       {
-        "title": "Batman #1 and Superman #1 Break UK Auction Records - Dark Knight News",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVThaLU96RHhyQmpCZnM2ZlNCYXBIV0o2ZnFiWUpsRVJYQjk1ZzFuQTFRbDdCQzhCOEhqQ09Oc1NicWRnd3BoMmJrSEVpU0tMTFhlMnplbVlIM0xSVDVsNWJUeDhSWWNsaDhNaU9ta1ZvNUlUbmZaeTBjdkFOUExXcTlPWDhMVmU0aDBSdEVuT1Q?oc=5",
-        "date": "Mon, 10 Jun 2024 07:00:00 GMT",
-        "source": "Dark Knight News"
-      },
-      {
         "title": "Going… Going… Sold! - The Daily Cartoonist",
         "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1BTWVESWZBUE9NOF9PRXVpUGo5TXRUcjlaOUJHZEhsWGEtOUYwckktTXFTREJzM1BqMzRpUUREeEI3SnV1dTJsd3U5WjFXZ0pqNmlzUXNoNzBIUFV6TTR2SXVmZEtfMWQzMWRRVjQ4NExielFqMXp0YnFR?oc=5",
         "date": "Thu, 24 Oct 2024 07:00:00 GMT",
@@ -63,71 +57,53 @@
         "source": "ABC News & Headlines – Australian Broadcasting Corporation"
       },
       {
+        "title": "Collection of every DC comic ever to hit Sotheby’s auction block - New York Post",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMDlYQmQ5dXF2a1d3REwxOVlVazRMcjZJMjVmenUyc0VGSDkxblE1bTBLcURJRG9paFJGbXVVOGJUVGYwM1FLTnFIN2pGLVVZM0V6OG9FWGxiakhLd3NTTWdaY3JRVzNpYVd4OGJKbExzQVFLUWM1R21DZ05xQ0tJdlFJLXkzOGctTzVma2MyQXlBdWs?oc=5",
+        "date": "Thu, 02 Apr 2020 07:00:00 GMT",
+        "source": "New York Post"
+      },
+      {
         "title": "These Rare Superhero Comics Can be Worth Big Bucks - Remind Magazine",
         "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOM0FWcU1EVHM0YU9BV1pwSm85QzcxRjF3aTRJY3lDSDdTNjQwUFlOWDhFbTVDeFltQ0U4dW0xTENBSU9oeWhHMEZiNktRdU5MYloteHFlWDBXbEFROW5lZmJNbUx6LTZXQkpGV1o0aDJZODhXb04wam1UZ01UVzlBQkdEOUtFSXVqT1pMSHhnZmpzR2FoekppNXJsZGs?oc=5",
         "date": "Sun, 03 Mar 2024 08:00:00 GMT",
         "source": "Remind Magazine"
       },
       {
-        "title": "Collection of every DC comic ever to hit Sotheby’s auction block - New York Post",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMDlYQmQ5dXF2a1d3REwxOVlVazRMcjZJMjVmenUyc0VGSDkxblE1bTBLcURJRG9paFJGbXVVOGJUVGYwM1FLTnFIN2pGLVVZM0V6OG9FWGxiakhLd3NTTWdaY3JRVzNpYVd4OGJKbExzQVFLUWM1R21DZ05xQ0tJdlFJLXkzOGctTzVma2MyQXlBdWs?oc=5",
-        "date": "Thu, 02 Apr 2020 07:00:00 GMT",
-        "source": "New York Post"
+        "title": "Collection of every D.C comic book ever published to sell at Sotheby’s - Just Collecting",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPaHJ3U0Z6WW5wZ3I1TFVGakdIYnFWZzJlUTZiTFE5MnUxSzlpXy1MLWFDT1ljTG9jWVU4ajNxWjlwRHg4SUctQVBLdEVTel9uc20xTmNJSUw5YmFCYWZiRlBybTFGRkhDTjR6VFRNODI3a3c3QXlVM2NJV0d2X0lSNXBIeHdGWl83ekxRN2F1SFZlRUh4OTlqbTJqV3JYQQ?oc=5",
+        "date": "Wed, 01 Apr 2020 07:00:00 GMT",
+        "source": "Just Collecting"
       }
     ],
     "research": [
       {
-        "title": "Domestic Politics and the Future of Global Health Governance: One Year After the America First Global Health Strategy - Global Policy Journal",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPNFhxTjdQMUdSV1BlV0tYSzM4d0JTWHFHVE5jNVhuUmo0aVRiUzZQbVpEVHA0TE5QRDZtMnFNUG5JNE9LSEFGdm84NWRvVnBNcTd3cFJEYmdkX045WFlIdEY1TEJEcHk1dUNxTzBNS3RPWnlkTzU1Y1Q2NW9ub3RnREdkLU9ORjI4OGlBSHBSU1ZsdnZNbkdNaGgwZ2hFX1FpVDlUT1RZZ2ZZTkpSNTcxekpvY0VDckZHTVNKVjhyM2hscGcwUGtMX3g4TzFQdTg?oc=5",
-        "date": "Thu, 08 Oct 2026 07:00:00 GMT",
-        "source": "Global Policy Journal"
-      },
-      {
-        "title": "The rise and fall of One Health Policy - A power analysis - UNU | United Nations University",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbTliZFFZSVdaV3VvY2tSc0I4YWtNVWhWdEZyUHJkdVhOQWt0dHNQbDJQMlRNc3RjTS15UjlacnIwZ0FZWllDUmtfanY1SVp5emdoTWxCUVF0Zmt5Nl9BbFNSM3N3UEhCRkxVR1RkamYzNGxHdHZzMjZhWW9PdWR6WnlRRWZ5Nk1ETDlqYUdCdw?oc=5",
-        "date": "Fri, 03 Jul 2026 07:00:00 GMT",
-        "source": "UNU | United Nations University"
-      },
-      {
-        "title": "Donor Government Funding for HIV in Low- and Middle-Income Countries in 2025 - KFF",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONTh5OHdJaHVMRHdnX2FpckhMLUlWVHEyZGhXU3llV2owbWg5ckZoWU9HdXlKS3l0aGhqTnpDc0NTcGFtdUdUUWVXRUxFOVhKaXRyc3F4RGF1N0t6akRNa2dHUHJER2E1UjhmYjVBN291Y29mRlR0UHJhcWV6blJlOV80TXQxMmMxcVJMTWZ1VlQ2X3JRN3JLQmlsa3VLQUFNbE5TeHUzZFZKZXRSVXdPMHFFekJyYzFy?oc=5",
-        "date": "Mon, 27 Jul 2026 07:00:00 GMT",
+        "title": "The U.S. Government and the World Health Organization - KFF",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNkk2VHpTWk1PSGd5eXVfRmtMbVNfNG01Y1EybTZpUmJLTGdRTHE0cnJVa1gzWVBnWTl1S2RJOGJxVDJEMFhCM3hkRGFva2R3cXhtOHpHUS1XZ3ZCQlMxZERiU242OUxfazhlYVhTUWJNMUhmSUx3WHZuRVJWeDVNbEdOVy1CNENZby1XaFExQXN2V01QcjNJUU9B?oc=5",
+        "date": "Tue, 17 Mar 2026 07:00:00 GMT",
         "source": "KFF"
       },
       {
-        "title": "New Dashboard Tracks U.S. Government Global Health Spending - Partners In Health",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE94aExFMExKdjZqeTNha3VERmIyeXVlazMzNXR0cUNyWHpGRzBhWTIzNzJCRi1jdjF4eDhwdDJQM2JXN01sbXRsYVVqQ1ZvSzQ0UzM2WndPMXRpVENyUUdMZl84cEtrRk5kN1A3TkRkaEs1NjNLY01YbW1UYm4?oc=5",
-        "date": "Mon, 06 Apr 2026 07:00:00 GMT",
-        "source": "Partners In Health"
+        "title": "America First Global Health Strategy - U.S. Department of State (.gov)",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSXlySkt5NWY3VG00Vm1yUzFnc0VXRlN4bkR0TURPY3BmZ1BWUnY3aHN0R21oLWVOR1VfY3FOcG1UV1dGaE1tc2JJRjZfV1lfX3pvcHRkUEZmVURQUGVqUnNoTDdfanZlREJXQjQwY090dXlObE9sNTZYanhDdnEwZnlNWV9kSUc1R1BoTnNWYUEzNHhVNXotcGd6a2RZTnZZ?oc=5",
+        "date": "Thu, 18 Sep 2025 07:00:00 GMT",
+        "source": "U.S. Department of State (.gov)"
       },
       {
-        "title": "Researchers Dispute US Government's Upbeat Data About PEPFAR’s Impact On HIV - Health Policy Watch",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdmdqaWt1VTNXeVpjLXotX2VlTjhrNS1iUDcyakZkTUYtT0ZscXZ2bm1aU29EemNZVnNzc0twWU5ITDhGN3dkdWhqSDN6MDBqbmNjeWNZT21oZ0FNUzZyX3RQTmhFcUZyLUpnaTNsNlV1V1FRU04xTWFaWnNxRTdMT3JuV2R0TjdqeXJEaWhGbFNyTFE5VFpabUVvakVjVUhvX3FoWFFhekV5U1U?oc=5",
-        "date": "Wed, 22 Apr 2026 07:00:00 GMT",
-        "source": "Health Policy Watch"
+        "title": "Taiwan - Commonwealth Fund",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTjhyNVNHSUVUTjJpQ0tTRC12c1V1UlV4dGltdkZmT0J6c3Y1TVJZM3lieGVmWV9GOVhpemI2T1llVXNSbnJoMmZGWXd1U0lna0JHVl9LTEIxWWRLaXhIR2ZTNUxmdnZiSE5xb19uN3NhUVktYUNxbXZpc0ZQVExQeU9OUm5hcmpNSnd2cA?oc=5",
+        "date": "Fri, 01 May 2026 07:00:00 GMT",
+        "source": "Commonwealth Fund"
       },
       {
-        "title": "Rolling Out the Trump Administration’s Global Health Agreements: What Can We Learn from Past Government-to-Government Assistance? - Center for Global Development",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbFRqUllZRlpDaEIwVjZPUl9lUTZTNWJjZHIweExHUE1TTEpEbm1heHA5bkZNWThMUjhleFMtaVVlRGg2MFR2VFlEN1dqQW5mNjlsdnVySlpZeUVTdTUzQ3dzRmY1SkRRUzhUOXR2MjNQcmJHSzZTNG1Ya2RjaHREc0NNYXZHYTlMUzVUWDM2LTYtNkdrQ1U3RkwxV3dWbU9QS1ZTcC0tWkZUY1E0dmVGVW8wa3pQQQ?oc=5",
-        "date": "Fri, 13 Feb 2026 08:00:00 GMT",
-        "source": "Center for Global Development"
+        "title": "Global Health Politics: Multipolarity Is the New Reality - Think Global Health",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWmtjaFhTRlRxeEJMbFpHUDJCN0staWFSRUoxSVl2R0JTR2poUGZHVHFfaERFblA4ZHRiRHVsdThYQ1JYRm16cWt6OEg3VkhObnFuUmZ5Y3dyaGpKYWxhRnhRUkI3WXBnU0pDTTBXdDhUbDJ3YTEwQS1pXzNQWUVZLUNJSHlacTdtWVNpeFZaT25Sa3hP?oc=5",
+        "date": "Mon, 30 Sep 2024 07:00:00 GMT",
+        "source": "Think Global Health"
       },
       {
-        "title": "New U.S. Foreign Aid Emphasis on Government Partnerships is Encouraging -- If Done Right - Just Security",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxObkJfNGZVMnVhNy1NUkVXVEdmWXJNWkpMZkpzUmJDUFM3Q1FEUUdWSjN6VnhzLXY1TFNQVnhvVEpsTlg4emFGaGZEdlFKRmcwQUQxSkY3VkdUaDRCX3V4Qk1GVVFfUUpUMFlzMXBCcl82U1NKMmt2ZHZwNV9WRjVQSw?oc=5",
-        "date": "Fri, 13 Feb 2026 08:00:00 GMT",
-        "source": "Just Security"
-      },
-      {
-        "title": "'Health In All Policies’ Is An Effective Governance Framework. Why Have Our Leaders Ignored It? - Health Affairs",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNWVRrTGVIR29lQ3hoeFgxZXR0RUVINHBESThFcDZiXzB2SU9MbEZoLWN5TFBnTUZVS3VvU3JqM0xualluR3B6R18zVFRwTG15ZURNbEgzT1hzdmJGSGc5cUJJV1RCekpyNGxrb3hPNlB2aWtoVjNaTnpPOEhtYkt1Y3ozNHpNT0FLa2JYVHBkYzZjZmFMbTRXNlAzTk44YlYzU2MyY2J0d0ZuQlM0andFdGQ3enFydmhuVVVEWXBGTHlLNm1fRkE?oc=5",
-        "date": "Thu, 30 Apr 2026 07:00:00 GMT",
-        "source": "Health Affairs"
-      },
-      {
-        "title": "The U.S. Government and Gavi, the Vaccine Alliance - KFF",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQN2VkTU04Q0JnOERYTGVpczNIQnV1QnE3RFJsN1ZtVHhzM2ItVFJDLW5ZMTFxTmdNVHNTcDVlcERMUmtqbS1VeHEyMHdsendIOUFvMWlJSE9BcTNNNVF6YTNWdkJmSVFWMU1JWjZkdlRHRVNQYWcwYUZvbENoVHlpVWh4LW9lNHgyYS1XVlV5OA?oc=5",
-        "date": "Mon, 04 May 2026 07:00:00 GMT",
+        "title": "The U.S. Government and Global Health - KFF",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPR0duSmY4NmQxVS1ZMmVwUkpWNW8yNlBlNmpLN3J5LVFSSWlBTHk2dWdlZjU2eDNDdk9XbUlYX2tUenhiUVpEZ0JHMmM1WVNucUNTNjBVdEt4RzQ4NHdUMmI2R3VOWDQwYU5yMHFibkdwck9ObDU5SHZhQmxOTWJXeHU0WGQ?oc=5",
+        "date": "Tue, 15 Oct 2024 07:00:00 GMT",
         "source": "KFF"
       },
       {
@@ -137,19 +113,61 @@
         "source": "Commonwealth Fund"
       },
       {
-        "title": "Zambia pushed back on U.S. health funding deal to protect interests, government says - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPSE1UU09SQ3FIbk1qY194aUNnY0g2ek5SMng1emZZY2lnTGhYV2lhclQ2OVVrS05FMzg3VllRUE9XYXRtRG5rWk5ZbF9PZ1lseTZFWFFOQk8yRlNIeW9wUlZ1bm1mbllCN2NpVlZrSzFfb0E4dWtWQlJRek9EVlVsdHItTE9QTWktU2xjN1M2YVg2Y0JFcl9sLUxBdjFsUHEzczVKdmdfaGUxcENMYTdGWndTZ3lYcXdad3h5TjlaZWRFU1M0RVZSS2F5WGNJa2hBZUYxM0ROa19SczNMSXBoMGNVRTlrdw?oc=5",
-        "date": "Thu, 26 Feb 2026 08:00:00 GMT",
-        "source": "Reuters"
+        "title": "Release of the America First Global Health Strategy - U.S. Department of State (.gov)",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWjZZR1VpcHZPRURteHVYUnBndVlkVk1tN0I3X2RPWEVKZmVjNkJ6NU41WHBhRWp5RmswdFRqcXpMVEJFSVF2T2h4NU5Celc1Wk1tY1ZNRFdoMlNmZkNMbFBtWG05bmRNNmh4aUlSWF9JdEtZSWtwTE5oRF9WUG54emU1WXNOZmRSZVVlSVNSMGpaQm1ickF1MGpURGZ0MmZpcVJFR3lSYmticjJYazJvUFVwNFA?oc=5",
+        "date": "Thu, 18 Sep 2025 07:00:00 GMT",
+        "source": "U.S. Department of State (.gov)"
       },
       {
-        "title": "Global Health Politics: Multipolarity Is the New Reality - Think Global Health",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWmtjaFhTRlRxeEJMbFpHUDJCN0staWFSRUoxSVl2R0JTR2poUGZHVHFfaERFblA4ZHRiRHVsdThYQ1JYRm16cWt6OEg3VkhObnFuUmZ5Y3dyaGpKYWxhRnhRUkI3WXBnU0pDTTBXdDhUbDJ3YTEwQS1pXzNQWUVZLUNJSHlacTdtWVNpeFZaT25Sa3hP?oc=5",
-        "date": "Mon, 30 Sep 2024 07:00:00 GMT",
+        "title": "The New America First Global Health Strategy: Four Observations - Think Global Health",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeGgxa2tMQUd3QnBCSC04clY3OGY5VTl2c3VWX2RRWWZNZ0xDZXFLenNzYU5yU1RVWWhXQzJnajZNd3Q3dVNoWTNadnVGRG9rU2IxVHFBS05LUmZ3V2JleW54OEpDbGRncFVKV1FaTE03enF3WmMtWkN5ZkVDMDNMX3ZxOE5MSmxXTG42OU9kNTVxZnYwMkY2Nkd6ay1jUXRmS1JycE1KZ3g?oc=5",
+        "date": "Fri, 19 Sep 2025 07:00:00 GMT",
         "source": "Think Global Health"
+      },
+      {
+        "title": "The President’s Malaria Initiative and Other U.S. Government Global Malaria Efforts - KFF",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxORTlabzVld2NmUmNGczBkc3hOZlowczVaX2owcTlULXYwdXF1bmxJNFZkZldCNEFOZ2tGT2V6a2dDT3c0RWdlNkk4V1I4WkJ1ekgwSnF2SS13R0tqVzB4Mk5wYmduQ0g4czJnclZVX3dnYWxqWHJXWGl3czgzLV9DeFltc1VvbVB4X0hxSHN4QXptRmdoYkh3ZnBOUy11U2JWemZvSHA1SU9mSWdVRFl4V3VLN1dUV1lkcVB0SERIZjE?oc=5",
+        "date": "Mon, 23 Mar 2026 07:00:00 GMT",
+        "source": "KFF"
+      },
+      {
+        "title": "China - Commonwealth Fund",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNWF5dHpNekpHY1VqMzhoVi1iZG00X21qN29HWVVUeG12dWRldXptY3FGMUdRTTZmdWFJZmRsaFRYZkZqNTNFbXlIbHgtRkg1a1F1d0Q1UTZzbm4zeXBfT2ROQXM1Tm1DVVIyQjI3cUVUZTBJVVd2cUxrTTdIZUlCRWdIOU1kTnpqMms0?oc=5",
+        "date": "Fri, 01 May 2026 07:00:00 GMT",
+        "source": "Commonwealth Fund"
+      },
+      {
+        "title": "10 Things to Know About U.S. Funding for Global Health - KFF",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNb2poN09EOVBiY3FER2RYX1V1dWY1T3JFTWo0TTU1Z3RuNjlIZkxRMjBTZnlTOFF5X3MtVXpXZkRzVkQycFZoaF9fNlI5a1dIeEdzUDJtN0F4NzduNmtYSnE2Z2N2amxlTG1hRmV6Z0syVmR6RDBpSF9Kdk9iSGVDMWhaMGVRSnVKUnpNRGxZQXRyUGJhX2cxbzFFOA?oc=5",
+        "date": "Thu, 15 May 2025 07:00:00 GMT",
+        "source": "KFF"
+      },
+      {
+        "title": "France - Commonwealth Fund",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOR3RIV3JRQ29nTmxMTGN2RHVzaVpkS3ZVaTZoc1NONU9ZRk1VTzNXTE51UFEwMTRYa0NKUnZQOThUdFE4SjdnV2FSUnVkRk9HYk9mUl9GQ1J0SWc4bWlsZ1hCekxBQWFQMWRSbHdEVy1LYlBmNFZ5X3IwYnRfaDFRQ1NpT1JJSE50SlM4SQ?oc=5",
+        "date": "Fri, 01 May 2026 07:00:00 GMT",
+        "source": "Commonwealth Fund"
       }
     ],
     "scifi": [
+      {
+        "title": "Upcoming space & sci-fi TV shows for 2026: Star Trek: Strange New Worlds S4, 3 Body Problem, Vought Rising, Blade Runner 2099 & more - Space",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ORkZBTFNfbzZrN2N6Uzh2VEN4c2ZLRE5pQUZRVVlXaWRlQnN4dVhZNU5CQXFKd3RBVkwtUWdfUWkzemFYcUJNT3d4clljN1NyNzRqYl9iVVhYZw?oc=5",
+        "date": "Wed, 22 Jul 2026 07:00:00 GMT",
+        "source": "Space"
+      },
+      {
+        "title": "SYFY's final (for now) original sci-fi series is finally coming back - and it's well worth watching - Substack",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8weWRhUWFIVUF4eTRtdjBteGd2VTJsWGxINlp0TElXMXVIVmhDdS1ocVRiam1aUmRvZjI0ZU53VjVRalVPVmFwcTQ5ZkJfY2szLW5zZ1JzVWZ0LUNJVi1hT0xyMmtOLTJBRV9TSURRM1BQaXllaVc3eg?oc=5",
+        "date": "Sat, 20 Jun 2026 07:00:00 GMT",
+        "source": "Substack"
+      },
+      {
+        "title": "'Alien: Earth' Season 2 First Look: See the Cast Behind the Scenes - TV Insider",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQjBDSkFzb1Q1R1F6RHJ3TmtuV2Z3bWdiZ281VzBCQktrVzRTQ3VjZ1NlQnprUFY0dWZ5cWhuRGpGbDRwWkx4WGtlQ1dXWHo4dEx1SS1qdXNRVEY2TlhDY1ZKNnliY3ZaVkJDcnFfVVF5NTIwSnJ2b3hmN3RUMS1IZ2FrNWdmSDVLY01va05TYTJ0dTBTUjNDV3RIVy1hdU0?oc=5",
+        "date": "Tue, 15 Sep 2026 07:00:00 GMT",
+        "source": "TV Insider"
+      },
       {
         "title": "The Ark: Season Three Premiere Date, Trailer & Poster Released by Syfy - TV Series Finale",
         "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQc2FURkVFV2pzSlJxYlgyU2M1TmZWRHdxb1dQTldTV2hNX3BCWUp4cDFqSEw3azg5Vy1OTHJQWnZKdDBYNkgtZldPNkV4N3dCNnlWZDJtbGtjaDdsenRDNGRib1FycEttVVJ2OUYxLUJTanRQSzZZYk5WQUpwdXBLOW5Xc0RxVmlLRnVYa1FObW9lN0JzWTBlUFNaZ0pRQmxBUzk1X9IBqgFBVV95cUxOU25rR1RlbW1MNkZWdVdCTG1SVF8xakExcWNGSjdBdkJxWXlQQTJLa1o3UldaT1JFVHJ2OGxMWlp6RURMQzNqVDEzWGFhMk5WQ3RTT29WV0I2eDcxYWk2OFY4NUJtRUtlbnppMFpmRkNZamRSZENuVDJDR3lJMUtac3ZRdTBzR1cyZGdqZHdMZ3ZmangzX0g3VDZGMFRXYU1WVG9rQmllYWRUUQ?oc=5",
@@ -157,10 +175,10 @@
         "source": "TV Series Finale"
       },
       {
-        "title": "All the sci-fi and fantasy shows confirmed for 2026 (so far) - Winter is Coming",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1mcXY3MnVWVGtxZEc4Y0Z3aTc3V1RGQjlQYVFDOE43VTZLZGhjelk5T3dFT3ZYU0tDUXdRUnZXUDVqNUY1c3EwOFM5eTJGaHp6Q0dFcUJFTllXZWJJbC1EMFVEV3JiX3J2Uy1yQTBxV0VTLVFk?oc=5",
-        "date": "Thu, 21 Aug 2025 07:00:00 GMT",
-        "source": "Winter is Coming"
+        "title": "15 Best TV Shows Based On Sci-Fi Books - TVLine",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1XRFo2YXFFTHpDVGp0a0o0UVZ5UFQxVWNWRlQydlV0azh0TUZLUUhmcUkzMHNfeDA0dXllWktVUjdmYTVQUzhZU1B3NElYSGhoaVJ5Sk9nc01OV3FNNkNHeklNcDQ4eDAxaFhydU4xaE9pNFpVR1E?oc=5",
+        "date": "Sat, 26 Sep 2026 07:00:00 GMT",
+        "source": "TVLine"
       },
       {
         "title": "6 Sci-Fi Series Renewed For 2026 That You Should Binge Now - JustWatch",
@@ -169,22 +187,28 @@
         "source": "JustWatch"
       },
       {
-        "title": "‘From’ Sci-fi Horror Series Renewed For Season 2 By Epix - Deadline",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSkphVFdnaURrd05Nbkt4Nzc2LTBmc3hmNWoxNk1kcE01YTNnWVdjSkQ0SXBkczZUMTFKTkNRTkl1cHFGLTA0al91ZzhYV1FoU0JtaGYzc0RYSkQwbmp6VnBtYlhIQXlQVnRNSHhvYzR0UEVyT09HZnk1OVhCM3REQWd1OWxQQ2ZKeS0wMw?oc=5",
-        "date": "Sun, 24 Apr 2022 07:00:00 GMT",
+        "title": "The Ten Longest-Running Sci Fi/Fantasy TV Shows of All Time (Updated) - Cancelled Sci Fi",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdTZjVjZ0LWM0SFlkV1M5anZ5N2RtR2VIdTlGUTFIUHZfUWN5SHBOU19YOXFGUjItbjl4aGY0NUFWYWY0VVhBZVZHNUl0clFKcmE2UlFhRXlCVkxTSE1ZR0ZGWnZGcHBJV0YySjB0NWdDVGtYZ3QxM3B2dUFSUWdkMGl2QmE4Q3RjdktoSjBBM1E4bG9JU1pETDA2RjlwV3li0gGgAUFVX3lxTE11NmNWNnQtYzRIWWRXUzlqdnk3ZG1HZUh1OUZRMUhQdl9RY3lIcE5TX1g5cUZSMi1uOXhoZjQ1QVZhZjRVWEFlVkc1SXRyUUpyYTZSUWFFeUJWTFNITVlHRkZadkZwcElXRjJKMHQ1Z0NUa1hndDEzcHZ1QVJRZ2QwaXZCYThDdGN2S2hKMEEzUThsb0lTWkRMMDZGOXBXeWI?oc=5",
+        "date": "Sat, 24 Oct 2026 11:00:00 GMT",
+        "source": "Cancelled Sci Fi"
+      },
+      {
+        "title": "All the sci-fi and fantasy shows confirmed for 2026 (so far) - Winter is Coming",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1mcXY3MnVWVGtxZEc4Y0Z3aTc3V1RGQjlQYVFDOE43VTZLZGhjelk5T3dFT3ZYU0tDUXdRUnZXUDVqNUY1c3EwOFM5eTJGaHp6Q0dFcUJFTllXZWJJbC1EMFVEV3JiX3J2Uy1yQTBxV0VTLVFk?oc=5",
+        "date": "Thu, 21 Aug 2025 07:00:00 GMT",
+        "source": "Winter is Coming"
+      },
+      {
+        "title": "53 Of The Most Anticipated New & Returning Scripted Shows of 2026 - Deadline",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ydkhMQndiUWhRdFNIbkpYMFhvUklZT1BpTk9IWi1TbDZYMHNadVhzWXhBWG1NQzVuTEtjdTJ5cTdsWTd5OHctcHFQZEpoNzNsbEltbVNmQXVueTNGRmR4R3JaZDl0R0ZlbUE?oc=5",
+        "date": "Mon, 26 Oct 2026 16:00:00 GMT",
         "source": "Deadline"
       },
       {
-        "title": "Apple TV’s Biggest Sci-Fi Series Ever Gets Official Return Update - Collider",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOYzFzel9PMGZNcG80eG9XakxnclVXS3dSMlJsNU5NTFFURUhBVTllODVheXJmQV9vWXJ6c2hlbmVPZ3NNWWJpeExGNDR3UHFGLWNpQ0dTVHV1V2Jpb3JqQWFRdUw4YkxibHBMWXlOY3Q3aDNraHZkSmJPTDR3NzlBSGlSWmR2SzByVC1feHlnYjgyVmUy?oc=5",
-        "date": "Fri, 14 Aug 2026 07:00:00 GMT",
-        "source": "Collider"
-      },
-      {
-        "title": "All of the Cancelled and Ending Sci Fi and Fantasy Shows from the 2024-25 Season (So Far) - Cancelled Sci Fi",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxONGc3cFBTZzRYY0VKckdoc0FQSWp1Ykp5WlM4QU5JMnZHZ09Pa0F1NE1YSXpIUDFFNGw5X04xaG1TX2ZXQ2Izcl9BN0lDNFRwOWRXZkNmUGdQTFlPZDQ3b0pRaGczOXRlaGU4REdCZDlSRUNnUmtyVnQyd1ZoeWM1YlBXei1RemRQeWhGbVdabkhjR25Kd3RrcnNiZU9WWnc3MkppMXNKd1ltc2FveGtTUXItaFU5MVFtZmRJMUVzdmg4dWpEWlozblZn0gHKAUFVX3lxTE40ZzdwUFNnNFhjRUpyR2hzQVBJanViSnlaUzhBTkkydkdnT09rQXU0TVhJekhQMUU0bDlfTjFobVNfZldDYjNyX0E3SUM0VHA5ZFdmQ2ZQZ1BMWU9kNDdvSlFoZzM5dGVoZThER0JkOVJFQ2dSa3JWdDJ3Vmh5YzViUFd6LVF6ZFB5aEZtV1puSGNHbkp3dGtyc2JlT1ZadzcySmkxc0p3WW1zYW94a1NRci1oVTkxUW1mZEkxRXN2aDh1akRaWjNuVmc?oc=5",
-        "date": "Mon, 11 Aug 2025 07:00:00 GMT",
-        "source": "Cancelled Sci Fi"
+        "title": "New Sci-Fi TV Shows (October 2026) - Rotten Tomatoes",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNU0lVeFVISGdfTFY5bXFEYTd5WjlnYjlDQ1E3VUZtMVlBYktLemEwLUt5bDlFUkNDQ3Zyd240amZOS0FicmJrRFp5Wlg2ckIyTVJ6QU9UOVRNVWFwNXFuOEpfRmFaUndub0RfdFY1Y1prTmQ5NTRvUE1XUWtWZE1nbHJyQ1F0bVk?oc=5",
+        "date": "Sun, 08 Jan 2023 04:17:22 GMT",
+        "source": "Rotten Tomatoes"
       },
       {
         "title": "More Missions to Come! SYFY's The Ark Renewed for Season 3 - Everything to Know - SYFY",
@@ -193,66 +217,24 @@
         "source": "SYFY"
       },
       {
-        "title": "Apple TV+'s Underrated Sci-Fi Show Gets an Uncertain Update on Its Future Amid Renewal Rumors - Comic Book Resources",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBUazNPeGZZXy0xVmtjRjJvNGQtdEUzV001U1l5MnNsTnhOak03SlVLbE5qTmhaTTV6dGE5Y2tMZnd4WFRVLW14WVJmUjFSZkJJZU52MWlILU84bVRsMUpHamtNRlk4SzZidmZZNmNsOE5YUQ?oc=5",
-        "date": "Fri, 04 Jul 2025 07:00:00 GMT",
-        "source": "Comic Book Resources"
-      },
-      {
-        "title": "Apple’s acclaimed sci-fi hit “Dark Matter” renewed for season two - Apple",
-        "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPbEZkTGRXa3FaU2FMNmVVR1ZEdWtpNGxpUWNzNEZNWjF6QUxzWmFaeS1LOEdZVEFZb3RmVm0tR3BvZHRHMERDdDV2MllaN1duZHhxTm9SOEFNWXpzU1h0enZFMmM4andtXzdLaE5STi1DeU9vSkl5ZkNmT3E3UHZrTDRmNjZmLUtITHhkeWJHSHo2ZHZhb3g3dENzMW4tRTBBallfenViM2tQVlU2MEJFQUpQZTc3eTZRZHlzcGxFeHVpOEJFUkEzVWRIckNrSlJVU2dMVW5wNmtvc1JyS09YYlFmT3YwMEZkaVhTZThHTTJ6UU5Xci1COTUteXpTTjA?oc=5",
-        "date": "Fri, 16 Aug 2024 07:00:00 GMT",
-        "source": "Apple"
-      },
-      {
-        "title": "‘3 Body Problem’ Season 2: Has Netflix Renewed The Sci-Fi Series? - AugustMan Singapore",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOeVFSSUhSV09uWFo1bTRxNG4tMHdZaGVqTzBtZGp3MzdMVXJTQkVBVm13aXFPYXJjbTJBZTQ4eWFNNU1PcjRmeEpxR3JtUGxKT2ZDaDZqVkZSUTY3cHVkZ09naGVVc29QLTFPZGlheWF1OGtQWUw2eVpDbjY5OFFCZWU3cFZkNlY2bWJQZnZ3a2l4MlNXN2dIQ2pGV09JUdIBowFBVV95cUxOcy1SY0FDTVRuNi1VR3ZoNGhEbkxmQ0x4eS1XSWI2SjBCdnd4VU1CYXRrZzlYN0FXZ242bDB2OWpHdXF2ay1TQ0FwYmVxbWg1eDA1SVA0UEtwZWVpN2ZCNWZjb1c0MTdLVTNseFZIdy14NlBjM3V1Q0ZLQzlvYXhaczBMbWNrTWNFRkhnMDFSSE5tTF8zb2tXSUU5bGk0UVA0Qno0?oc=5",
-        "date": "Wed, 28 Aug 2024 07:00:00 GMT",
-        "source": "AugustMan Singapore"
-      },
-      {
-        "title": "Harold Perrineau-fronted sci-fi drama series 'From' is returning for a third season. - Facebook",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOVGh3Szg1SjVucGxnMUFVY3lDZlNOZGcxZ2ZZRjJScUFEanVXU0JPUV9MRi1WSzcwWTE5czBLanJvV21JN28yUl9la1VNNHlHX0s0TGYzWVdVV0VzdkpjMVg4dllJeVZSWWYtbmdia0pRbmtPNTJ3YUN2RTBSMk5KMjhGLWpIUUxDb0llYnY1Zkx2U0hMb25pTHhwWlVLZGdzSWdkSElvWjhXeHRhVktYY1JVZ2liaEYtRVNPbmhMdWhYYjRQNF9uc0FnNGg1V3V1dE13?oc=5",
-        "date": "Thu, 29 Jun 2023 07:00:00 GMT",
-        "source": "Facebook"
-      },
-      {
-        "title": "Silo renewed for seasons 3 and 4 at Apple TV+, which will finish the show - Winter is Coming",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNaEw4Rlpoa0ktQlh5WWxmbG1FRFJ4UEthZDRtaXA1S1FSRjNLQTNaN0Z5bWowMXVhVHJRakFaWFVLUEJRQlg5ZXhrWi1JaDNwTUNhTHEyLVowajZKakV2QTBZSWstaFdsTEZDV1BFTXlqUEM0Wm9UbXN1bUppOTNhdTRKSDctOXdqR3Z4dmhtNEFGRjk0V0c0VHZtVktFa0k?oc=5",
-        "date": "Mon, 16 Dec 2024 08:00:00 GMT",
-        "source": "Winter is Coming"
+        "title": "3 Body Problem Begins Production on Season 2 - Netflix",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBoZHNWMDRJNEEtc19RRlcwVXlSS2p3YVg4eGcxb05nZ3dIMUdRdXdRZS1JM0F0UG0wdU9UN2FjN3NNSW5JX1VuZWZYdDk4WjZOVHJNM3V3YnlpWENnZGhEcjFZbVU1ZXk2NDdrTzNR?oc=5",
+        "date": "Wed, 15 May 2024 19:16:04 GMT",
+        "source": "Netflix"
       }
     ],
     "sports": [
       {
-        "title": "College Football Playoff top 12 projection after Week 8 - ESPN",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQLVN6MWg4bDVLOVVyRjg3ejVjcW85QmRGaTlnMHZMcmFrMUpNTDBTaV9GRkVRcU01bGxCS1B6NnNKTFB4ZUlKQzRVZHVfWE00UzRPd0pGYzB5R3FzYjduM2YwQzFZYVV1ZEM4T2h1b29ibkVmc2NQVjBicnF0bWlXdlEydkJEYThSR2t1SWUwZFBBcFl5N3I1c0o4WTN1X1Jh?oc=5",
-        "date": "Sun, 25 Oct 2026 06:50:00 GMT",
+        "title": "AP college football Week 8 poll reaction: What's next for Top 25 - ESPN",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNcnJ3YlpVanFzZUg4U2lzYk9kWG1WZVhXaHlzN0JFWElUTmg4akRKNUszMkVuS0t0WEs5bUpaMUs0NkhSR3NNdTktdlhac3poQUdOOTNlRVpQUGZaSjNhMVBGa2gxZEdCTkFGbFI0OEJBdGF3NlN1MHBBbFVTdi1LTEJLVmtTVkFNZXk1d3dIekxKclNsNHRRa21kdEdKbVZDVkZSRFFzaFVSbjN4OWRR?oc=5",
+        "date": "Sun, 25 Oct 2026 19:00:00 GMT",
         "source": "ESPN"
       },
       {
-        "title": "Tomorrow's Top 25 Today: Texas vaults back into top 10 as BYU, Texas Tech fall in college football rankings - CBS Sports",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTTF4UG04ZHdRZkFuYmlGTkxoODBjM3RkcGwxM2JicDJpOTlVV2hHV1M5MVpjaHhvWF90bHBGTkFRUU8wYnZhNUV3NVJyOEJqSDdaUlU0ZmU0dWQtcmswU2RrUzMxc0JJZzY0UDU1MHJlclhPYmluR0pTbjUwQXAyOGxvRDZDbEdlYzJzczdHWHBPMHVuMnNOS1F0UFlCYWxObVRPUDJ2WEw1TW9TaFN4ODY5Z2ZKak95OFZwYw?oc=5",
-        "date": "Sun, 25 Oct 2026 04:59:00 GMT",
-        "source": "CBS Sports"
-      },
-      {
-        "title": "Murray's AP Top 25: A new No. 1, plus a current and former MW school join ballot - Nevada Sports Net",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZ0JVSjBDbk1IcnJGSDhtZWF0bUdzZmlxWVVwM0VneDV3OEJlWkdDTHZuUWJRc0hIajZpM2NGeFRrTU5COXhLVUxtcGN4d09XRWd2T25Oc2RvcjJNZGhvbXpzLTMtQ2IxblVKT0k1MkFqUG5pc1p5b3diTzJfWE9rb3pmQWl6QVhqbjZERC1QVmJTam04clU4T0N3UGstZEJrNk1reFlwWjBYQ2RsWFhTcm1iTFVIVk83eEtybUVidi1sRmFiTUc3SlFNVQ?oc=5",
-        "date": "Sun, 25 Oct 2026 19:58:22 GMT",
-        "source": "Nevada Sports Net"
-      },
-      {
-        "title": "AP Top 25: Alabama jumps Indiana, Missouri surges and Pitt is in college football rankings - The New York Times",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRERtdmtFd2szWHlrc3lod3ZKcVY4TF9kR214b0ZFU3FOSzAtb0hFU2M5WGFyRDB0ZGU3R0hDQTFjbk1CNnNVdXlGVUR3elJqWHRnU1VkYk43YkZxNjBEdldlQjNKcXV4dnVDNzhKUzFjMlFZZE44VVZ6Ujl5MFh3RmZSTDRhMVNZdDdwN1N0RFZuS25NWDNkXzdQQ1hmOHc?oc=5",
-        "date": "Sun, 11 Oct 2026 07:00:00 GMT",
+        "title": "AP Top 25: BYU tumbles below Notre Dame as Utah, UCLA rise in college football rankings - The Athletic - The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWnhGUUgxeE1Sa1NUREZuanBaVFJ2a3N3YVdaSVZHMy12X3NjTWZHU2haREZxZkNhQmV2M2VzLWRXZGlXQXgzWUxISmRSai1MZkhMMFFWOUNBUUJRX3dFLVB6RjJYSmhYem9KSkF5YXFBRkVvTkVETXZuOFBsaVFlYUZSeGh5djZJTmZYV2J4UQ?oc=5",
+        "date": "Sun, 25 Oct 2026 18:47:47 GMT",
         "source": "The New York Times"
-      },
-      {
-        "title": "LSU Enters Top 10, Michigan Falls Out Of AP Top 25 After Week 1 - FOX Sports",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQX1pjMU5tcGd3RXhTamRiZ1hlWEh2VHBaSXFHMU1tbWtvcWh2eHR3OWhRdHdOcGI2ejNYTEFwMWN4eXBFZ2c4SjlCR05FMTFEb3c3aHgydVJmajJaWjhueVptUi1MTW40RUZfcGZqMmdiaTJBRi0wNUtCbW1HRjhtb1RKZ2w4YVN1eW9NSG5mWGdMcVh1NVlMd0c0UDhaLTVBQjNDZHN1ZlRObHkyTWs00gGvAUFVX3lxTE55ald3b1o3U3JNMHFrVV8tMWhlNEx3NHpQd3ZVeVBkYzlTWkYwTWRac0VFZDRfTGR4NVBlQ21YS2RwV2VBek9JOS1hUjR3bFBaM1dsZ1ZmQTcwYW56SGJHQVdYdHNIRUpTcEZuX0VjV3NHY0JaTy1ueUxnQ053elI0QkJRRi1jSkR2aWhGSXAyTkVaeXV4VG1JWGlWRVVJRG5uYnUwVXdtNW01dmZMRlk?oc=5",
-        "date": "Tue, 08 Sep 2026 07:00:00 GMT",
-        "source": "FOX Sports"
       },
       {
         "title": "College football AP Top 25 rankings: Some marquee wins have aged well -- others, not so much - CBS Sports",
@@ -261,40 +243,58 @@
         "source": "CBS Sports"
       },
       {
-        "title": "College football rankings after Week 4: Updated US LBM Coaches Poll, AP Top 25 - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeFJHbm5VbzNzTVZ4bmlFaDZrTUlFTVp1NlctMjg3dzFUdTRiRVRWNVNiemEwaXZWb2FPYUZmX3JVSkdwS1JLMm1MblRWRVpRQ0xkZmF1UEdTY1djM21UUVNLSTdUZVJWcXg3X29SeXR5MmFUN1JWNmFmY093elV5OWpQaGUzSFZV?oc=5",
-        "date": "Sun, 27 Sep 2026 07:00:00 GMT",
-        "source": "Yahoo Sports"
+        "title": "LSU Enters Top 10, Michigan Falls Out Of AP Top 25 After Week 1 - FOX Sports",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQX1pjMU5tcGd3RXhTamRiZ1hlWEh2VHBaSXFHMU1tbWtvcWh2eHR3OWhRdHdOcGI2ejNYTEFwMWN4eXBFZ2c4SjlCR05FMTFEb3c3aHgydVJmajJaWjhueVptUi1MTW40RUZfcGZqMmdiaTJBRi0wNUtCbW1HRjhtb1RKZ2w4YVN1eW9NSG5mWGdMcVh1NVlMd0c0UDhaLTVBQjNDZHN1ZlRObHkyTWs00gGvAUFVX3lxTE55ald3b1o3U3JNMHFrVV8tMWhlNEx3NHpQd3ZVeVBkYzlTWkYwTWRac0VFZDRfTGR4NVBlQ21YS2RwV2VBek9JOS1hUjR3bFBaM1dsZ1ZmQTcwYW56SGJHQVdYdHNIRUpTcEZuX0VjV3NHY0JaTy1ueUxnQ053elI0QkJRRi1jSkR2aWhGSXAyTkVaeXV4VG1JWGlWRVVJRG5uYnUwVXdtNW01dmZMRlk?oc=5",
+        "date": "Tue, 08 Sep 2026 07:00:00 GMT",
+        "source": "FOX Sports"
       },
       {
-        "title": "College football Week 4: Recaps, highlights, rankings and scores - NCAA.com",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTDRDN3IwQThRZVJkckthNGlUcTc1V0JXYzh6VDJOY1NiZE8wTzdtaG1IQy1EMEZzajhoWFNLb1hfZmRSM2hBOE1TbjQ2d2pCRThNMnZhenhrUzduYktVdUJQR0E3MVRmRnRHcGpwN2VPVVZLYVMxS3gxcGZmNmRCWVRrcERiTnRvdndYX1dBMXQtbVNqMmktNTlLMTl1eGoyNUprYkNBZUdkSkFj?oc=5",
-        "date": "Sun, 27 Sep 2026 07:00:00 GMT",
+        "title": "College Football Week 9: Your Guide to the Best Games to Watch with Sling TV - Sling TV",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPRTZ0YmYyYzJWb04zMjZYTS1NdWVmQ0RUSVZ3Wll6SklPbFFPLW1GaWxVNWVpbXNqbEZvQV9NNzJNOFhJTURJdlF0M0h0bE9iTkJaXzdlWUZmY3BidjdQcm1rb0FybVkzdElQZ3l4SjczdkVYajVGbk0zVkE1OWZZR1NQZzZnQQ?oc=5",
+        "date": "Wed, 28 Oct 2026 07:00:00 GMT",
+        "source": "Sling TV"
+      },
+      {
+        "title": "Ohio State, Oregon, Georgia lead preseason AP Top 25 college football rankings - NCAA.com",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNTHpTVTU3M2JQNFdLTGZ5bUdpUG9YdGxHNkVzTGNFX2hueHpDZnRSWl9ZNDRHTm95X2FBbTQ2bUZKNXU1OXVFZllhM1V5bUQwR3FDQ0FpUlJoeGdmVHd5OFpCeXVfOUhVTXhGaGIydlh4eW1jd2I3RURUWVZlaWJwbmRvcktodFBGbm5mbE8yQWRPNWE0N0tPV0tvMDZLQ2VvR3k1UzhWM0ExS3BrbG9XU2VCQkZvalV2b3RkSnJOOGxzdVd1UHFfZnNB0gHPAUFVX3lxTE4wcU9SelZBbHkwOU5UNG4tUXhoeGFYOGFtZVRTN2prc055VWJjSERvN3ozeFpENV9nZkVRSnhxUmpxQnd3aS1QeEJfZnNGbTBGMHRpTk9iNlNQenpJRVN6cDFGclVGcGFkQ0M2VF9DMi01YVRPeDhiMW84UmdGYXNBdzFBc2RaYjBBRURmUERYT0hfaXpIeDdzeFlvN0NOMFhHQVlBMjUwUzdSQjh6djhFaFVjdzdKbTNfZFRBM1FnNlZtZWVsYWE0Ry1yQmppQQ?oc=5",
+        "date": "Thu, 27 Aug 2026 07:00:00 GMT",
         "source": "NCAA.com"
       },
       {
-        "title": "AP Top 25: Ole Miss moves into top five; SEC has 10 teams in poll - Chattanooga Times Free Press",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNzhFQk90QUx2by1oSHpDUGc3bGUzb1lLTkxTOFpyLTZiRVZsREl5cjl1cWg0NWxpRjhWMHFiTm44dTNrOWNHeDBwYUlNdG05Y2VfRktfTHNpcElCVFBPQ0tRalFJQ3VMalVRclgxa2tmV1BCQjNPWm5teEFnWV80ZWtaOHNpNDRDRHhFbWRrNFBNd3BqeDF0R28xV1JOTTA?oc=5",
-        "date": "Sun, 20 Sep 2026 07:00:00 GMT",
-        "source": "Chattanooga Times Free Press"
+        "title": "College football Power Rankings: How a wild Week 7 changed top 25 - ESPN",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQREVRUHlYN0FDc2lYRmJKV1NrR2JGMkZWZlJ4SEVSYW45WWxNWkF1VExzN3h5MEl2aGR4QjA3U2x2TTlvVmt1REFxSVJjYkFVNGI0RXJJeGNKLXFxZ3NSLXlBWlJhZWprOUhJRUJiY1hiX29RQzB2YWlpVVo4aWl3czFNcGk4Sy1NdkV5czMzYnFnb2JNaEhYbXhsT2lqWEFLbS03U0QxbTgwLXRy?oc=5",
+        "date": "Mon, 19 Oct 2026 07:00:00 GMT",
+        "source": "ESPN"
       },
       {
-        "title": "College football rankings: Projected AP Top 25 after Florida, Mississippi State arrive, Texas and Oregon prevail - FanSided",
-        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxORHRNOE1KRXlJVkNtSmJfNHhfZkJoZXNZSlhfYjI3ekV5ZHFicWVFdFZqcXFPbDYxOFAzU0ZwMk5JRXZRT2FMQ0podGU2aGFOdjFuY1ZZTzdZSml4UUJMdzAxb1QtN0lkVnBER19ReDF6a2x0QTR2Vi1Ecl84eXZyaEc4UTJmSkRCYUtGMnpMb1lmd2EwbkQtV0NBYmVpZ0pCUUk5Z2VjbUhBLXZOOTBaalprLUtDS3N1UHlEZEFMbXMwcXJBNGlTR0NvX2h0bkdSTkc5Vnp5V3hRZU05aW1lMw?oc=5",
-        "date": "Sun, 27 Sep 2026 07:00:00 GMT",
-        "source": "FanSided"
+        "title": "AP Top 25: Alabama jumps Indiana, Missouri surges and Pitt is in college football rankings - The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRERtdmtFd2szWHlrc3lod3ZKcVY4TF9kR214b0ZFU3FOSzAtb0hFU2M5WGFyRDB0ZGU3R0hDQTFjbk1CNnNVdXlGVUR3elJqWHRnU1VkYk43YkZxNjBEdldlQjNKcXV4dnVDNzhKUzFjMlFZZE44VVZ6Ujl5MFh3RmZSTDRhMVNZdDdwN1N0RFZuS25NWDNkXzdQQ1hmOHc?oc=5",
+        "date": "Sun, 11 Oct 2026 07:00:00 GMT",
+        "source": "The New York Times"
       },
       {
-        "title": "AP Poll Prediction: Projecting Top 25 ranking after Week 4 of college football - On3",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSmdORTVTLXo4dm82Mlk4N0o2enBLZjl5Y2hPbEJ5TVljdkVlRHhaQnUtMFhaOGhWYnBEb0lZUmtCUVcxSldNSHJXZDg2SjYyZDhnRVllaVc1UE50TlMwUU9ZZ19fbEtFNFBza0xfSGJiUGtEZGVmMXFTZkdVUlpoUVhBTkN5LW1GZFNSaGhKMzFWTkhsYXVqUzNuTkN0eTRlMV9LdWdkVjhraGVD?oc=5",
-        "date": "Sat, 26 Sep 2026 07:00:00 GMT",
-        "source": "On3"
+        "title": "AP college football Week 6 poll reaction: What's next for each Top 25 team - ESPN",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQLTdQX1loS0M2Z2N3TzJ1bFh1OUVVUFdOWV9WZ0VIUHR5cFhndzc4SjRMamFBTU4tS1J0NFlmNnJhRDI3NC1lcm9FU1pkalp5dmcyVTd2SUgwVWFwMENhR3ZxMnl0V0wzYUJybm5WRGF5ZXFYLXg1MUxvdjNrQUJBOGZpMDZZUnl5V1kteGhqLVliZmRrblRSY1Z4RVQ1X1BLblBLSHd3?oc=5",
+        "date": "Sun, 11 Oct 2026 07:00:00 GMT",
+        "source": "ESPN"
       },
       {
-        "title": "Updated AP Poll: LSU moves up in latest rankings ahead of SEC matchup against Kentucky - 247Sports",
-        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOekhBQ2ZSRm1uTDhza1ppVUViTTZQcThUNEVQektmUEZYSm5vdVlLeDNTd2VTWW5QVUk4RjQwVGc0OUhMS2QtR0hwYnRDdTBqNXN0dVdpNHJWb1M4bEdmT292ZzRldHhKNEloZnZRLTdkWHVXUTRJTl9uSmY4Xzh5dlhCazItMHdBN0J4eGdNWDlpb0VYZGVSdHl2V1hjUmp2Y2ttME1jNXdHQ3hOVGFDcHZMLXJoOXlZaUJzVkI4bTlNWkgzbHpGclhXYUFSQlJfelJod0VMc19kd2lVcjRudWt3?oc=5",
-        "date": "Sun, 04 Oct 2026 07:00:00 GMT",
-        "source": "247Sports"
+        "title": "College football scores: Top 25 rankings, schedule, results for bowl games - NCAA.com",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNalh1X3o3ZEpGZXA1Mjl3LWg1MEU0a29rMUJ5YkNnbktYbzNHV2FVT1dEa0VBUlFhV2hYUEtCWTRZNEZTRFhtSGFDRHJkMW9TRk5veUp3YjUtVzh5ZzVjaVlia2dJNUdKcDdpNjNUQkg1QUIwTzJUcmFpZzJGQUNnWjE0b0h3dEpRcVlLRU1PNzlmTW9USy1IV2RYaXU2WVFYWEk0ZURNVWMtYi14VmYtTFJUbS1pWVN3ZFhCQm1B0gHDAUFVX3lxTE9teFlEX3JROWMyaUxLRjBBa3BDWk85NzYwdlBRT3Y5X1JpSzZMUkhzSXNKSDJyTzFFQ3p5bW1WZV9pWUJYWFMyTHhIMG95V0dVNm1mYzNfd3pJNWROVlJjbVMzN2I0TFgtcXlPTGdDcjI1NHJ2d1I5anV4T05uY3FrZTdFelRtZEpPUUtvUHhxaFdDUjhSMkVZMUZITTVxR0NUajlIWUw2SXUyYzl1eVhmSHZoekJtZDc3aGUxU2Z6ZVdkdw?oc=5",
+        "date": "Sat, 10 Jan 2026 08:00:00 GMT",
+        "source": "NCAA.com"
+      },
+      {
+        "title": "Projecting the College Football Playoff top 12 after Week 1 - ESPN",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQVNkSTVYVFZ1SW9IQV9GQmYyTDlCU0VpckVaOURjTmlHa2RVbGxvZndjY01IMGFCX3dibmV1MFlFd0Z3S19DVm1xR0RIWUc1ZFZqWFVmNXI2LUtCM01SclFIZXhTbl9fLWVrTFNrS0N3YnhHNGJYMVRpQjVVZGNqcHhsQXIwNnJOemVEdWRldVpoMTdnRnVKZ0o2UGg0MktmelZMR3dwMFVGTTA?oc=5",
+        "date": "Sun, 06 Sep 2026 07:00:00 GMT",
+        "source": "ESPN"
+      },
+      {
+        "title": "AP college football preseason poll reaction: What's next for each Top 25 team - ESPN",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOM2FCZTJCRDk1aERIU2tUdE5ZeUg1UVA4bnEzRHpYOW5UQzYwbXlzQk1ObXJSSWlRa1BNaWt2aGs5aUNaeEdORzAtU2lFTm1fb2tJcDBCSDJ4aFVPN1JSaHlPYTJ5MjRtZ1Rwdk1oc0g3NGFDME83aVhITF9OMzc5ZngzUWZJNUR1UTZXMU5VSW5MT1NPd2xaUmJkMkg0S1lld2NTZlowZUZSZw?oc=5",
+        "date": "Mon, 17 Aug 2026 07:00:00 GMT",
+        "source": "ESPN"
       }
     ],
     "lastz": [
@@ -305,22 +305,10 @@
         "source": "topuplist.com"
       },
       {
-        "title": "Anime Expeditions codes October 2026 - Eurogamer.net",
-        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE55RjJCRnQtLWM1Q045U0JZODlBQ3ZRRDZIc2tTRkc0RW5Ua2Zvc3UwNng3ajR0cWpqLUpQMV9HY0VKSFVGaVRSNGR1ZWk3Y0JKRVpnVV9zbTdobEZtMXc?oc=5",
-        "date": "Fri, 16 Oct 2026 07:00:00 GMT",
-        "source": "Eurogamer.net"
-      },
-      {
-        "title": "Universal Tower Defense Z codes for free Gems and Rerolls - GamesRadar+",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5zdUM5Q2JxMlFuMWlzOFA5MHlKVnM0WnVTSlcxVG1scHEwNVBLekNLckFWQUwyUmdKRmRibGVtcUVKamlGOURoSVVvVzJhYmN1bktxaU1USmQyN0tqbE4yREktejRlSnlXaGNaMkQ2cEJHOTZxYW1IbmtfTVo?oc=5",
-        "date": "Fri, 02 Oct 2026 07:00:00 GMT",
-        "source": "GamesRadar+"
-      },
-      {
-        "title": "Whiteout Survival codes (October 2026) for free resources - GamesRadar+",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5DNWtuY3RobUo5RFZPeVpqSXc3VG1TZ2I4akNvTjQ5QnJXNmFNOTZGaERBc21ZbzFYUkRaOFBrcHdPcTg2bnRzZi1vTHc4UXAwc2ptSF91cGkwYk1va0ZCcG0tVjR4S2hGTmxjWlA1SmRreFlmc0thRGpEVQ?oc=5",
-        "date": "Mon, 06 Oct 2025 16:35:53 GMT",
-        "source": "GamesRadar+"
+        "title": "Latest Universal Tower Defense Z codes - Rock Paper Shotgun",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1qZDVWVGhFc0F1anBMTDB3cVc2VEdnZ0hDVk4wdllja0dacmxYZHJvLU1XSmo5VklhSGw0TDBmWGJfM29iQjJZSHpPWFlsT1pLNlAyekRPbnJnWWpleVQ4YmhPMkhqWkR5V2lOUVphTmIwX2pCT21iVg?oc=5",
+        "date": "Wed, 22 Jul 2026 07:00:00 GMT",
+        "source": "Rock Paper Shotgun"
       },
       {
         "title": "Last Z: Survival Shooter Codes (October 2026) - Pocket Gamer",
@@ -329,10 +317,10 @@
         "source": "Pocket Gamer"
       },
       {
-        "title": "Puzzles & Survival codes: October 2026 - Pocket Gamer",
-        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9XMjNacnVHMnowNGdBclloVjgtUHZ1ZXRIRWpVOVFvUzFNLTh0M0tBaDlUQjQ2NVhxLWg3X3RxV2paQmt5Z01KYV9BRTFodDlOY3pmdkFZNGUzXzBZcENIcA?oc=5",
-        "date": "Sat, 24 Oct 2026 23:02:00 GMT",
-        "source": "Pocket Gamer"
+        "title": "Roblox Game Codes (October 2026) – 1200+ Active Game Codes! - Pro Game Guides",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBPZGRBdVN5ckw2LWl5RElpdGppYjgydlZpamJRVHRLVEEwNnZFemlCYm9RMmRyeWhCeGU0b3lBTWJFaXRTb1VmM2g5NWFNWDJaeUsyM0tfUlNyUXVxM19UaQ?oc=5",
+        "date": "Tue, 27 Oct 2026 12:25:34 GMT",
+        "source": "Pro Game Guides"
       },
       {
         "title": "POLY-Z RNG Codes (September 2026) [Zombie Shooter] - Pro Game Guides",
@@ -341,10 +329,34 @@
         "source": "Pro Game Guides"
       },
       {
-        "title": "Roblox Codes for All Top Experiences (October 2026) - Beebom",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0yam9fSEN1cnc1MGh0T3RCMFNyZi03ZzlxbGJBTXJTMjg2TlUtRHdBWEhhbmYyczdVdmtwbWVSX1dYSl8xZHQ4NjRZdDhSdG5Sc0gtTm5R?oc=5",
-        "date": "Thu, 22 Oct 2026 21:48:32 GMT",
+        "title": "Magic Chess: Go Go redeem codes (October 2026) - Pocket Gamer",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0xYVhXakJOdk9Va1ZRY3NRclZJczZ2anhDQ2RXUzhyajc4enBJM2phN1Azem9za0hicFBZal90S2s3YUJxVWdrZzQxd1AxMEdmRjF2TmF5TjQ0MU81R1ZGZ0NR?oc=5",
+        "date": "Tue, 12 May 2026 14:45:32 GMT",
+        "source": "Pocket Gamer"
+      },
+      {
+        "title": "Roblox Game Codes [October 29, 2026] - Sportskeeda",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9Ma0pGWGxHb0NOQkpDN0VMbVNwb0NJeDZmaHU4ZlViZDlGVGVYOHpDdlpJbnNsU0NNUTBxV2Fva2k2bTFlU0tZdEN1T0g0VVI2RVhGNzU2Y0F2QnBYak5wbktFTGhSWGxMSjkwajQ1NA?oc=5",
+        "date": "Fri, 30 Oct 2026 01:13:08 GMT",
+        "source": "Sportskeeda"
+      },
+      {
+        "title": "Reminiscence Zombies Codes (October 2026) - Beebom",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBFS3VjcEhESzM2QUNIclVrN3FadXV1eWdHd1ltUGRCNXE5YUZMNi1pTGd2YUVaZjR3MVRyZjBmdGg1RXJfelBTbFdxeDdZTUEtdGNNMk5kVy0wQdIBX0FVX3lxTFBZb2c3cmZVT204cUZtNTJxOURTYjdRYVJOc3BDUjJoM1ZrNVVuMlRXVk13TkgyOXIxMTVTbUpRZ216WVlZOXBwb3ZOZVNUUEdyVUlPSHliTTMxX0ZQR29j?oc=5",
+        "date": "Thu, 01 Oct 2026 07:00:00 GMT",
         "source": "Beebom"
+      },
+      {
+        "title": "Roblox codes list - free stuff to redeem today - Pocket Tactics",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1xZXJ1ZU5xaFQ3TnF2X3pheXJnYzhnb2RNc1pxYnVjWHFxTWhvbkZGaXV6UTBjQXhYLVVSZGUzSlA1Q2UwS19iaUlZR253WWUzejZyNGVYUHVhZFk?oc=5",
+        "date": "Mon, 24 Aug 2026 07:00:00 GMT",
+        "source": "Pocket Tactics"
+      },
+      {
+        "title": "Hunty Zombie codes (October 2026) - PCGamesN",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5NUVVBREFoMVQybUw2bnlOWUpiRTYtZTZwemVBOW5JMFhOY2pjT2wwa1NOSGE1aUZoNEdoMTRKQlR1bldnbWl2UE9CbnR4N2xISURJdmxn?oc=5",
+        "date": "Thu, 21 Aug 2025 13:56:59 GMT",
+        "source": "PCGamesN"
       },
       {
         "title": "Zombie Waves Codes (March 2026) - GameRant",
@@ -353,9 +365,9 @@
         "source": "GameRant"
       },
       {
-        "title": "Last Shelter Survival codes: October 2026 - Pocket Gamer",
-        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9GdVl0UldPMExjMWJpVHJoeExMZ09EVVZkS2JJd19kQXZQdVZoQ0syaFlkWWxhY2I2SWFhZnN1bWNuMU1rdjJhMmdOUnNJNVk0ZGloRkVmdUo1cEJMMGhDbGFoZmV5TVE?oc=5",
-        "date": "Wed, 10 Nov 2021 21:40:15 GMT",
+        "title": "Roblox Codes - complete list of redeem codes - Pocket Gamer",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAxQU40cTRuX3FhbzJlNml0cXozU0dOaGVvRVJFWnJnU2lpX3ZXZEpCdUJuVlN5TERCNG1xU21nSkdQM0dSdGhhRVJteHFPdTdSZDFB?oc=5",
+        "date": "Sat, 24 Oct 2026 00:00:00 GMT",
         "source": "Pocket Gamer"
       }
     ]
