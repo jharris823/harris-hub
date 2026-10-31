@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30 11:48 UTC",
+  "updated": "2026-10-31 11:41 UTC",
   "feeds": {
     "comics": [
       {
@@ -89,6 +89,12 @@
         "source": "U.S. Department of State (.gov)"
       },
       {
+        "title": "How Politics Influence Global Health - Partners In Health",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9GMGRVeURXelFBbFp2RS1WQ2o5UFM5YW1veTJjSkl0TExFMHpsdVU5bm1HMjYxZ3E1bEh2OE1sbGZsV2xKMXBEWjZkQ3hMRTRMT091NzI3dy12V21FOUVGcVI0d3JBWllaVXF5Y0Z0bW9UZw?oc=5",
+        "date": "Fri, 18 Oct 2024 07:00:00 GMT",
+        "source": "Partners In Health"
+      },
+      {
         "title": "Taiwan - Commonwealth Fund",
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTjhyNVNHSUVUTjJpQ0tTRC12c1V1UlV4dGltdkZmT0J6c3Y1TVJZM3lieGVmWV9GOVhpemI2T1llVXNSbnJoMmZGWXd1U0lna0JHVl9LTEIxWWRLaXhIR2ZTNUxmdnZiSE5xb19uN3NhUVktYUNxbXZpc0ZQVExQeU9OUm5hcmpNSnd2cA?oc=5",
         "date": "Fri, 01 May 2026 07:00:00 GMT",
@@ -113,28 +119,10 @@
         "source": "Commonwealth Fund"
       },
       {
-        "title": "Release of the America First Global Health Strategy - U.S. Department of State (.gov)",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWjZZR1VpcHZPRURteHVYUnBndVlkVk1tN0I3X2RPWEVKZmVjNkJ6NU41WHBhRWp5RmswdFRqcXpMVEJFSVF2T2h4NU5Celc1Wk1tY1ZNRFdoMlNmZkNMbFBtWG05bmRNNmh4aUlSWF9JdEtZSWtwTE5oRF9WUG54emU1WXNOZmRSZVVlSVNSMGpaQm1ickF1MGpURGZ0MmZpcVJFR3lSYmticjJYazJvUFVwNFA?oc=5",
-        "date": "Thu, 18 Sep 2025 07:00:00 GMT",
-        "source": "U.S. Department of State (.gov)"
-      },
-      {
         "title": "The New America First Global Health Strategy: Four Observations - Think Global Health",
         "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeGgxa2tMQUd3QnBCSC04clY3OGY5VTl2c3VWX2RRWWZNZ0xDZXFLenNzYU5yU1RVWWhXQzJnajZNd3Q3dVNoWTNadnVGRG9rU2IxVHFBS05LUmZ3V2JleW54OEpDbGRncFVKV1FaTE03enF3WmMtWkN5ZkVDMDNMX3ZxOE5MSmxXTG42OU9kNTVxZnYwMkY2Nkd6ay1jUXRmS1JycE1KZ3g?oc=5",
         "date": "Fri, 19 Sep 2025 07:00:00 GMT",
         "source": "Think Global Health"
-      },
-      {
-        "title": "The President’s Malaria Initiative and Other U.S. Government Global Malaria Efforts - KFF",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxORTlabzVld2NmUmNGczBkc3hOZlowczVaX2owcTlULXYwdXF1bmxJNFZkZldCNEFOZ2tGT2V6a2dDT3c0RWdlNkk4V1I4WkJ1ekgwSnF2SS13R0tqVzB4Mk5wYmduQ0g4czJnclZVX3dnYWxqWHJXWGl3czgzLV9DeFltc1VvbVB4X0hxSHN4QXptRmdoYkh3ZnBOUy11U2JWemZvSHA1SU9mSWdVRFl4V3VLN1dUV1lkcVB0SERIZjE?oc=5",
-        "date": "Mon, 23 Mar 2026 07:00:00 GMT",
-        "source": "KFF"
-      },
-      {
-        "title": "China - Commonwealth Fund",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNWF5dHpNekpHY1VqMzhoVi1iZG00X21qN29HWVVUeG12dWRldXptY3FGMUdRTTZmdWFJZmRsaFRYZkZqNTNFbXlIbHgtRkg1a1F1d0Q1UTZzbm4zeXBfT2ROQXM1Tm1DVVIyQjI3cUVUZTBJVVd2cUxrTTdIZUlCRWdIOU1kTnpqMms0?oc=5",
-        "date": "Fri, 01 May 2026 07:00:00 GMT",
-        "source": "Commonwealth Fund"
       },
       {
         "title": "10 Things to Know About U.S. Funding for Global Health - KFF",
@@ -147,38 +135,26 @@
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOR3RIV3JRQ29nTmxMTGN2RHVzaVpkS3ZVaTZoc1NONU9ZRk1VTzNXTE51UFEwMTRYa0NKUnZQOThUdFE4SjdnV2FSUnVkRk9HYk9mUl9GQ1J0SWc4bWlsZ1hCekxBQWFQMWRSbHdEVy1LYlBmNFZ5X3IwYnRfaDFRQ1NpT1JJSE50SlM4SQ?oc=5",
         "date": "Fri, 01 May 2026 07:00:00 GMT",
         "source": "Commonwealth Fund"
+      },
+      {
+        "title": "The President’s Malaria Initiative and Other U.S. Government Global Malaria Efforts - KFF",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxORTlabzVld2NmUmNGczBkc3hOZlowczVaX2owcTlULXYwdXF1bmxJNFZkZldCNEFOZ2tGT2V6a2dDT3c0RWdlNkk4V1I4WkJ1ekgwSnF2SS13R0tqVzB4Mk5wYmduQ0g4czJnclZVX3dnYWxqWHJXWGl3czgzLV9DeFltc1VvbVB4X0hxSHN4QXptRmdoYkh3ZnBOUy11U2JWemZvSHA1SU9mSWdVRFl4V3VLN1dUV1lkcVB0SERIZjE?oc=5",
+        "date": "Mon, 23 Mar 2026 07:00:00 GMT",
+        "source": "KFF"
+      },
+      {
+        "title": "Sweden - Commonwealth Fund",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOci1HSGFBLTJPYmtpZ2xjWEdVOE9fWW1FREk2aE9KcG9LLW9fUXJzOTBUOXd0UUlSSG5wby0tMi1TXzFPM2FsZnA1Wlc0dXJ3TjAtczRTdHlEaFBOX0JWQWEwbTY4WlRCOERTUTRUc21ib2JKUVU2encxMjdiX19HU1NXVk5EM1BhQnZXUw?oc=5",
+        "date": "Fri, 01 May 2026 07:00:00 GMT",
+        "source": "Commonwealth Fund"
       }
     ],
     "scifi": [
-      {
-        "title": "Upcoming space & sci-fi TV shows for 2026: Star Trek: Strange New Worlds S4, 3 Body Problem, Vought Rising, Blade Runner 2099 & more - Space",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ORkZBTFNfbzZrN2N6Uzh2VEN4c2ZLRE5pQUZRVVlXaWRlQnN4dVhZNU5CQXFKd3RBVkwtUWdfUWkzemFYcUJNT3d4clljN1NyNzRqYl9iVVhYZw?oc=5",
-        "date": "Wed, 22 Jul 2026 07:00:00 GMT",
-        "source": "Space"
-      },
-      {
-        "title": "SYFY's final (for now) original sci-fi series is finally coming back - and it's well worth watching - Substack",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8weWRhUWFIVUF4eTRtdjBteGd2VTJsWGxINlp0TElXMXVIVmhDdS1ocVRiam1aUmRvZjI0ZU53VjVRalVPVmFwcTQ5ZkJfY2szLW5zZ1JzVWZ0LUNJVi1hT0xyMmtOLTJBRV9TSURRM1BQaXllaVc3eg?oc=5",
-        "date": "Sat, 20 Jun 2026 07:00:00 GMT",
-        "source": "Substack"
-      },
-      {
-        "title": "'Alien: Earth' Season 2 First Look: See the Cast Behind the Scenes - TV Insider",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQjBDSkFzb1Q1R1F6RHJ3TmtuV2Z3bWdiZ281VzBCQktrVzRTQ3VjZ1NlQnprUFY0dWZ5cWhuRGpGbDRwWkx4WGtlQ1dXWHo4dEx1SS1qdXNRVEY2TlhDY1ZKNnliY3ZaVkJDcnFfVVF5NTIwSnJ2b3hmN3RUMS1IZ2FrNWdmSDVLY01va05TYTJ0dTBTUjNDV3RIVy1hdU0?oc=5",
-        "date": "Tue, 15 Sep 2026 07:00:00 GMT",
-        "source": "TV Insider"
-      },
       {
         "title": "The Ark: Season Three Premiere Date, Trailer & Poster Released by Syfy - TV Series Finale",
         "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQc2FURkVFV2pzSlJxYlgyU2M1TmZWRHdxb1dQTldTV2hNX3BCWUp4cDFqSEw3azg5Vy1OTHJQWnZKdDBYNkgtZldPNkV4N3dCNnlWZDJtbGtjaDdsenRDNGRib1FycEttVVJ2OUYxLUJTanRQSzZZYk5WQUpwdXBLOW5Xc0RxVmlLRnVYa1FObW9lN0JzWTBlUFNaZ0pRQmxBUzk1X9IBqgFBVV95cUxOU25rR1RlbW1MNkZWdVdCTG1SVF8xakExcWNGSjdBdkJxWXlQQTJLa1o3UldaT1JFVHJ2OGxMWlp6RURMQzNqVDEzWGFhMk5WQ3RTT29WV0I2eDcxYWk2OFY4NUJtRUtlbnppMFpmRkNZamRSZENuVDJDR3lJMUtac3ZRdTBzR1cyZGdqZHdMZ3ZmangzX0g3VDZGMFRXYU1WVG9rQmllYWRUUQ?oc=5",
         "date": "Sun, 21 Jun 2026 07:00:00 GMT",
         "source": "TV Series Finale"
-      },
-      {
-        "title": "15 Best TV Shows Based On Sci-Fi Books - TVLine",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1XRFo2YXFFTHpDVGp0a0o0UVZ5UFQxVWNWRlQydlV0azh0TUZLUUhmcUkzMHNfeDA0dXllWktVUjdmYTVQUzhZU1B3NElYSGhoaVJ5Sk9nc01OV3FNNkNHeklNcDQ4eDAxaFhydU4xaE9pNFpVR1E?oc=5",
-        "date": "Sat, 26 Sep 2026 07:00:00 GMT",
-        "source": "TVLine"
       },
       {
         "title": "6 Sci-Fi Series Renewed For 2026 That You Should Binge Now - JustWatch",
@@ -187,54 +163,84 @@
         "source": "JustWatch"
       },
       {
-        "title": "The Ten Longest-Running Sci Fi/Fantasy TV Shows of All Time (Updated) - Cancelled Sci Fi",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdTZjVjZ0LWM0SFlkV1M5anZ5N2RtR2VIdTlGUTFIUHZfUWN5SHBOU19YOXFGUjItbjl4aGY0NUFWYWY0VVhBZVZHNUl0clFKcmE2UlFhRXlCVkxTSE1ZR0ZGWnZGcHBJV0YySjB0NWdDVGtYZ3QxM3B2dUFSUWdkMGl2QmE4Q3RjdktoSjBBM1E4bG9JU1pETDA2RjlwV3li0gGgAUFVX3lxTE11NmNWNnQtYzRIWWRXUzlqdnk3ZG1HZUh1OUZRMUhQdl9RY3lIcE5TX1g5cUZSMi1uOXhoZjQ1QVZhZjRVWEFlVkc1SXRyUUpyYTZSUWFFeUJWTFNITVlHRkZadkZwcElXRjJKMHQ1Z0NUa1hndDEzcHZ1QVJRZ2QwaXZCYThDdGN2S2hKMEEzUThsb0lTWkRMMDZGOXBXeWI?oc=5",
-        "date": "Sat, 24 Oct 2026 11:00:00 GMT",
-        "source": "Cancelled Sci Fi"
-      },
-      {
         "title": "All the sci-fi and fantasy shows confirmed for 2026 (so far) - Winter is Coming",
         "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1mcXY3MnVWVGtxZEc4Y0Z3aTc3V1RGQjlQYVFDOE43VTZLZGhjelk5T3dFT3ZYU0tDUXdRUnZXUDVqNUY1c3EwOFM5eTJGaHp6Q0dFcUJFTllXZWJJbC1EMFVEV3JiX3J2Uy1yQTBxV0VTLVFk?oc=5",
         "date": "Thu, 21 Aug 2025 07:00:00 GMT",
         "source": "Winter is Coming"
       },
       {
-        "title": "53 Of The Most Anticipated New & Returning Scripted Shows of 2026 - Deadline",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ydkhMQndiUWhRdFNIbkpYMFhvUklZT1BpTk9IWi1TbDZYMHNadVhzWXhBWG1NQzVuTEtjdTJ5cTdsWTd5OHctcHFQZEpoNzNsbEltbVNmQXVueTNGRmR4R3JaZDl0R0ZlbUE?oc=5",
-        "date": "Mon, 26 Oct 2026 16:00:00 GMT",
+        "title": "‘From’ Sci-fi Horror Series Renewed For Season 2 By Epix - Deadline",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSkphVFdnaURrd05Nbkt4Nzc2LTBmc3hmNWoxNk1kcE01YTNnWVdjSkQ0SXBkczZUMTFKTkNRTkl1cHFGLTA0al91ZzhYV1FoU0JtaGYzc0RYSkQwbmp6VnBtYlhIQXlQVnRNSHhvYzR0UEVyT09HZnk1OVhCM3REQWd1OWxQQ2ZKeS0wMw?oc=5",
+        "date": "Sun, 24 Apr 2022 07:00:00 GMT",
         "source": "Deadline"
       },
       {
-        "title": "New Sci-Fi TV Shows (October 2026) - Rotten Tomatoes",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNU0lVeFVISGdfTFY5bXFEYTd5WjlnYjlDQ1E3VUZtMVlBYktLemEwLUt5bDlFUkNDQ3Zyd240amZOS0FicmJrRFp5Wlg2ckIyTVJ6QU9UOVRNVWFwNXFuOEpfRmFaUndub0RfdFY1Y1prTmQ5NTRvUE1XUWtWZE1nbHJyQ1F0bVk?oc=5",
-        "date": "Sun, 08 Jan 2023 04:17:22 GMT",
-        "source": "Rotten Tomatoes"
+        "title": "Apple TV’s Biggest Sci-Fi Series Ever Gets Official Return Update - Collider",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOYzFzel9PMGZNcG80eG9XakxnclVXS3dSMlJsNU5NTFFURUhBVTllODVheXJmQV9vWXJ6c2hlbmVPZ3NNWWJpeExGNDR3UHFGLWNpQ0dTVHV1V2Jpb3JqQWFRdUw4YkxibHBMWXlOY3Q3aDNraHZkSmJPTDR3NzlBSGlSWmR2SzByVC1feHlnYjgyVmUy?oc=5",
+        "date": "Fri, 14 Aug 2026 07:00:00 GMT",
+        "source": "Collider"
       },
       {
-        "title": "More Missions to Come! SYFY's The Ark Renewed for Season 3 - Everything to Know - SYFY",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9qLXdMVTFrenFabWtDU0tIVGI5OXZKYnZhZFNGOWFOeFF0cGotblVwaWEycHBxNGRfS0tkSEtybURtTGtXVDlBcXBqLUVyb3FwSjREakZmSVIybTF6bEdtUGNsNjNMU09paGxoTTFMemVXc05ENkE?oc=5",
-        "date": "Wed, 05 Mar 2025 08:00:00 GMT",
-        "source": "SYFY"
+        "title": "All of the Cancelled and Ending Sci Fi and Fantasy Shows from the 2024-25 Season (So Far) - Cancelled Sci Fi",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxONGc3cFBTZzRYY0VKckdoc0FQSWp1Ykp5WlM4QU5JMnZHZ09Pa0F1NE1YSXpIUDFFNGw5X04xaG1TX2ZXQ2Izcl9BN0lDNFRwOWRXZkNmUGdQTFlPZDQ3b0pRaGczOXRlaGU4REdCZDlSRUNnUmtyVnQyd1ZoeWM1YlBXei1RemRQeWhGbVdabkhjR25Kd3RrcnNiZU9WWnc3MkppMXNKd1ltc2FveGtTUXItaFU5MVFtZmRJMUVzdmg4dWpEWlozblZn0gHKAUFVX3lxTE40ZzdwUFNnNFhjRUpyR2hzQVBJanViSnlaUzhBTkkydkdnT09rQXU0TVhJekhQMUU0bDlfTjFobVNfZldDYjNyX0E3SUM0VHA5ZFdmQ2ZQZ1BMWU9kNDdvSlFoZzM5dGVoZThER0JkOVJFQ2dSa3JWdDJ3Vmh5YzViUFd6LVF6ZFB5aEZtV1puSGNHbkp3dGtyc2JlT1ZadzcySmkxc0p3WW1zYW94a1NRci1oVTkxUW1mZEkxRXN2aDh1akRaWjNuVmc?oc=5",
+        "date": "Mon, 11 Aug 2025 07:00:00 GMT",
+        "source": "Cancelled Sci Fi"
       },
       {
-        "title": "3 Body Problem Begins Production on Season 2 - Netflix",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBoZHNWMDRJNEEtc19RRlcwVXlSS2p3YVg4eGcxb05nZ3dIMUdRdXdRZS1JM0F0UG0wdU9UN2FjN3NNSW5JX1VuZWZYdDk4WjZOVHJNM3V3YnlpWENnZGhEcjFZbVU1ZXk2NDdrTzNR?oc=5",
-        "date": "Wed, 15 May 2024 19:16:04 GMT",
-        "source": "Netflix"
+        "title": "Apple TV+'s Underrated Sci-Fi Show Gets an Uncertain Update on Its Future Amid Renewal Rumors - Comic Book Resources",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBUazNPeGZZXy0xVmtjRjJvNGQtdEUzV001U1l5MnNsTnhOak03SlVLbE5qTmhaTTV6dGE5Y2tMZnd4WFRVLW14WVJmUjFSZkJJZU52MWlILU84bVRsMUpHamtNRlk4SzZidmZZNmNsOE5YUQ?oc=5",
+        "date": "Fri, 04 Jul 2025 07:00:00 GMT",
+        "source": "Comic Book Resources"
+      },
+      {
+        "title": "Apple’s acclaimed sci-fi hit “Dark Matter” renewed for season two - Apple",
+        "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPbEZkTGRXa3FaU2FMNmVVR1ZEdWtpNGxpUWNzNEZNWjF6QUxzWmFaeS1LOEdZVEFZb3RmVm0tR3BvZHRHMERDdDV2MllaN1duZHhxTm9SOEFNWXpzU1h0enZFMmM4andtXzdLaE5STi1DeU9vSkl5ZkNmT3E3UHZrTDRmNjZmLUtITHhkeWJHSHo2ZHZhb3g3dENzMW4tRTBBallfenViM2tQVlU2MEJFQUpQZTc3eTZRZHlzcGxFeHVpOEJFUkEzVWRIckNrSlJVU2dMVW5wNmtvc1JyS09YYlFmT3YwMEZkaVhTZThHTTJ6UU5Xci1COTUteXpTTjA?oc=5",
+        "date": "Fri, 16 Aug 2024 07:00:00 GMT",
+        "source": "Apple"
+      },
+      {
+        "title": "‘3 Body Problem’ Season 2: Has Netflix Renewed The Sci-Fi Series? - AugustMan Singapore",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOeVFSSUhSV09uWFo1bTRxNG4tMHdZaGVqTzBtZGp3MzdMVXJTQkVBVm13aXFPYXJjbTJBZTQ4eWFNNU1PcjRmeEpxR3JtUGxKT2ZDaDZqVkZSUTY3cHVkZ09naGVVc29QLTFPZGlheWF1OGtQWUw2eVpDbjY5OFFCZWU3cFZkNlY2bWJQZnZ3a2l4MlNXN2dIQ2pGV09JUdIBowFBVV95cUxOcy1SY0FDTVRuNi1VR3ZoNGhEbkxmQ0x4eS1XSWI2SjBCdnd4VU1CYXRrZzlYN0FXZ242bDB2OWpHdXF2ay1TQ0FwYmVxbWg1eDA1SVA0UEtwZWVpN2ZCNWZjb1c0MTdLVTNseFZIdy14NlBjM3V1Q0ZLQzlvYXhaczBMbWNrTWNFRkhnMDFSSE5tTF8zb2tXSUU5bGk0UVA0Qno0?oc=5",
+        "date": "Wed, 28 Aug 2024 07:00:00 GMT",
+        "source": "AugustMan Singapore"
+      },
+      {
+        "title": "Harold Perrineau-fronted sci-fi drama series 'From' is returning for a third season. - Facebook",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOVGh3Szg1SjVucGxnMUFVY3lDZlNOZGcxZ2ZZRjJScUFEanVXU0JPUV9MRi1WSzcwWTE5czBLanJvV21JN28yUl9la1VNNHlHX0s0TGYzWVdVV0VzdkpjMVg4dllJeVZSWWYtbmdia0pRbmtPNTJ3YUN2RTBSMk5KMjhGLWpIUUxDb0llYnY1Zkx2U0hMb25pTHhwWlVLZGdzSWdkSElvWjhXeHRhVktYY1JVZ2liaEYtRVNPbmhMdWhYYjRQNF9uc0FnNGg1V3V1dE13?oc=5",
+        "date": "Thu, 29 Jun 2023 07:00:00 GMT",
+        "source": "Facebook"
+      },
+      {
+        "title": "A Season 2 Of 'Beyond' Is Definitely Possible - Romper",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSnRLYUpKY3p0MXkwcl9iVDFLc2lDWmNsWEtTYm1UODBKMUxheTZNLVNWbHR4cVZnRlBGMlFLWWEzWldkM0YtcUo4Vy1Mb0U4eUtiQnNyUTFlclJDWkg4NGJheV9EOTlISXJfY3VEYkIzRThGNkc0YXpRenN2S095NWlWR1dCTXktTHZ2UDF6RnhNOVliSVJ0eDcyR2hPUnBDejFrck05d1JmdmhRcnM0?oc=5",
+        "date": "Mon, 02 Jan 2017 08:00:00 GMT",
+        "source": "Romper"
+      },
+      {
+        "title": "Alien: Earth: Season Two Renewal Announced for Sci-Fi Thriller Series on FX - TV Series Finale",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNeDRkSGd5NnRqaFdEdi1DSTVMTzU1V0VQWUs5V0NOODJWbXVDZ09yRjljbk1RQkpTWUpYQ08tR3lqbzEtOEZYQWp0MXdUMVphVFJLVkZ3SEp3Rm4wVkswRkhXNmxqUV9rU045eEJMLS1BMTIza1BjMlZyOFYwUUs0c2YzbllOV1JFMHRlcGNJQ2ZRWmRENld6NXdUcjNtTWpYUXczdFZjQUZTVS1WaFHSAbMBQVVfeXFMT2MxNEFkNU04OXBjVWd5ZDZqOXFHcGNEeGo3R19fc1ZxZ3FyZVJZY3pWQTd1MXVNeVdpTzNsVG1kRWFfckszSW5wTWpQRzZsU0NZS2NKZUFmanFLSXdUMS1pdWh5aFdKa3hibDhlcldIVGRSTFl6R3F1OUluUjF3TXp0NkhqSnNYd3lHSlIyS2MtREhaMm1Ma09kWVBFS3RnbnJFSVRyTmJkdHFTVU5xTGxRSjQ?oc=5",
+        "date": "Wed, 12 Nov 2025 08:00:00 GMT",
+        "source": "TV Series Finale"
       }
     ],
     "sports": [
       {
-        "title": "AP college football Week 8 poll reaction: What's next for Top 25 - ESPN",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNcnJ3YlpVanFzZUg4U2lzYk9kWG1WZVhXaHlzN0JFWElUTmg4akRKNUszMkVuS0t0WEs5bUpaMUs0NkhSR3NNdTktdlhac3poQUdOOTNlRVpQUGZaSjNhMVBGa2gxZEdCTkFGbFI0OEJBdGF3NlN1MHBBbFVTdi1LTEJLVmtTVkFNZXk1d3dIekxKclNsNHRRa21kdEdKbVZDVkZSRFFzaFVSbjN4OWRR?oc=5",
-        "date": "Sun, 25 Oct 2026 19:00:00 GMT",
-        "source": "ESPN"
+        "title": "College football: TV schedule, game times and previews - NCAA.com",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTjBLOUlNLVdlTm90TzhSTmVIRDc4ZW1KWU1UQmV2dVk4dFpCQWp4UFV2WV9tTnhXODRlMlhrNElMY21OVGVfemYyS1ZWdGJoZlpNZVFSSE12YWlzUzJBaU03MVk0TWRzdnp2cWlUbkFhN0NnWU9aaVB1MGpRV3lEWW1UZVdOSzZtbVFWaDdURGJnZG1k0gGaAUFVX3lxTFBTNHU1YktqLVdHQmU4MnJkQ3BrUmJrQ1RrMW9aTExrS0tVdFJ5dG1UOTVnajh2MlRHU2Rlems1R090dzlOaG1DZ2pnTUNBWmtFSnhyd3pZWTJXWk9acFhDZUlPLVJtYVZWZzBCQ3VRTTdXSWJKSTRTMGcydy1aQkRkVUE3YUZ2bUNKYVlJNG4xQnZnRklJT2tmZ1E?oc=5",
+        "date": "Sat, 31 Oct 2026 10:21:19 GMT",
+        "source": "NCAA.com"
       },
       {
         "title": "AP Top 25: BYU tumbles below Notre Dame as Utah, UCLA rise in college football rankings - The Athletic - The New York Times",
         "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWnhGUUgxeE1Sa1NUREZuanBaVFJ2a3N3YVdaSVZHMy12X3NjTWZHU2haREZxZkNhQmV2M2VzLWRXZGlXQXgzWUxISmRSai1MZkhMMFFWOUNBUUJRX3dFLVB6RjJYSmhYem9KSkF5YXFBRkVvTkVETXZuOFBsaVFlYUZSeGh5djZJTmZYV2J4UQ?oc=5",
         "date": "Sun, 25 Oct 2026 18:47:47 GMT",
         "source": "The New York Times"
+      },
+      {
+        "title": "AP college football Week 8 poll reaction: What's next for Top 25 - ESPN",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNcnJ3YlpVanFzZUg4U2lzYk9kWG1WZVhXaHlzN0JFWElUTmg4akRKNUszMkVuS0t0WEs5bUpaMUs0NkhSR3NNdTktdlhac3poQUdOOTNlRVpQUGZaSjNhMVBGa2gxZEdCTkFGbFI0OEJBdGF3NlN1MHBBbFVTdi1LTEJLVmtTVkFNZXk1d3dIekxKclNsNHRRa21kdEdKbVZDVkZSRFFzaFVSbjN4OWRR?oc=5",
+        "date": "Sun, 25 Oct 2026 19:00:00 GMT",
+        "source": "ESPN"
       },
       {
         "title": "College football AP Top 25 rankings: Some marquee wins have aged well -- others, not so much - CBS Sports",
@@ -255,10 +261,10 @@
         "source": "Sling TV"
       },
       {
-        "title": "Ohio State, Oregon, Georgia lead preseason AP Top 25 college football rankings - NCAA.com",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNTHpTVTU3M2JQNFdLTGZ5bUdpUG9YdGxHNkVzTGNFX2hueHpDZnRSWl9ZNDRHTm95X2FBbTQ2bUZKNXU1OXVFZllhM1V5bUQwR3FDQ0FpUlJoeGdmVHd5OFpCeXVfOUhVTXhGaGIydlh4eW1jd2I3RURUWVZlaWJwbmRvcktodFBGbm5mbE8yQWRPNWE0N0tPV0tvMDZLQ2VvR3k1UzhWM0ExS3BrbG9XU2VCQkZvalV2b3RkSnJOOGxzdVd1UHFfZnNB0gHPAUFVX3lxTE4wcU9SelZBbHkwOU5UNG4tUXhoeGFYOGFtZVRTN2prc055VWJjSERvN3ozeFpENV9nZkVRSnhxUmpxQnd3aS1QeEJfZnNGbTBGMHRpTk9iNlNQenpJRVN6cDFGclVGcGFkQ0M2VF9DMi01YVRPeDhiMW84UmdGYXNBdzFBc2RaYjBBRURmUERYT0hfaXpIeDdzeFlvN0NOMFhHQVlBMjUwUzdSQjh6djhFaFVjdzdKbTNfZFRBM1FnNlZtZWVsYWE0Ry1yQmppQQ?oc=5",
-        "date": "Thu, 27 Aug 2026 07:00:00 GMT",
-        "source": "NCAA.com"
+        "title": "AP Top 25 Rankings for Week 7: Who is the New No. 1 Team in the College Football Poll? - Sports Illustrated",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObTk3eE54Y1Y1em9HS1RuUGlTbnIxalVFeXRNNmZNdXAwazgyYU5Cd2VzRFZNMVJZQm5kNnROek9uNkZtdzJOcGQ2dVV2UmR1QWNpSUd0MWZPODdPdW1RS0dPVGVBNFNJd2lsd3U0QTNpMEZJTXk2bmlQWnBDSy00NmJlQWxXMmwyeVNfMGEyOVlBZ1NfZ2RoaGtCdEQ0ejh1V0w1QnhnZw?oc=5",
+        "date": "Sun, 11 Oct 2026 07:00:00 GMT",
+        "source": "Sports Illustrated"
       },
       {
         "title": "College football Power Rankings: How a wild Week 7 changed top 25 - ESPN",
@@ -273,31 +279,31 @@
         "source": "The New York Times"
       },
       {
+        "title": "College football top 25 rankings 2026: AP Top 25 poll entering Week 7 - The Big Lead",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxObGt4anhocm9XcjAxMjFyYktaRWxlWFhMSHlhS2ktN3ZZMTJJYVE5UVBCS2FxTDMwRGJNZjVVelNfeGNvV3F1UHdTVW1qLTZTUWJHXzZPWXNnN1Npd25TZmVSdG50TFhXNHlwbW9vRmFZZExmc2FhM0hkRjNsTjZpM2pwajJSVDVJbzBkSWRKTjg?oc=5",
+        "date": "Sun, 11 Oct 2026 07:00:00 GMT",
+        "source": "The Big Lead"
+      },
+      {
+        "title": "Ohio State, Oregon, Georgia lead preseason AP Top 25 college football rankings - NCAA.com",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNTHpTVTU3M2JQNFdLTGZ5bUdpUG9YdGxHNkVzTGNFX2hueHpDZnRSWl9ZNDRHTm95X2FBbTQ2bUZKNXU1OXVFZllhM1V5bUQwR3FDQ0FpUlJoeGdmVHd5OFpCeXVfOUhVTXhGaGIydlh4eW1jd2I3RURUWVZlaWJwbmRvcktodFBGbm5mbE8yQWRPNWE0N0tPV0tvMDZLQ2VvR3k1UzhWM0ExS3BrbG9XU2VCQkZvalV2b3RkSnJOOGxzdVd1UHFfZnNB0gHPAUFVX3lxTE4wcU9SelZBbHkwOU5UNG4tUXhoeGFYOGFtZVRTN2prc055VWJjSERvN3ozeFpENV9nZkVRSnhxUmpxQnd3aS1QeEJfZnNGbTBGMHRpTk9iNlNQenpJRVN6cDFGclVGcGFkQ0M2VF9DMi01YVRPeDhiMW84UmdGYXNBdzFBc2RaYjBBRURmUERYT0hfaXpIeDdzeFlvN0NOMFhHQVlBMjUwUzdSQjh6djhFaFVjdzdKbTNfZFRBM1FnNlZtZWVsYWE0Ry1yQmppQQ?oc=5",
+        "date": "Thu, 27 Aug 2026 07:00:00 GMT",
+        "source": "NCAA.com"
+      },
+      {
         "title": "AP college football Week 6 poll reaction: What's next for each Top 25 team - ESPN",
         "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQLTdQX1loS0M2Z2N3TzJ1bFh1OUVVUFdOWV9WZ0VIUHR5cFhndzc4SjRMamFBTU4tS1J0NFlmNnJhRDI3NC1lcm9FU1pkalp5dmcyVTd2SUgwVWFwMENhR3ZxMnl0V0wzYUJybm5WRGF5ZXFYLXg1MUxvdjNrQUJBOGZpMDZZUnl5V1kteGhqLVliZmRrblRSY1Z4RVQ1X1BLblBLSHd3?oc=5",
         "date": "Sun, 11 Oct 2026 07:00:00 GMT",
         "source": "ESPN"
-      },
-      {
-        "title": "College football scores: Top 25 rankings, schedule, results for bowl games - NCAA.com",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNalh1X3o3ZEpGZXA1Mjl3LWg1MEU0a29rMUJ5YkNnbktYbzNHV2FVT1dEa0VBUlFhV2hYUEtCWTRZNEZTRFhtSGFDRHJkMW9TRk5veUp3YjUtVzh5ZzVjaVlia2dJNUdKcDdpNjNUQkg1QUIwTzJUcmFpZzJGQUNnWjE0b0h3dEpRcVlLRU1PNzlmTW9USy1IV2RYaXU2WVFYWEk0ZURNVWMtYi14VmYtTFJUbS1pWVN3ZFhCQm1B0gHDAUFVX3lxTE9teFlEX3JROWMyaUxLRjBBa3BDWk85NzYwdlBRT3Y5X1JpSzZMUkhzSXNKSDJyTzFFQ3p5bW1WZV9pWUJYWFMyTHhIMG95V0dVNm1mYzNfd3pJNWROVlJjbVMzN2I0TFgtcXlPTGdDcjI1NHJ2d1I5anV4T05uY3FrZTdFelRtZEpPUUtvUHhxaFdDUjhSMkVZMUZITTVxR0NUajlIWUw2SXUyYzl1eVhmSHZoekJtZDc3aGUxU2Z6ZVdkdw?oc=5",
-        "date": "Sat, 10 Jan 2026 08:00:00 GMT",
-        "source": "NCAA.com"
-      },
-      {
-        "title": "Projecting the College Football Playoff top 12 after Week 1 - ESPN",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQVNkSTVYVFZ1SW9IQV9GQmYyTDlCU0VpckVaOURjTmlHa2RVbGxvZndjY01IMGFCX3dibmV1MFlFd0Z3S19DVm1xR0RIWUc1ZFZqWFVmNXI2LUtCM01SclFIZXhTbl9fLWVrTFNrS0N3YnhHNGJYMVRpQjVVZGNqcHhsQXIwNnJOemVEdWRldVpoMTdnRnVKZ0o2UGg0MktmelZMR3dwMFVGTTA?oc=5",
-        "date": "Sun, 06 Sep 2026 07:00:00 GMT",
-        "source": "ESPN"
-      },
-      {
-        "title": "AP college football preseason poll reaction: What's next for each Top 25 team - ESPN",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOM2FCZTJCRDk1aERIU2tUdE5ZeUg1UVA4bnEzRHpYOW5UQzYwbXlzQk1ObXJSSWlRa1BNaWt2aGs5aUNaeEdORzAtU2lFTm1fb2tJcDBCSDJ4aFVPN1JSaHlPYTJ5MjRtZ1Rwdk1oc0g3NGFDME83aVhITF9OMzc5ZngzUWZJNUR1UTZXMU5VSW5MT1NPd2xaUmJkMkg0S1lld2NTZlowZUZSZw?oc=5",
-        "date": "Mon, 17 Aug 2026 07:00:00 GMT",
-        "source": "ESPN"
       }
     ],
     "lastz": [
+      {
+        "title": "Whiteout Survival codes (October 2026) for free resources - GamesRadar+",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5DNWtuY3RobUo5RFZPeVpqSXc3VG1TZ2I4akNvTjQ5QnJXNmFNOTZGaERBc21ZbzFYUkRaOFBrcHdPcTg2bnRzZi1vTHc4UXAwc2ptSF91cGkwYk1va0ZCcG0tVjR4S2hGTmxjWlA1SmRreFlmc0thRGpEVQ?oc=5",
+        "date": "Tue, 27 Oct 2026 11:02:56 GMT",
+        "source": "GamesRadar+"
+      },
       {
         "title": "Last Z: Survival Shooter Gold Bars: Price, Best Value Packs & What to Buy (2026) - topuplist.com",
         "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUUgxOGZDTzMxVU5ncmo5RkVkTXBldjQyNVR0dzJLVE1PTm4wVUpvVm1FenVtSGg2YzFWeFFTUzVDeU83MDRIbERYZXhLNmMzQ2haajRIMGMtZWJJMHpoMDdfNl8xRWFsb3dRVXFRY19KZFV4UTdCZU10STlnMlhsbFlHYndaMXZtTXNBYlF5a3RWWUlqcEczcnIwVXg?oc=5",
@@ -305,10 +311,10 @@
         "source": "topuplist.com"
       },
       {
-        "title": "Latest Universal Tower Defense Z codes - Rock Paper Shotgun",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1qZDVWVGhFc0F1anBMTDB3cVc2VEdnZ0hDVk4wdllja0dacmxYZHJvLU1XSmo5VklhSGw0TDBmWGJfM29iQjJZSHpPWFlsT1pLNlAyekRPbnJnWWpleVQ4YmhPMkhqWkR5V2lOUVphTmIwX2pCT21iVg?oc=5",
-        "date": "Wed, 22 Jul 2026 07:00:00 GMT",
-        "source": "Rock Paper Shotgun"
+        "title": "Universal Tower Defense Z codes for free Gems and Rerolls - GamesRadar+",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5zdUM5Q2JxMlFuMWlzOFA5MHlKVnM0WnVTSlcxVG1scHEwNVBLekNLckFWQUwyUmdKRmRibGVtcUVKamlGOURoSVVvVzJhYmN1bktxaU1USmQyN0tqbE4yREktejRlSnlXaGNaMkQ2cEJHOTZxYW1IbmtfTVo?oc=5",
+        "date": "Fri, 02 Oct 2026 07:00:00 GMT",
+        "source": "GamesRadar+"
       },
       {
         "title": "Last Z: Survival Shooter Codes (October 2026) - Pocket Gamer",
@@ -317,46 +323,28 @@
         "source": "Pocket Gamer"
       },
       {
-        "title": "Roblox Game Codes (October 2026) – 1200+ Active Game Codes! - Pro Game Guides",
-        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBPZGRBdVN5ckw2LWl5RElpdGppYjgydlZpamJRVHRLVEEwNnZFemlCYm9RMmRyeWhCeGU0b3lBTWJFaXRTb1VmM2g5NWFNWDJaeUsyM0tfUlNyUXVxM19UaQ?oc=5",
-        "date": "Tue, 27 Oct 2026 12:25:34 GMT",
-        "source": "Pro Game Guides"
-      },
-      {
         "title": "POLY-Z RNG Codes (September 2026) [Zombie Shooter] - Pro Game Guides",
         "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1UUkVMQXA2d0p2aG1XUERIdXRfcjd0U0xfcEE0V3RoMGJmLWVFa0hRUTZFN015djRRT3RoYjFzNldGMUdWaGxWN29iRG9DNkxoSm5fWWQ3SVNHcy1Wbk96YTZEMA?oc=5",
         "date": "Tue, 01 Sep 2026 07:00:00 GMT",
         "source": "Pro Game Guides"
       },
       {
-        "title": "Magic Chess: Go Go redeem codes (October 2026) - Pocket Gamer",
-        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0xYVhXakJOdk9Va1ZRY3NRclZJczZ2anhDQ2RXUzhyajc4enBJM2phN1Azem9za0hicFBZal90S2s3YUJxVWdrZzQxd1AxMEdmRjF2TmF5TjQ0MU81R1ZGZ0NR?oc=5",
-        "date": "Tue, 12 May 2026 14:45:32 GMT",
+        "title": "Puzzles & Survival codes: October 2026 - Pocket Gamer",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9XMjNacnVHMnowNGdBclloVjgtUHZ1ZXRIRWpVOVFvUzFNLTh0M0tBaDlUQjQ2NVhxLWg3X3RxV2paQmt5Z01KYV9BRTFodDlOY3pmdkFZNGUzXzBZcENIcA?oc=5",
+        "date": "Sat, 24 Oct 2026 23:02:00 GMT",
         "source": "Pocket Gamer"
       },
       {
-        "title": "Roblox Game Codes [October 29, 2026] - Sportskeeda",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9Ma0pGWGxHb0NOQkpDN0VMbVNwb0NJeDZmaHU4ZlViZDlGVGVYOHpDdlpJbnNsU0NNUTBxV2Fva2k2bTFlU0tZdEN1T0g0VVI2RVhGNzU2Y0F2QnBYak5wbktFTGhSWGxMSjkwajQ1NA?oc=5",
-        "date": "Fri, 30 Oct 2026 01:13:08 GMT",
-        "source": "Sportskeeda"
-      },
-      {
-        "title": "Reminiscence Zombies Codes (October 2026) - Beebom",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBFS3VjcEhESzM2QUNIclVrN3FadXV1eWdHd1ltUGRCNXE5YUZMNi1pTGd2YUVaZjR3MVRyZjBmdGg1RXJfelBTbFdxeDdZTUEtdGNNMk5kVy0wQdIBX0FVX3lxTFBZb2c3cmZVT204cUZtNTJxOURTYjdRYVJOc3BDUjJoM1ZrNVVuMlRXVk13TkgyOXIxMTVTbUpRZ216WVlZOXBwb3ZOZVNUUEdyVUlPSHliTTMxX0ZQR29j?oc=5",
-        "date": "Thu, 01 Oct 2026 07:00:00 GMT",
+        "title": "Roblox Codes for All Top Experiences (October 2026) - Beebom",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0yam9fSEN1cnc1MGh0T3RCMFNyZi03ZzlxbGJBTXJTMjg2TlUtRHdBWEhhbmYyczdVdmtwbWVSX1dYSl8xZHQ4NjRZdDhSdG5Sc0gtTm5R0gFbQVVfeXFMTW5tNXFNTkNDU0hHX0I4X2xLNjhrcGpBN05ZcXFuenBMRXlwbXc5WUhGTHl3N2RHdnF2cTFCeXlaT3pPRVBMakYwYVZTMGlTb1ZkakRUY1l3c0V6TQ?oc=5",
+        "date": "Thu, 22 Oct 2026 21:48:32 GMT",
         "source": "Beebom"
       },
       {
-        "title": "Roblox codes list - free stuff to redeem today - Pocket Tactics",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1xZXJ1ZU5xaFQ3TnF2X3pheXJnYzhnb2RNc1pxYnVjWHFxTWhvbkZGaXV6UTBjQXhYLVVSZGUzSlA1Q2UwS19iaUlZR253WWUzejZyNGVYUHVhZFk?oc=5",
-        "date": "Mon, 24 Aug 2026 07:00:00 GMT",
-        "source": "Pocket Tactics"
-      },
-      {
-        "title": "Hunty Zombie codes (October 2026) - PCGamesN",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5NUVVBREFoMVQybUw2bnlOWUpiRTYtZTZwemVBOW5JMFhOY2pjT2wwa1NOSGE1aUZoNEdoMTRKQlR1bldnbWl2UE9CbnR4N2xISURJdmxn?oc=5",
-        "date": "Thu, 21 Aug 2025 13:56:59 GMT",
-        "source": "PCGamesN"
+        "title": "Survivor.io codes for free Gems and Coins (October 2026) - Pocket Gamer",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE05U0lWLUdBMnJoNE0xc2lQUEVYZDhULUJGWHhPelJNal9jR01ncmhLeGRSOUNiWnBrLU5vM3VuSzNUMzNDRlMxSDNJc0luaktvYm45TnBUQ3ZIUQ?oc=5",
+        "date": "Sat, 24 Oct 2026 23:56:00 GMT",
+        "source": "Pocket Gamer"
       },
       {
         "title": "Zombie Waves Codes (March 2026) - GameRant",
@@ -365,9 +353,9 @@
         "source": "GameRant"
       },
       {
-        "title": "Roblox Codes - complete list of redeem codes - Pocket Gamer",
-        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAxQU40cTRuX3FhbzJlNml0cXozU0dOaGVvRVJFWnJnU2lpX3ZXZEpCdUJuVlN5TERCNG1xU21nSkdQM0dSdGhhRVJteHFPdTdSZDFB?oc=5",
-        "date": "Sat, 24 Oct 2026 00:00:00 GMT",
+        "title": "Last Shelter Survival codes: October 2026 - Pocket Gamer",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9GdVl0UldPMExjMWJpVHJoeExMZ09EVVZkS2JJd19kQXZQdVZoQ0syaFlkWWxhY2I2SWFhZnN1bWNuMU1rdjJhMmdOUnNJNVk0ZGloRkVmdUo1cEJMMGhDbGFoZmV5TVE?oc=5",
+        "date": "Wed, 10 Nov 2021 21:40:15 GMT",
         "source": "Pocket Gamer"
       }
     ]
