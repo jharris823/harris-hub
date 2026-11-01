@@ -1,13 +1,7 @@
 {
-  "updated": "2026-10-31 11:41 UTC",
+  "updated": "2026-11-01 11:41 UTC",
   "feeds": {
     "comics": [
-      {
-        "title": "Valuable comic books: Top 10 most valuable comic books of all time - Just Collecting",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbHlKXzIwRUxobjlobzBYclpoNk82S2VzNy1EQ21tUmZLTUNqRmZzVTdIeXJGeksybGxreDRlWE1rbWFHNHRMLS1VM1NGYnowTll0Z3ZCMGxGVjBiRVBsSktOamVTcllsdjVSZHlyWnZDRGNaRVk4eERyV0VXVE52eUpxcXg4TjU0NW5OOXRMT212OUh1SXpoeFdwYW9ZSzQ?oc=5",
-        "date": "Wed, 05 Aug 2026 07:00:00 GMT",
-        "source": "Just Collecting"
-      },
       {
         "title": "Jim Lee X-Men #6 Cover & Frank Miller Daredevil Pages Sell At Auction - Bleeding Cool News",
         "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcGRKYnptODMzN1JXXzlNYVZQVmV1elpoSG0zQWJ1U01hcjF5MmlXUXh3VWpaVllNaHlFek5GNFo5MlppcDhILUw5ZHZpd0wxLTlBQkJjMl9BQW1HUklEV2hXZ3lORDJWcXBOdTMybUgzb25DWmVZRzdyRmRpZHJpdmFmME9QYXB6WUY0SU82SllnM0FUbWZPbHQtbkNNcllG?oc=5",
@@ -15,28 +9,16 @@
         "source": "Bleeding Cool News"
       },
       {
-        "title": "The comic books selling for millions - The Times",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTTJna1A2NTJoSm96a3J5TU5Oa3l2RTBxbDhUUHJYTTNSTml3Vi1lS3F0SnM4anFUYXZZVzJ3ZTRwcV9vTGZfT21xdE5HanZYQjBDNXVqZE94Rl9XWTBwRjU5N1huUzFGRnFVTXBwQU45QXJjOEI4TnU2LUc5STBMUHlSa09OSW5sRUoxNGtJaFlqSHlUckt0LUU2OGdpWndY?oc=5",
-        "date": "Fri, 21 Nov 2025 08:00:00 GMT",
-        "source": "The Times"
-      },
-      {
-        "title": "Highest Graded Copy of Sheena #1, Up for Auction - Bleeding Cool News",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNSXBTVTZtaEdjQ1RZUVdTd1VzcjJrTXo5Qk1veGpvQ1NIajB1a0x4dF9GSzRqY2xRWTNHOUJBM2lZUEVURWtjSzFHOW9RcXFwbkU0ekhjUF8tNUhJVUdIWFNZc2lIa1h1cGtOVS02ZXpCSEp4SWctWHZQaFJ6UzktSHVrVnp4dw?oc=5",
-        "date": "Sat, 19 Sep 2026 07:00:00 GMT",
-        "source": "Bleeding Cool News"
+        "title": "Valuable comic books: Top 10 most valuable comic books of all time - Just Collecting",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbHlKXzIwRUxobjlobzBYclpoNk82S2VzNy1EQ21tUmZLTUNqRmZzVTdIeXJGeksybGxreDRlWE1rbWFHNHRMLS1VM1NGYnowTll0Z3ZCMGxGVjBiRVBsSktOamVTcllsdjVSZHlyWnZDRGNaRVk4eERyV0VXVE52eUpxcXg4TjU0NW5OOXRMT212OUh1SXpoeFdwYW9ZSzQ?oc=5",
+        "date": "Wed, 05 Aug 2026 07:00:00 GMT",
+        "source": "Just Collecting"
       },
       {
         "title": "Batman Vs Superman in UK Comics Auction - Arts & Collections",
         "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZFdiWl8za3VJeURDM3FfamRQTnZESUFpY3lwTmFQc3NZUFVZUGpRRXM3Y0VKaWZLbUhDQ2U5QlZKMHk0V1JHUC05R2N1dVlZUlhkT1FOVEpfMlYwc3RldDJyZEJORC1BZVR2X1ltNldkUGwwSGFwcTJ4MEE5S3FSQg?oc=5",
         "date": "Thu, 30 May 2024 08:49:59 GMT",
         "source": "Arts & Collections"
-      },
-      {
-        "title": "Going… Going… Sold! - The Daily Cartoonist",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1BTWVESWZBUE9NOF9PRXVpUGo5TXRUcjlaOUJHZEhsWGEtOUYwckktTXFTREJzM1BqMzRpUUREeEI3SnV1dTJsd3U5WjFXZ0pqNmlzUXNoNzBIUFV6TTR2SXVmZEtfMWQzMWRRVjQ4NExielFqMXp0YnFR?oc=5",
-        "date": "Thu, 24 Oct 2024 07:00:00 GMT",
-        "source": "The Daily Cartoonist"
       },
       {
         "title": "Rare Comics and Comic Art Auction - The Detroit News",
@@ -57,22 +39,40 @@
         "source": "ABC News & Headlines – Australian Broadcasting Corporation"
       },
       {
-        "title": "Collection of every DC comic ever to hit Sotheby’s auction block - New York Post",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMDlYQmQ5dXF2a1d3REwxOVlVazRMcjZJMjVmenUyc0VGSDkxblE1bTBLcURJRG9paFJGbXVVOGJUVGYwM1FLTnFIN2pGLVVZM0V6OG9FWGxiakhLd3NTTWdaY3JRVzNpYVd4OGJKbExzQVFLUWM1R21DZ05xQ0tJdlFJLXkzOGctTzVma2MyQXlBdWs?oc=5",
-        "date": "Thu, 02 Apr 2020 07:00:00 GMT",
-        "source": "New York Post"
-      },
-      {
-        "title": "These Rare Superhero Comics Can be Worth Big Bucks - Remind Magazine",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOM0FWcU1EVHM0YU9BV1pwSm85QzcxRjF3aTRJY3lDSDdTNjQwUFlOWDhFbTVDeFltQ0U4dW0xTENBSU9oeWhHMEZiNktRdU5MYloteHFlWDBXbEFROW5lZmJNbUx6LTZXQkpGV1o0aDJZODhXb04wam1UZ01UVzlBQkdEOUtFSXVqT1pMSHhnZmpzR2FoekppNXJsZGs?oc=5",
-        "date": "Sun, 03 Mar 2024 08:00:00 GMT",
-        "source": "Remind Magazine"
+        "title": "Superman & Batman vs Comic Publisher in All Funny Comics, at Auction - Bleeding Cool News",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNHhIVGt0eVVLWk5RbkJFb3pzbmQyalFtQUxqbGZMcjloakx4U0puSmgzQ29CS19uVElUQXdySzVNZ196SGYtd3VCUGwtYTNTN2trWDRTTzNqX1ItUzl3WE5KMFRJclZ1TjAtQjU1WjNJdGZhUnRHdkZ2dG5ydTRpR0Q2NWVzQkt5ZTk1eEZaS3hJamxBUU5HQnFCb2ZDcjQ?oc=5",
+        "date": "Sun, 19 May 2024 07:00:00 GMT",
+        "source": "Bleeding Cool News"
       },
       {
         "title": "Collection of every D.C comic book ever published to sell at Sotheby’s - Just Collecting",
         "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPaHJ3U0Z6WW5wZ3I1TFVGakdIYnFWZzJlUTZiTFE5MnUxSzlpXy1MLWFDT1ljTG9jWVU4ajNxWjlwRHg4SUctQVBLdEVTel9uc20xTmNJSUw5YmFCYWZiRlBybTFGRkhDTjR6VFRNODI3a3c3QXlVM2NJV0d2X0lSNXBIeHdGWl83ekxRN2F1SFZlRUh4OTlqbTJqV3JYQQ?oc=5",
         "date": "Wed, 01 Apr 2020 07:00:00 GMT",
         "source": "Just Collecting"
+      },
+      {
+        "title": "Politics and Punishment on Krypton in Superman #65, Up for Auction - Bleeding Cool News",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNzBtZ2NEdHBlT1J4S0ZadFNmU3RUZjF5b25PZmM2VDhiYjJyVEpYV3I5cHNGTV9UOHNrWmlQdUE3Z1F5clM5bFJEa0ZVTDRrNnp5MmNkWVFMVGJMeEFyZUJiYzFoZlg5c05aRGVQaFBjekJESlBoOUFvRWlpMllWLVlhWFExQjhWZFlZZXROSS1VUHZiOHZTbkZGUzBrQQ?oc=5",
+        "date": "Sun, 24 Oct 2021 07:00:00 GMT",
+        "source": "Bleeding Cool News"
+      },
+      {
+        "title": "1st Green Arrow, Aquaman, More Fun Comics 73 to Set New Record Tonight - Bleeding Cool News",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNd1hwWFN4VEpWMzV4UlJaU2VNLVFhWTBfV28wUEdzX3Z0a09oX1UzTFpfSGduQTRWNk92cnotWWpjUFVBZk5OVGl4dkZlYnZwMXBtZHNnTHczazVvSXg0ZG5iOG82QXdFOUViTDhqa2dIN1NGWlJmVnVmdk9NYWxyMUhOdC1EdGpNeDRtWEtwV1NYajhHU1VWQ0xRWnhaVFdUVE1Z?oc=5",
+        "date": "Tue, 16 Sep 2025 07:00:00 GMT",
+        "source": "Bleeding Cool News"
+      },
+      {
+        "title": "18 Rare Comic Books Worth a Whole Lot of POW - LoveToKnow",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE50enlfN3BzaHE2TWxLOXV0cXBDTng1WDdaLU1pTldNTVcwcWZmb2JEN0hGb2F0SGdwR1I1TDJvRm1xRE5uT2VLUWVteGV2eVdBeE1zQ2xIYkg1MzAyTXlkcEt2S3pSY0szWTJ6RUxCWDNvOXNidUhGbUxn?oc=5",
+        "date": "Mon, 12 Jan 2026 08:00:00 GMT",
+        "source": "LoveToKnow"
+      },
+      {
+        "title": "The Dos and Don’ts of Comic Book Collecting - Intelligent Collector",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVEM5bnVfbW5qMmdocGJNSG9ad2NfU1laYWFYSUNBdWlVX2lxN09yc1ZYYUEtTjRfenhIcWJ0SmlEa2x5TDFLTGNwRm5iR2hPU2IxYVBIU2x4ekhaSGtRcmlKdkcwdVFaWkZWdi1wR1l4RkxKNndKSzZGVGxsQ0JIb0hR?oc=5",
+        "date": "Tue, 19 Mar 2024 14:16:42 GMT",
+        "source": "Intelligent Collector"
       }
     ],
     "research": [
@@ -119,6 +119,12 @@
         "source": "Commonwealth Fund"
       },
       {
+        "title": "Release of the America First Global Health Strategy - U.S. Department of State (.gov)",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWjZZR1VpcHZPRURteHVYUnBndVlkVk1tN0I3X2RPWEVKZmVjNkJ6NU41WHBhRWp5RmswdFRqcXpMVEJFSVF2T2h4NU5Celc1Wk1tY1ZNRFdoMlNmZkNMbFBtWG05bmRNNmh4aUlSWF9JdEtZSWtwTE5oRF9WUG54emU1WXNOZmRSZVVlSVNSMGpaQm1ickF1MGpURGZ0MmZpcVJFR3lSYmticjJYazJvUFVwNFA?oc=5",
+        "date": "Thu, 18 Sep 2025 07:00:00 GMT",
+        "source": "U.S. Department of State (.gov)"
+      },
+      {
         "title": "The New America First Global Health Strategy: Four Observations - Think Global Health",
         "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeGgxa2tMQUd3QnBCSC04clY3OGY5VTl2c3VWX2RRWWZNZ0xDZXFLenNzYU5yU1RVWWhXQzJnajZNd3Q3dVNoWTNadnVGRG9rU2IxVHFBS05LUmZ3V2JleW54OEpDbGRncFVKV1FaTE03enF3WmMtWkN5ZkVDMDNMX3ZxOE5MSmxXTG42OU9kNTVxZnYwMkY2Nkd6ay1jUXRmS1JycE1KZ3g?oc=5",
         "date": "Fri, 19 Sep 2025 07:00:00 GMT",
@@ -141,12 +147,6 @@
         "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxORTlabzVld2NmUmNGczBkc3hOZlowczVaX2owcTlULXYwdXF1bmxJNFZkZldCNEFOZ2tGT2V6a2dDT3c0RWdlNkk4V1I4WkJ1ekgwSnF2SS13R0tqVzB4Mk5wYmduQ0g4czJnclZVX3dnYWxqWHJXWGl3czgzLV9DeFltc1VvbVB4X0hxSHN4QXptRmdoYkh3ZnBOUy11U2JWemZvSHA1SU9mSWdVRFl4V3VLN1dUV1lkcVB0SERIZjE?oc=5",
         "date": "Mon, 23 Mar 2026 07:00:00 GMT",
         "source": "KFF"
-      },
-      {
-        "title": "Sweden - Commonwealth Fund",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOci1HSGFBLTJPYmtpZ2xjWEdVOE9fWW1FREk2aE9KcG9LLW9fUXJzOTBUOXd0UUlSSG5wby0tMi1TXzFPM2FsZnA1Wlc0dXJ3TjAtczRTdHlEaFBOX0JWQWEwbTY4WlRCOERTUTRUc21ib2JKUVU2encxMjdiX19HU1NXVk5EM1BhQnZXUw?oc=5",
-        "date": "Fri, 01 May 2026 07:00:00 GMT",
-        "source": "Commonwealth Fund"
       }
     ],
     "scifi": [
@@ -205,42 +205,78 @@
         "source": "AugustMan Singapore"
       },
       {
-        "title": "Harold Perrineau-fronted sci-fi drama series 'From' is returning for a third season. - Facebook",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOVGh3Szg1SjVucGxnMUFVY3lDZlNOZGcxZ2ZZRjJScUFEanVXU0JPUV9MRi1WSzcwWTE5czBLanJvV21JN28yUl9la1VNNHlHX0s0TGYzWVdVV0VzdkpjMVg4dllJeVZSWWYtbmdia0pRbmtPNTJ3YUN2RTBSMk5KMjhGLWpIUUxDb0llYnY1Zkx2U0hMb25pTHhwWlVLZGdzSWdkSElvWjhXeHRhVktYY1JVZ2liaEYtRVNPbmhMdWhYYjRQNF9uc0FnNGg1V3V1dE13?oc=5",
-        "date": "Thu, 29 Jun 2023 07:00:00 GMT",
-        "source": "Facebook"
-      },
-      {
-        "title": "A Season 2 Of 'Beyond' Is Definitely Possible - Romper",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSnRLYUpKY3p0MXkwcl9iVDFLc2lDWmNsWEtTYm1UODBKMUxheTZNLVNWbHR4cVZnRlBGMlFLWWEzWldkM0YtcUo4Vy1Mb0U4eUtiQnNyUTFlclJDWkg4NGJheV9EOTlISXJfY3VEYkIzRThGNkc0YXpRenN2S095NWlWR1dCTXktTHZ2UDF6RnhNOVliSVJ0eDcyR2hPUnBDejFrck05d1JmdmhRcnM0?oc=5",
-        "date": "Mon, 02 Jan 2017 08:00:00 GMT",
-        "source": "Romper"
-      },
-      {
-        "title": "Alien: Earth: Season Two Renewal Announced for Sci-Fi Thriller Series on FX - TV Series Finale",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNeDRkSGd5NnRqaFdEdi1DSTVMTzU1V0VQWUs5V0NOODJWbXVDZ09yRjljbk1RQkpTWUpYQ08tR3lqbzEtOEZYQWp0MXdUMVphVFJLVkZ3SEp3Rm4wVkswRkhXNmxqUV9rU045eEJMLS1BMTIza1BjMlZyOFYwUUs0c2YzbllOV1JFMHRlcGNJQ2ZRWmRENld6NXdUcjNtTWpYUXczdFZjQUZTVS1WaFHSAbMBQVVfeXFMT2MxNEFkNU04OXBjVWd5ZDZqOXFHcGNEeGo3R19fc1ZxZ3FyZVJZY3pWQTd1MXVNeVdpTzNsVG1kRWFfckszSW5wTWpQRzZsU0NZS2NKZUFmanFLSXdUMS1pdWh5aFdKa3hibDhlcldIVGRSTFl6R3F1OUluUjF3TXp0NkhqSnNYd3lHSlIyS2MtREhaMm1Ma09kWVBFS3RnbnJFSVRyTmJkdHFTVU5xTGxRSjQ?oc=5",
-        "date": "Wed, 12 Nov 2025 08:00:00 GMT",
+        "title": "Silo: Season Three; Apple TV Unveils Premiere Date, Teaser & First Photos for Sci-fi Series’ Return - TV Series Finale",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNRjBsSThXa0RRNExyRGh6dk1ZLXpjdURnNXdPcEVGc3NGM2pMTFNzcXptSmEwbUVmYnJSV243aHg0bHhHQklZOFJOSXlTNWFGWllUWlV2VjVrb2tUTTRCWFFOQlhabm9XUDctcTZwTHdUQkRKN2Y4TUFUSFhSZU5mV0FPVXo4cmRzU21hcVZBZkVBbl9WVlcwWXU2Tkw3M09JYURGUjVEVWRqVGNqOE9SSjFXcXFFSXhhREZDWGVVdFJoVElfR3ZBd9IBzgFBVV95cUxPUHVQemxnZ2ptRUlmUWM0ZmxnUnFid3FmTXBvQTZPZDc2V243RXZaUFlLRW5vbWJPSE81czRmSEFXYzlMN1c2SWpHNEVSQzRvck5ERGNHb3ZPSFpZQ3hSVWltOW9idmZpUVpaX3YwZHV3eU16amREaEhuRzFBMTFmWlYzNENoZFM1VTFDU2t0OVVfS1BxeVRKaDZNZm1iUWlrRDNkT0ZQc0l1NFN2dkE1UjNhcDQ4b2RlMThvWGI0VzlsWDRnaWNTekl1UkNRdw?oc=5",
+        "date": "Wed, 22 Apr 2026 07:00:00 GMT",
         "source": "TV Series Finale"
+      },
+      {
+        "title": "Silo renewed for seasons 3 and 4 at Apple TV+, which will finish the show - Winter is Coming",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNaEw4Rlpoa0ktQlh5WWxmbG1FRFJ4UEthZDRtaXA1S1FSRjNLQTNaN0Z5bWowMXVhVHJRakFaWFVLUEJRQlg5ZXhrWi1JaDNwTUNhTHEyLVowajZKakV2QTBZSWstaFdsTEZDV1BFTXlqUEM0Wm9UbXN1bUppOTNhdTRKSDctOXdqR3Z4dmhtNEFGRjk0V0c0VHZtVktFa0k?oc=5",
+        "date": "Mon, 16 Dec 2024 08:00:00 GMT",
+        "source": "Winter is Coming"
+      },
+      {
+        "title": "Sci Fi TV Highlights: Premieres for Star Trek Lower Decks S5 and What We Do in the Shadows S6, Starfleet Academy Gets S2 Renewal, and More - Cancelled Sci Fi",
+        "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNb1VJYjBhVjlWa0doclpkSUg3anZoa3h0N1g0WE45QVlDb0pBckdYV2YwVnpHcjlwSGNiYjhHZ3AyUlV0X3ZIVmlocE9qVmhsYTR1Yk5jZDBjUW8xeUx6X0xxemlQZzlXQjlzbEF6TDVmcnVabnZKNGpZTmZISE1Gd3BadVRFWkVzTWN1ODBic0hrN3NsTXlGVTlZdS0ydG9ENURfMG9OMU9SWGlQNHl3REp0OFQ3WmxqSGEydmtJSS10cDkwLTBBYzZYNVVjcFl4OHhRc04zRVJFb01TTHpIVmpqSlNORWpDNFFiZ3BOYkh0VEdTclh5eXJDRGU5bks3VW9nQlFLMU93Z9IBigJBVV95cUxNb1VJYjBhVjlWa0doclpkSUg3anZoa3h0N1g0WE45QVlDb0pBckdYV2YwVnpHcjlwSGNiYjhHZ3AyUlV0X3ZIVmlocE9qVmhsYTR1Yk5jZDBjUW8xeUx6X0xxemlQZzlXQjlzbEF6TDVmcnVabnZKNGpZTmZISE1Gd3BadVRFWkVzTWN1ODBic0hrN3NsTXlGVTlZdS0ydG9ENURfMG9OMU9SWGlQNHl3REp0OFQ3WmxqSGEydmtJSS10cDkwLTBBYzZYNVVjcFl4OHhRc04zRVJFb01TTHpIVmpqSlNORWpDNFFiZ3BOYkh0VEdTclh5eXJDRGU5bks3VW9nQlFLMU93Zw?oc=5",
+        "date": "Sun, 20 Oct 2024 07:00:00 GMT",
+        "source": "Cancelled Sci Fi"
       }
     ],
     "sports": [
       {
-        "title": "College football: TV schedule, game times and previews - NCAA.com",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTjBLOUlNLVdlTm90TzhSTmVIRDc4ZW1KWU1UQmV2dVk4dFpCQWp4UFV2WV9tTnhXODRlMlhrNElMY21OVGVfemYyS1ZWdGJoZlpNZVFSSE12YWlzUzJBaU03MVk0TWRzdnp2cWlUbkFhN0NnWU9aaVB1MGpRV3lEWW1UZVdOSzZtbVFWaDdURGJnZG1k0gGaAUFVX3lxTFBTNHU1YktqLVdHQmU4MnJkQ3BrUmJrQ1RrMW9aTExrS0tVdFJ5dG1UOTVnajh2MlRHU2Rlems1R090dzlOaG1DZ2pnTUNBWmtFSnhyd3pZWTJXWk9acFhDZUlPLVJtYVZWZzBCQ3VRTTdXSWJKSTRTMGcydy1aQkRkVUE3YUZ2bUNKYVlJNG4xQnZnRklJT2tmZ1E?oc=5",
-        "date": "Sat, 31 Oct 2026 10:21:19 GMT",
-        "source": "NCAA.com"
+        "title": "College football rankings: Updated Top 25 Polls after Ohio State, SMU, Northwestern, Oklahoma State losses in Week 9 - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNX3M2RERxVGgxa295a21EVnV4aHozcEtIVmFjNWdKMU9fNm5weE5xcjhSdTJhMldfaWlRM2dIcjZBd3VHWVNyOHF0c0Z3SzQ0cnRuQjRObDlCNHdKdnc1YXMzcFBZT3ozMjc4N2tTcEtSR3l3b0lySG5UdW80UUJENFNSOU1pbklvUVpLOElSdw?oc=5",
+        "date": "Sun, 01 Nov 2026 11:00:01 GMT",
+        "source": "Yahoo Sports"
+      },
+      {
+        "title": "College football rankings after Week 9: Updated Coaches Poll, AP Top 25 for Big Ten - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeXllQ1FNMGNmX2NZQkJWRUVIMlppRk9UNmh5ZUljSFBNNV9UVmU4TmZfZmVZaTkyRFVKX3VMblFnSE1tN1FzTmwwRFl2aDJqMl9yUm16c2VyOTVrM19wNkdxRE1hVnRqRElUVkt5dXpPM0EwdkF5UkVXVm1CRW1FYjVzWkdRTTFS?oc=5",
+        "date": "Sun, 01 Nov 2026 11:04:51 GMT",
+        "source": "Yahoo Sports"
+      },
+      {
+        "title": "College football rankings: Projected AP Top 25 after Ohio State upset, Indiana and Miami survive, Georgia rolls - FanSided",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPSjk3RmxuNGNNY2NLNDg1T1hkQnUwME5jRi1JRWpkdzlnZEtmQnNVMGpJc04tcXc2amlqdDIyVU1PZ25Ed2x0WWFHTlh5Z2NSaTVra2QtUzF4X2p4WldsRS0xVUJzRlNVc2NvSFJpeE82dE1FSWlXV09WdlQzTXhoWG5PSzBLa2FrUUxGNWZySnlVTkliTEQwQnRGcF94NE5vVHhXWXBlU0VRWVdqTVlCWGpqUFUtTHFrTmdaSVp0Umt6WV9PR1FxV3RLQXh2cVdQWEkxOXc1QVJzMkdHYkFj?oc=5",
+        "date": "Sun, 01 Nov 2026 03:30:00 GMT",
+        "source": "FanSided"
+      },
+      {
+        "title": "Tomorrow's Top 25 Today: Ohio State falls from top 10, USC reenters college football rankings after upset win - CBS Sports",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxON1Z1SmRaazFEb0xrYjEySkpTTXIwMHZEemRRYmgySHJMTUczZjdkRzFLWmZzLXQ0WkRvRG5HSUNWWTMyWWZjd2pDZzN4SmVVdFpaWGhXb21hYWtERnozUUJiV2d4eUxQdFFXNF9pRzJxeERPa1pXS09XazVtLWdfc1NIU1hOUzdXR0hMZUNwUXVfcWdjU0E4aU90MW1rZVA3TVJRQms1QmJ5dDFmbWxueUZNUnQ?oc=5",
+        "date": "Sun, 01 Nov 2026 03:53:00 GMT",
+        "source": "CBS Sports"
+      },
+      {
+        "title": "College Football Rankings: Projecting the New AP Top 25 Poll After Week 9 - Sports Illustrated",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQ0tJZTk0ZmN5bm5nNDFyYmdfUlVGbldoZmczeFUxMGhYQndFaDJ0TXZTclJreXZlWU5iMTg4NTF0LXk5b1JVRUFUdkluYWtSckdrZ1p4Q1IyLTFHdE1DQkxDS29mUWQ5Z01sbENYVGwyQ3pVSU1UQU05MjhwazNEMExwSGNnUElqMXVVZldwSGVVOXROZ1NGWmZZT1YzbHBSS0lPTjY4Z0xuNm05a09iVmtB?oc=5",
+        "date": "Sun, 01 Nov 2026 06:08:50 GMT",
+        "source": "Sports Illustrated"
+      },
+      {
+        "title": "Big Ten Week 9 power rankings: New No. 1 after USC upset Ohio State - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9HemhISUs5a0FXbXQ4TGVFUExfRGVzdlloazRRYjdUMVdMTURuRC04NjFNMFFJSVZuUnNUMGdWUnd1YlA4eEpDRW9CU0JYSi1kV1AxZFpsZmoyTGZZN1FXT2dfMVI1ZTZYUzVqQkhJUS1qWjZRTG9nTA?oc=5",
+        "date": "Sun, 01 Nov 2026 11:04:59 GMT",
+        "source": "Yahoo Sports"
+      },
+      {
+        "title": "College Football Rankings: AP Top 25 Teams Moving Up, Down in Week 10 - Sports Illustrated",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWDRpZjg3blVrYk9sNHU0OEVZemxSMDRlMHdnTkVGa3M3ajNFQnZGbUJnTFFROGFwZ21zMzJCRmdXTWM0bFRwNndXV2FPc1dIWXY5ZmpEelptNS1QYkVETFNkUkp2Si1BYnA4LUxFTXRRVUpXbWJtZklWMUF3a2FPbEhTaWZDWS1zdE1jcUFyVHBwVFNSbWNUdm1jQW9VMzJ1aGt3VGl4dllxczQ?oc=5",
+        "date": "Sun, 01 Nov 2026 03:13:55 GMT",
+        "source": "Sports Illustrated"
+      },
+      {
+        "title": "College Football Playoff top 12 projection after Week 9 - ESPN",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdGltRUlRQWFlOWZMV053aG9GYmRuUExlUHhFZnR3MWlod1BxY2ctWVJiajZSWkI1bWpmTGZGRTFGMDAwX1FmeU84ZWxlbXRXSkxBaTZCZmRTZ0pWRUpxTnZYenRzOEliTTFyMEFKa29jNXVxdDQwLWZtZlczMk92QUNTT1Y1S2FDRExiQmc1X0hnRjh3SGpiaEM4ZDRQUVZo?oc=5",
+        "date": "Sun, 01 Nov 2026 04:25:00 GMT",
+        "source": "ESPN"
       },
       {
         "title": "AP Top 25: BYU tumbles below Notre Dame as Utah, UCLA rise in college football rankings - The Athletic - The New York Times",
         "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWnhGUUgxeE1Sa1NUREZuanBaVFJ2a3N3YVdaSVZHMy12X3NjTWZHU2haREZxZkNhQmV2M2VzLWRXZGlXQXgzWUxISmRSai1MZkhMMFFWOUNBUUJRX3dFLVB6RjJYSmhYem9KSkF5YXFBRkVvTkVETXZuOFBsaVFlYUZSeGh5djZJTmZYV2J4UQ?oc=5",
-        "date": "Sun, 25 Oct 2026 18:47:47 GMT",
+        "date": "Sun, 25 Oct 2026 14:10:07 GMT",
         "source": "The New York Times"
-      },
-      {
-        "title": "AP college football Week 8 poll reaction: What's next for Top 25 - ESPN",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNcnJ3YlpVanFzZUg4U2lzYk9kWG1WZVhXaHlzN0JFWElUTmg4akRKNUszMkVuS0t0WEs5bUpaMUs0NkhSR3NNdTktdlhac3poQUdOOTNlRVpQUGZaSjNhMVBGa2gxZEdCTkFGbFI0OEJBdGF3NlN1MHBBbFVTdi1LTEJLVmtTVkFNZXk1d3dIekxKclNsNHRRa21kdEdKbVZDVkZSRFFzaFVSbjN4OWRR?oc=5",
-        "date": "Sun, 25 Oct 2026 19:00:00 GMT",
-        "source": "ESPN"
       },
       {
         "title": "College football AP Top 25 rankings: Some marquee wins have aged well -- others, not so much - CBS Sports",
@@ -255,46 +291,10 @@
         "source": "FOX Sports"
       },
       {
-        "title": "College Football Week 9: Your Guide to the Best Games to Watch with Sling TV - Sling TV",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPRTZ0YmYyYzJWb04zMjZYTS1NdWVmQ0RUSVZ3Wll6SklPbFFPLW1GaWxVNWVpbXNqbEZvQV9NNzJNOFhJTURJdlF0M0h0bE9iTkJaXzdlWUZmY3BidjdQcm1rb0FybVkzdElQZ3l4SjczdkVYajVGbk0zVkE1OWZZR1NQZzZnQQ?oc=5",
-        "date": "Wed, 28 Oct 2026 07:00:00 GMT",
-        "source": "Sling TV"
-      },
-      {
-        "title": "AP Top 25 Rankings for Week 7: Who is the New No. 1 Team in the College Football Poll? - Sports Illustrated",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObTk3eE54Y1Y1em9HS1RuUGlTbnIxalVFeXRNNmZNdXAwazgyYU5Cd2VzRFZNMVJZQm5kNnROek9uNkZtdzJOcGQ2dVV2UmR1QWNpSUd0MWZPODdPdW1RS0dPVGVBNFNJd2lsd3U0QTNpMEZJTXk2bmlQWnBDSy00NmJlQWxXMmwyeVNfMGEyOVlBZ1NfZ2RoaGtCdEQ0ejh1V0w1QnhnZw?oc=5",
-        "date": "Sun, 11 Oct 2026 07:00:00 GMT",
-        "source": "Sports Illustrated"
-      },
-      {
-        "title": "College football Power Rankings: How a wild Week 7 changed top 25 - ESPN",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQREVRUHlYN0FDc2lYRmJKV1NrR2JGMkZWZlJ4SEVSYW45WWxNWkF1VExzN3h5MEl2aGR4QjA3U2x2TTlvVmt1REFxSVJjYkFVNGI0RXJJeGNKLXFxZ3NSLXlBWlJhZWprOUhJRUJiY1hiX29RQzB2YWlpVVo4aWl3czFNcGk4Sy1NdkV5czMzYnFnb2JNaEhYbXhsT2lqWEFLbS03U0QxbTgwLXRy?oc=5",
-        "date": "Mon, 19 Oct 2026 07:00:00 GMT",
-        "source": "ESPN"
-      },
-      {
-        "title": "AP Top 25: Alabama jumps Indiana, Missouri surges and Pitt is in college football rankings - The New York Times",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRERtdmtFd2szWHlrc3lod3ZKcVY4TF9kR214b0ZFU3FOSzAtb0hFU2M5WGFyRDB0ZGU3R0hDQTFjbk1CNnNVdXlGVUR3elJqWHRnU1VkYk43YkZxNjBEdldlQjNKcXV4dnVDNzhKUzFjMlFZZE44VVZ6Ujl5MFh3RmZSTDRhMVNZdDdwN1N0RFZuS25NWDNkXzdQQ1hmOHc?oc=5",
-        "date": "Sun, 11 Oct 2026 07:00:00 GMT",
-        "source": "The New York Times"
-      },
-      {
-        "title": "College football top 25 rankings 2026: AP Top 25 poll entering Week 7 - The Big Lead",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxObGt4anhocm9XcjAxMjFyYktaRWxlWFhMSHlhS2ktN3ZZMTJJYVE5UVBCS2FxTDMwRGJNZjVVelNfeGNvV3F1UHdTVW1qLTZTUWJHXzZPWXNnN1Npd25TZmVSdG50TFhXNHlwbW9vRmFZZExmc2FhM0hkRjNsTjZpM2pwajJSVDVJbzBkSWRKTjg?oc=5",
-        "date": "Sun, 11 Oct 2026 07:00:00 GMT",
-        "source": "The Big Lead"
-      },
-      {
         "title": "Ohio State, Oregon, Georgia lead preseason AP Top 25 college football rankings - NCAA.com",
         "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNTHpTVTU3M2JQNFdLTGZ5bUdpUG9YdGxHNkVzTGNFX2hueHpDZnRSWl9ZNDRHTm95X2FBbTQ2bUZKNXU1OXVFZllhM1V5bUQwR3FDQ0FpUlJoeGdmVHd5OFpCeXVfOUhVTXhGaGIydlh4eW1jd2I3RURUWVZlaWJwbmRvcktodFBGbm5mbE8yQWRPNWE0N0tPV0tvMDZLQ2VvR3k1UzhWM0ExS3BrbG9XU2VCQkZvalV2b3RkSnJOOGxzdVd1UHFfZnNB0gHPAUFVX3lxTE4wcU9SelZBbHkwOU5UNG4tUXhoeGFYOGFtZVRTN2prc055VWJjSERvN3ozeFpENV9nZkVRSnhxUmpxQnd3aS1QeEJfZnNGbTBGMHRpTk9iNlNQenpJRVN6cDFGclVGcGFkQ0M2VF9DMi01YVRPeDhiMW84UmdGYXNBdzFBc2RaYjBBRURmUERYT0hfaXpIeDdzeFlvN0NOMFhHQVlBMjUwUzdSQjh6djhFaFVjdzdKbTNfZFRBM1FnNlZtZWVsYWE0Ry1yQmppQQ?oc=5",
         "date": "Thu, 27 Aug 2026 07:00:00 GMT",
         "source": "NCAA.com"
-      },
-      {
-        "title": "AP college football Week 6 poll reaction: What's next for each Top 25 team - ESPN",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQLTdQX1loS0M2Z2N3TzJ1bFh1OUVVUFdOWV9WZ0VIUHR5cFhndzc4SjRMamFBTU4tS1J0NFlmNnJhRDI3NC1lcm9FU1pkalp5dmcyVTd2SUgwVWFwMENhR3ZxMnl0V0wzYUJybm5WRGF5ZXFYLXg1MUxvdjNrQUJBOGZpMDZZUnl5V1kteGhqLVliZmRrblRSY1Z4RVQ1X1BLblBLSHd3?oc=5",
-        "date": "Sun, 11 Oct 2026 07:00:00 GMT",
-        "source": "ESPN"
       }
     ],
     "lastz": [
@@ -305,10 +305,22 @@
         "source": "GamesRadar+"
       },
       {
+        "title": "Jujutsu Zero codes for October 2026 - Eurogamer.net",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFByOWYxNm1Vd3RqeDkyV3VxN0xaYlllSjJ3NzlzQ0kxcnpidnFuNjRrSlE1THRtdTkyWW1LVjlEMVpTTnoxRjd1NnZuU25UMjFweV9uZFJmdw?oc=5",
+        "date": "Tue, 27 Oct 2026 16:19:29 GMT",
+        "source": "Eurogamer.net"
+      },
+      {
         "title": "Last Z: Survival Shooter Gold Bars: Price, Best Value Packs & What to Buy (2026) - topuplist.com",
         "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUUgxOGZDTzMxVU5ncmo5RkVkTXBldjQyNVR0dzJLVE1PTm4wVUpvVm1FenVtSGg2YzFWeFFTUzVDeU83MDRIbERYZXhLNmMzQ2haajRIMGMtZWJJMHpoMDdfNl8xRWFsb3dRVXFRY19KZFV4UTdCZU10STlnMlhsbFlHYndaMXZtTXNBYlF5a3RWWUlqcEczcnIwVXg?oc=5",
         "date": "Tue, 09 Jun 2026 07:00:00 GMT",
         "source": "topuplist.com"
+      },
+      {
+        "title": "Universal Tower Defense Z Codes (September 2026) - IGN",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAyVV93Tktsbkl5Z1FSbXFTcFVEMF9fZnNCSUh1b1JROFc2dDZRc3M3bGJvWE0xU1RiUHpacXVXQXZBLXp0VVlsUnY1dGpPaVU4SjJ0Uk5ON1NRZUpycUdQVUNMNEg1VWZhR2c?oc=5",
+        "date": "Tue, 01 Sep 2026 07:00:00 GMT",
+        "source": "IGN"
       },
       {
         "title": "Universal Tower Defense Z codes for free Gems and Rerolls - GamesRadar+",
@@ -329,21 +341,15 @@
         "source": "Pro Game Guides"
       },
       {
-        "title": "Puzzles & Survival codes: October 2026 - Pocket Gamer",
-        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9XMjNacnVHMnowNGdBclloVjgtUHZ1ZXRIRWpVOVFvUzFNLTh0M0tBaDlUQjQ2NVhxLWg3X3RxV2paQmt5Z01KYV9BRTFodDlOY3pmdkFZNGUzXzBZcENIcA?oc=5",
-        "date": "Sat, 24 Oct 2026 23:02:00 GMT",
-        "source": "Pocket Gamer"
-      },
-      {
         "title": "Roblox Codes for All Top Experiences (October 2026) - Beebom",
         "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0yam9fSEN1cnc1MGh0T3RCMFNyZi03ZzlxbGJBTXJTMjg2TlUtRHdBWEhhbmYyczdVdmtwbWVSX1dYSl8xZHQ4NjRZdDhSdG5Sc0gtTm5R0gFbQVVfeXFMTW5tNXFNTkNDU0hHX0I4X2xLNjhrcGpBN05ZcXFuenBMRXlwbXc5WUhGTHl3N2RHdnF2cTFCeXlaT3pPRVBMakYwYVZTMGlTb1ZkakRUY1l3c0V6TQ?oc=5",
-        "date": "Thu, 22 Oct 2026 21:48:32 GMT",
+        "date": "Fri, 23 Oct 2026 07:00:00 GMT",
         "source": "Beebom"
       },
       {
-        "title": "Survivor.io codes for free Gems and Coins (October 2026) - Pocket Gamer",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE05U0lWLUdBMnJoNE0xc2lQUEVYZDhULUJGWHhPelJNal9jR01ncmhLeGRSOUNiWnBrLU5vM3VuSzNUMzNDRlMxSDNJc0luaktvYm45TnBUQ3ZIUQ?oc=5",
-        "date": "Sat, 24 Oct 2026 23:56:00 GMT",
+        "title": "Puzzles & Survival codes: October 2026 - Pocket Gamer",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9XMjNacnVHMnowNGdBclloVjgtUHZ1ZXRIRWpVOVFvUzFNLTh0M0tBaDlUQjQ2NVhxLWg3X3RxV2paQmt5Z01KYV9BRTFodDlOY3pmdkFZNGUzXzBZcENIcA?oc=5",
+        "date": "Sat, 24 Oct 2026 23:02:00 GMT",
         "source": "Pocket Gamer"
       },
       {
