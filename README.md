@@ -22,3 +22,12 @@ Upload the **contents** of this folder to the root of your existing `jharris823/
 This version does not yet fetch live comic listings/prices, restaurant reservations, concert tickets, or ski packages. Existing section links for those categories remain navigational rather than verified deals. No AI API, background personalization server, or cross-device sync is included. Feedback improves local display and suppression; it does not alter public server-side discovery. Static curated sci-fi picks are a starter pool, so eventually that pool may be exhausted. The public feed requires internet and may fail due to source restrictions.
 
 Never commit private preference exports to a public repository.
+
+
+## v2.1 — actionable discovery
+
+- Research: OpenAlex structured scholarly records (authors, dates, DOI/source links, abstracts when provided). The metadata-based relevance explanation is not an AI-generated paper review.
+- Comics: **actual listings require eBay developer credentials**. Create GitHub Actions secrets `EBAY_CLIENT_ID` and `EBAY_CLIENT_SECRET`, then add those secrets to the workflow `env` of the Python update step. Without credentials, the section honestly shows no verified listings, not invented deals. Listings may sell or change after refresh.
+- The workflow continues using `python update_feeds.py`; no new dependencies. Do not replace existing `data/feeds.json` on upload.
+- Feedback and library remain stored in your browser; keep a Settings export as backup.
+- OpenAlex API usage may be subject to changing free budgets and throttling.

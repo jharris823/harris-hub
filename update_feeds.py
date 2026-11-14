@@ -1,10 +1,13 @@
-"""Harris Hub v2: public news with scholarly-record enrichment; no API keys."""
+"""Harris Hub v2.1: structured scholarly discoveries + optional authenticated eBay listings.
+No invented prices; preserve old records during API failures. Standard library only.
+"""
 import datetime as dt
-import email.utils
 import html
 import json
+import os
 import re
 import time
+import urllib.error
 import urllib.parse
 import urllib.request
 import xml.etree.ElementTree as ET
@@ -12,111 +15,132 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent
 OUT = ROOT / 'data' / 'feeds.json'
+HEADERS = {'User-Agent':'HarrisHub/2.1 (personal noncommercial discovery; contact via GitHub repo)', 'Accept':'application/json, application/rss+xml, application/xml, text/xml, */*'}
 QUERIES = {
-    'comics': ['Golden Age comic books auction Batman Wonder Woman', 'comic book collecting vintage price guide'],
-    'research': ['global health politics health policy governance', 'health technology assessment policy diffusion', 'Thailand health policy universal coverage'],
-    'scifi': ['science fiction TV series premiere renewal', 'new science fiction books post apocalyptic'],
-    'sports': ['college football SEC Big Ten AP top 25 Wisconsin LSU'],
-    'lastz': ['Last Z Survival Shooter updates redeem codes'],
+ 'comics':['Golden Age comic books auction Batman Wonder Woman','comic book collecting vintage price guide'],
+ 'research':['global health politics health policy governance','health technology assessment policy diffusion','Thailand health policy universal coverage'],
+ 'scifi':['science fiction TV series premiere renewal','new science fiction books post apocalyptic'],
+ 'sports':['college football SEC Big Ten AP top 25 Wisconsin LSU'],
+ 'lastz':['Last Z Survival Shooter updates redeem codes'],
 }
-HEADERS = {'User-Agent': 'Mozilla/5.0 (compatible; HarrisHub/2.0; public research dashboard)', 'Accept': 'application/rss+xml,application/xml,application/json,text/xml,*/*'}
+TOPICS = ['health technology assessment policy','Thailand universal health coverage','global health governance','political determinants of public health','policy diffusion health systems']
+COMIC_SEARCHES = ['Wonder Woman golden age comic','Batman golden age comic','Comic Cavalcade golden age','All Star Comics golden age','X-Men 1 1963','Ebon 1 comic','Argosy comic book price guide','Comic Book Marketplace magazine lot']
 
-def request(url, tries=2):
-    for i in range(tries):
-        try:
-            with urllib.request.urlopen(urllib.request.Request(url, headers=HEADERS), timeout=18) as response:
-                return response.read(2500000)
-        except Exception as exc:
-            print('Request failed', i + 1, str(exc)[:160])
-            if i + 1 < tries:
-                time.sleep(2)
-    return None
+def get(url,headers=None,tries=2):
+ for attempt in range(tries):
+  try:
+   req=urllib.request.Request(url,headers={**HEADERS,**(headers or {})})
+   with urllib.request.urlopen(req,timeout=22) as response: return response.read(3000000)
+  except (urllib.error.URLError,TimeoutError,OSError) as exc:
+   print('Request failed:',str(exc)[:160]);time.sleep(1+attempt)
+ return None
 
-def rss_items(data, source):
-    try:
-        root = ET.fromstring(data)
-    except ET.ParseError:
-        return []
-    items = []
-    for el in root.findall('./channel/item')[:12]:
-        title = html.unescape(el.findtext('title') or '').strip()
-        url = (el.findtext('link') or '').strip()
-        if title and url.startswith(('https://', 'http://')):
-            items.append({'title': title[:220], 'url': url, 'source': source, 'date': (el.findtext('pubDate') or '')[:45]})
-    return items
+def rss(data,source):
+ try: root=ET.fromstring(data)
+ except ET.ParseError: return []
+ out=[]
+ for el in root.findall('./channel/item')[:12]:
+  title=html.unescape(el.findtext('title') or '').strip();url=(el.findtext('link') or '').strip()
+  if title and url.startswith(('https://','http://')):out.append({'title':title[:220],'url':url,'source':source,'date':(el.findtext('pubDate') or '')[:45]})
+ return out
 
 def news(query):
-    q = urllib.parse.quote(query)
-    sources = [('Google News', f'https://news.google.com/rss/search?q={q}&hl=en-US&gl=US&ceid=US:en'), ('Bing News', f'https://www.bing.com/news/search?q={q}&format=rss')]
-    for name, url in sources:
-        data = request(url)
-        if data:
-            items = rss_items(data, name)
-            if items:
-                print('Retrieved', len(items), name, query)
-                return items
-    return []
+ q=urllib.parse.quote(query)
+ for name,url in [('Google News',f'https://news.google.com/rss/search?q={q}&hl=en-US&gl=US&ceid=US:en'),('Bing News',f'https://www.bing.com/news/search?q={q}&format=rss')]:
+  data=get(url,tries=1)
+  if data:
+   items=rss(data,name)
+   if items:return items
+ return []
+
+def abstract_text(index):
+ if not isinstance(index,dict):return ''
+ tokens=[]
+ for word,positions in index.items():
+  for pos in positions:tokens.append((pos,word))
+ return ' '.join(word for _,word in sorted(tokens))[:550]
 
 def openalex():
-    topics = ['health technology assessment', 'global health governance', 'Thailand universal health coverage', 'politics of public health']
-    results = []
-    for topic in topics:
-        params = urllib.parse.urlencode({'search': topic, 'filter': 'from_publication_date:2025-01-01', 'per-page': 12, 'sort': 'publication_date:desc', 'select': 'id,title,publication_date,doi,primary_location,authorships'})
-        data = request('https://api.openalex.org/works?' + params)
-        if not data:
-            continue
-        try:
-            works = json.loads(data).get('results', [])
-        except (ValueError, TypeError):
-            continue
-        for w in works:
-            title = w.get('title') or ''
-            url = w.get('doi') or (w.get('primary_location') or {}).get('landing_page_url') or w.get('id')
-            if title and url and url.startswith('https://'):
-                authors = ', '.join(a.get('author', {}).get('display_name', '') for a in w.get('authorships', [])[:3])
-                results.append({'id': w.get('id'), 'title': title[:220], 'url': url, 'source': 'OpenAlex • '+authors[:80], 'date': w.get('publication_date', ''), 'why': 'Matches your research interests in '+topic, 'score': 30})
-        time.sleep(.3)
-    return results
+ out=[]
+ cutoff=(dt.date.today()-dt.timedelta(days=550)).isoformat()
+ for topic in TOPICS:
+  params=urllib.parse.urlencode({'search':topic,'filter':'from_publication_date:'+cutoff,'per_page':12,'sort':'publication_date:desc'})
+  data=get('https://api.openalex.org/works?'+params,tries=1)
+  if not data:continue
+  try:works=json.loads(data).get('results',[])
+  except (ValueError,TypeError):continue
+  for w in works:
+   title=w.get('title') or '';url=w.get('doi') or (w.get('best_oa_location') or {}).get('landing_page_url') or w.get('id')
+   if not (title and isinstance(url,str) and url.startswith('https://')):continue
+   authors=', '.join(a.get('author',{}).get('display_name','') for a in w.get('authorships',[])[:4])
+   out.append({'id':w.get('id'),'title':title[:220],'url':url,'source':'OpenAlex','authors':authors[:160], 'date':w.get('publication_date',''), 'why':'Research match: '+topic, 'summary':abstract_text(w.get('abstract_inverted_index')),'kind':'publication','score':40})
+  time.sleep(.35)
+ return out
 
-def unique(items, cap=20):
-    seen = set()
-    out = []
-    for item in items:
-        key = re.sub(r'\W+', '', item['title'].lower())[:100]
-        if key not in seen:
-            seen.add(key)
-            out.append(item)
-        if len(out) >= cap:
-            break
-    return out
+def ebay_token():
+ client=os.getenv('EBAY_CLIENT_ID','').strip();secret=os.getenv('EBAY_CLIENT_SECRET','').strip()
+ if not client or not secret:return None
+ import base64
+ auth=base64.b64encode((client+':'+secret).encode()).decode()
+ data=urllib.parse.urlencode({'grant_type':'client_credentials','scope':'https://api.ebay.com/oauth/api_scope'}).encode()
+ try:
+  req=urllib.request.Request('https://api.ebay.com/identity/v1/oauth2/token',data=data,headers={'Authorization':'Basic '+auth,'Content-Type':'application/x-www-form-urlencoded'})
+  with urllib.request.urlopen(req,timeout=20) as r:return json.load(r).get('access_token')
+ except (urllib.error.URLError,ValueError) as e:print('eBay authentication unavailable:',str(e)[:120]);return None
+
+def ebay_listings():
+ token=ebay_token()
+ if not token:
+  print('eBay listings disabled: set EBAY_CLIENT_ID and EBAY_CLIENT_SECRET as repository Actions secrets.');return []
+ out=[]
+ for term in COMIC_SEARCHES:
+  params=urllib.parse.urlencode({'q':term,'limit':15,'filter':'buyingOptions:{FIXED_PRICE}','sort':'newlyListed'})
+  data=get('https://api.ebay.com/buy/browse/v1/item_summary/search?'+params,headers={'Authorization':'Bearer '+token,'X-EBAY-C-MARKETPLACE-ID':'EBAY_US'},tries=1)
+  if not data:continue
+  try:items=json.loads(data).get('itemSummaries',[])
+  except (ValueError,TypeError):continue
+  for item in items:
+   price=item.get('price') or {};value=price.get('value');url=item.get('itemWebUrl');title=item.get('title','')
+   if not (value and url and title):continue
+   try:amount=float(value)
+   except (TypeError,ValueError):continue
+   if amount>1800:continue
+   if 'X-Men 1 1963' not in term and amount>1200:continue
+   out.append({'id':'ebay:'+str(item.get('itemId','')),'title':title[:220],'url':url,'source':'eBay Browse API','date':item.get('itemCreationDate','')[:10], 'price':f'{price.get("currency","USD")} {amount:,.2f}', 'kind':'listing','why':'Matches watchlist: '+term+'; check grade, completeness and shipping before buying', 'score':45 if amount<=500 else 25})
+  time.sleep(.4)
+ return out
+
+def unique(items,cap=50):
+ seen=set();out=[]
+ for item in items:
+  key=str(item.get('id') or re.sub(r'\W+','',item.get('title','').lower())[:100])
+  if key not in seen and item.get('url','').startswith('https://'):
+   seen.add(key);out.append(item)
+  if len(out)>=cap:break
+ return out
 
 def main():
-    previous = {}
-    if OUT.exists():
-        try:
-            previous = json.loads(OUT.read_text(encoding='utf-8'))
-        except (ValueError, OSError):
-            pass
-    feeds = {}
-    fresh = 0
-    for category, queries in QUERIES.items():
-        items = openalex() if category == 'research' else []
-        for q in queries:
-            items.extend(news(q))
-            time.sleep(.5)
-        items = unique(items)
-        if items:
-            fresh += len(items)
-            feeds[category] = items
-        else:
-            feeds[category] = previous.get('feeds', {}).get(category, [])
-        print(category, len(feeds[category]))
-    if fresh == 0 and not any(feeds.values()):
-        raise RuntimeError('No sources available and no previously saved headlines.')
-    updated = dt.datetime.now(dt.timezone.utc).strftime('%Y-%m-%d %H:%M UTC') if fresh else previous.get('updated', '')
-    OUT.parent.mkdir(exist_ok=True)
-    OUT.write_text(json.dumps({'updated': updated, 'feeds': feeds}, ensure_ascii=False, indent=2)+'\n', encoding='utf-8')
-    print('Fresh items:', fresh)
+ try:previous=json.loads(OUT.read_text(encoding='utf-8'))
+ except (OSError,ValueError):previous={}
+ discoveries=dict(previous.get('discoveries') or {})
+ papers=unique(openalex(),45)
+ if papers:discoveries['research']=papers
+ else:print('Keeping previous scholarly discoveries')
+ listings=unique(ebay_listings(),45)
+ if listings:discoveries['comics']=listings
+ else:print('Keeping previous listings if any; verify availability before buying')
+ feeds={};fresh=bool(papers or listings)
+ for category,queries in QUERIES.items():
+  items=[]
+  for query in queries:items.extend(news(query));time.sleep(.2)
+  items=unique(items,20)
+  feeds[category]=items or previous.get('feeds',{}).get(category,[])
+  fresh=fresh or bool(items)
+  print(category,'news:',len(feeds[category]))
+ if not fresh and not any(feeds.values()) and not any(discoveries.values()):raise RuntimeError('No available sources and no previous data')
+ stamp=dt.datetime.now(dt.timezone.utc).strftime('%Y-%m-%d %H:%M UTC') if fresh else previous.get('updated','')
+ OUT.parent.mkdir(parents=True,exist_ok=True)
+ OUT.write_text(json.dumps({'updated':stamp,'feeds':feeds,'discoveries':discoveries},indent=2,ensure_ascii=False)+'\n',encoding='utf-8')
+ print('Discovery counts:',{k:len(v) for k,v in discoveries.items()})
 
-if __name__ == '__main__':
-    main()
+if __name__=='__main__':main()
