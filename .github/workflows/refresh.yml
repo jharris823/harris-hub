@@ -20,10 +20,7 @@ jobs:
         with:
           python-version: '3.12'
 
-      - name: Update feeds and eBay listings
-        env:
-          EBAY_CLIENT_ID: ${{ secrets.EBAY_CLIENT_ID }}
-          EBAY_CLIENT_SECRET: ${{ secrets.EBAY_CLIENT_SECRET }}
+      - name: Update public feeds
         run: python update_feeds.py
 
       - name: Save updated headlines
