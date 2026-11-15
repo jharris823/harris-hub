@@ -1,18 +1,18 @@
 {
-  "updated": "2026-11-14 23:46 UTC",
+  "updated": "2026-11-15 11:48 UTC",
   "feeds": {
     "comics": [
-      {
-        "title": "Valuable comic books: Top 10 most valuable comic books of all time - Just Collecting",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbHlKXzIwRUxobjlobzBYclpoNk82S2VzNy1EQ21tUmZLTUNqRmZzVTdIeXJGeksybGxreDRlWE1rbWFHNHRMLS1VM1NGYnowTll0Z3ZCMGxGVjBiRVBsSktOamVTcllsdjVSZHlyWnZDRGNaRVk4eERyV0VXVE52eUpxcXg4TjU0NW5OOXRMT212OUh1SXpoeFdwYW9ZSzQ?oc=5",
-        "source": "Google News",
-        "date": "Wed, 05 Aug 2026 07:00:00 GMT"
-      },
       {
         "title": "Jim Lee X-Men #6 Cover & Frank Miller Daredevil Pages Sell At Auction - Bleeding Cool News",
         "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcGRKYnptODMzN1JXXzlNYVZQVmV1elpoSG0zQWJ1U01hcjF5MmlXUXh3VWpaVllNaHlFek5GNFo5MlppcDhILUw5ZHZpd0wxLTlBQkJjMl9BQW1HUklEV2hXZ3lORDJWcXBOdTMybUgzb25DWmVZRzdyRmRpZHJpdmFmME9QYXB6WUY0SU82SllnM0FUbWZPbHQtbkNNcllG?oc=5",
         "source": "Google News",
         "date": "Fri, 02 Oct 2026 07:00:00 GMT"
+      },
+      {
+        "title": "Valuable comic books: Top 10 most valuable comic books of all time - Just Collecting",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbHlKXzIwRUxobjlobzBYclpoNk82S2VzNy1EQ21tUmZLTUNqRmZzVTdIeXJGeksybGxreDRlWE1rbWFHNHRMLS1VM1NGYnowTll0Z3ZCMGxGVjBiRVBsSktOamVTcllsdjVSZHlyWnZDRGNaRVk4eERyV0VXVE52eUpxcXg4TjU0NW5OOXRMT212OUh1SXpoeFdwYW9ZSzQ?oc=5",
+        "source": "Google News",
+        "date": "Wed, 05 Aug 2026 07:00:00 GMT"
       },
       {
         "title": "Batman Vs Superman in UK Comics Auction - Arts & Collections",
@@ -87,22 +87,16 @@
         "date": "Tue, 08 Sep 2026 07:00:00 GMT"
       },
       {
-        "title": "Wordsmith and comic superfan: an origin story - Salish Current",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdmZZUFZ3ZEZVX01hUmY3VTJGbUhRbnRaZUZ1SXpIYnRZZmVLQ3ZaOVNWcDlPZloxTWJvSExmek1tR2VOdmpDR2hWUDVyd3dQUHF2aGxzYjlaM25fX0tWWFJfYWJWUFFZTGhiRFhUaWVsSGNtekFuejhBbE0zemI1eW0zbndoTjlrcmtv?oc=5",
-        "source": "Google News",
-        "date": "Tue, 06 May 2025 07:00:00 GMT"
-      },
-      {
         "title": "The Most Underrated Trading Card Set in the World?? And the Six Rookies That Make It So Special - Gary Vaynerchuk",
         "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOc08xYV9pZEFBX0lhLVJQUWkzaTNoRTlQV0lHNGhpYk9zRW9EejRIWG90azBTMklGQkNwWFpzbVYyck1TNmVTSWJRMUpqTkdlclZNUTJZWWI0bUZwNEpqbVpIZENJUFdWWklpVVJScWJyT25CNl9PWDlIeG5PdlM3Wkc1M2VQNldERHRETkNycFVjRmI5aDdwOGI1TWpUNkUwZFBnWkxwaWtFaDgxNWFzRVZnQUpzNEc3bzRqcVNB?oc=5",
         "source": "Google News",
         "date": "Sun, 22 Mar 2026 19:08:51 GMT"
       },
       {
-        "title": "Salute a half-century of comic collecting in Overstreet's new 50th anniversary special - SYFY",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSDk5ZHhJbHZ3X2lucDRVa2ZqeGNyeEdST1VzR0tBbmduWjlGNGpzdTJRZ0Rybjh2eHBnclhWZlZsbklPcWtQRzl4Rks2TklGVzNxc3hGYUdGQUVhUGx5ZGZfRDBteGQ0TFY3YjRvRUNMZlNiSlA4QUZ2TlFHMG9NVFlwdXN2OWVOVEFWcVRzS3A4Wlk?oc=5",
+        "title": "Wordsmith and comic superfan: an origin story - Salish Current",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdmZZUFZ3ZEZVX01hUmY3VTJGbUhRbnRaZUZ1SXpIYnRZZmVLQ3ZaOVNWcDlPZloxTWJvSExmek1tR2VOdmpDR2hWUDVyd3dQUHF2aGxzYjlaM25fX0tWWFJfYWJWUFFZTGhiRFhUaWVsSGNtekFuejhBbE0zemI1eW0zbndoTjlrcmtv?oc=5",
         "source": "Google News",
-        "date": "Fri, 06 Nov 2020 08:00:00 GMT"
+        "date": "Tue, 06 May 2025 07:00:00 GMT"
       },
       {
         "title": "What Batman Comic Books Are the Most Collectible? - Comic Book Resources",
@@ -111,19 +105,31 @@
         "date": "Sat, 21 Sep 2024 07:00:00 GMT"
       },
       {
+        "title": "Salute a half-century of comic collecting in Overstreet's new 50th anniversary special - SYFY",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSDk5ZHhJbHZ3X2lucDRVa2ZqeGNyeEdST1VzR0tBbmduWjlGNGpzdTJRZ0Rybjh2eHBnclhWZlZsbklPcWtQRzl4Rks2TklGVzNxc3hGYUdGQUVhUGx5ZGZfRDBteGQ0TFY3YjRvRUNMZlNiSlA4QUZ2TlFHMG9NVFlwdXN2OWVOVEFWcVRzS3A4Wlk?oc=5",
+        "source": "Google News",
+        "date": "Fri, 06 Nov 2020 08:00:00 GMT"
+      },
+      {
+        "title": "I Figured My Childhood Obsession Would Make Me a Millionaire; Boy, Was I Wrong - The White Coat Investor",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5KUVJ2NGhseGNZcDRkRmFYMzlZN3NRbWRfVG1xb1VVQUZTLTgycEE5bXNLUVk2RW1NQWVVbUllR3FZYXQ2UzNvbzhNSzJCTzZoVUxDYUl0OXVqZTNRbWgxR2lBSE5GRHlZcFZjOEVOa2E2UQ?oc=5",
+        "source": "Google News",
+        "date": "Sun, 01 Mar 2026 08:00:00 GMT"
+      },
+      {
         "title": "DeCarlo, Millie & More: Collecting Vintage Marvel's Elusive Beauty - Bleeding Cool News",
         "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNYmV4MHdlVUF4YjA2Y3VBQjRrMklUX1NSbzlXelVmc3BVYkxpMmdqUXlWYTU3MjZnWEhxeFFrcEUtWHlKWEMxVHZ3N2hUNHRMWFd5bTlSdUZLRUd2SGllQkhSeHFSVWNpQ25YcnE5SkZNbDdRVmFjckxPNDE2a3RLM21EVXY2bDdKWmE2dG41YjEwQ2VYcTJ6SDBB?oc=5",
         "source": "Google News",
         "date": "Wed, 19 Apr 2023 07:00:00 GMT"
-      },
-      {
-        "title": "Take a deep dive into comic books with Malcolm Mobutu Smith - IU Today",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdXFNd21xVHVRcFVVb0t2X19TS1Q3Y3RhU3N4VFVDLW1tS2p3Q24wRzZPc3lsM1R6c1pEbmxBbEQzMGFXTnFJRW10OTF5UWFuWk5lNV9zQVBBRTlEc0xaendmOHF0dzNsT1M2V1pfWUVZbF83RW9xN3pMY3VCcVBQSjh1d0Y4Q3JBTDNaSEFTSQ?oc=5",
-        "source": "Google News",
-        "date": "Thu, 09 Feb 2023 08:00:00 GMT"
       }
     ],
     "research": [
+      {
+        "title": "Former congresswoman and government public health official examine election results and the future of health policy - The Brown and White",
+        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNaVZDUnFkejRzdWZ6YkpxQUhNZGxORnVmMVltYkpLMlFvS29PRndkaFEtejI2Z3g4c3VZSkxUal93XzRTTllEeFRjWERxWXl3aHN0Q0JGWXVpWFM0YUppZ1ZzN2d0ZmJmU2gybF9KNi1ua2VQV01KYkJtY2ZPbGI4elZDVkZGRWp3WEhUNGhfbzVRWEdnUTlrU0hwdDJGUldUdlF0bWpvaS1hZ2U0OTNqQmpRT3NnbzBtYTk4OFBqeWhlblBNYU01NWNjSG5idGc0Vl9DcmtTZHAtME1URkVNRWNlU2VXR1QtY3BDVg?oc=5",
+        "source": "Google News",
+        "date": "Thu, 12 Nov 2026 20:02:23 GMT"
+      },
       {
         "title": "The Trump Administration’s Foreign Aid Review: Reorganization of U.S. Global Health Programs - KFF",
         "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPU2M1c0VZcWhNbnhXX251NnM1c3p5YnNub2gyUnlHc3pOVzhDdzFqSFJ3UjQ0d1pVYWxaRmVQZG9sbWFVZFVLc29QYmtubjVaYnJUdlBqeEVFZzdPbWlNbDVVODBWQjIzWUphQlh4SUtnSnBDLTZtWkhlaldfblhTT3dwT0JzWm8weUdkVDZVY1dRT2ZUWkJQTVJfX1Z4TWlYYThhdzlCOVZ1YjVWNnd5R1B2NTBDengzcjlkejZSTXdCbUZnNndEUUxTQlJyNTZoSThDcUd6UQ?oc=5",
@@ -149,22 +155,16 @@
         "date": "Tue, 03 Mar 2026 20:21:46 GMT"
       },
       {
-        "title": "One Year Later: The Effect Of US 'Chainsaw' On Global Health - Health Policy Watch",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUWtGdTlpVnJOOWo2R1lIcVVDbXkxZTVmUUU0Q3k5bmFBSmNrTm56YTh1ZnFzMHZlQzFxWWlNMzNJbEdVVmJuaXFNLXNhQnJlMDk0S29YTU9KdXRTWnFGTE9sWkE1SE1DUWlWcUFVQmlxU1F6UUJKSUtjbjI4b214T0lGNlhHaGFfSjhtYUNMS2oyQ2NVYUxOeTBJdDVJcVpENE4zSg?oc=5",
-        "source": "Google News",
-        "date": "Tue, 20 Jan 2026 08:00:00 GMT"
-      },
-      {
         "title": "America First Global Health Strategy - U.S. Department of State (.gov)",
         "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSXlySkt5NWY3VG00Vm1yUzFnc0VXRlN4bkR0TURPY3BmZ1BWUnY3aHN0R21oLWVOR1VfY3FOcG1UV1dGaE1tc2JJRjZfV1lfX3pvcHRkUEZmVURQUGVqUnNoTDdfanZlREJXQjQwY090dXlObE9sNTZYanhDdnEwZnlNWV9kSUc1R1BoTnNWYUEzNHhVNXotcGd6a2RZTnZZ?oc=5",
         "source": "Google News",
         "date": "Thu, 18 Sep 2025 07:00:00 GMT"
       },
       {
-        "title": "France - Commonwealth Fund",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOR3RIV3JRQ29nTmxMTGN2RHVzaVpkS3ZVaTZoc1NONU9ZRk1VTzNXTE51UFEwMTRYa0NKUnZQOThUdFE4SjdnV2FSUnVkRk9HYk9mUl9GQ1J0SWc4bWlsZ1hCekxBQWFQMWRSbHdEVy1LYlBmNFZ5X3IwYnRfaDFRQ1NpT1JJSE50SlM4SQ?oc=5",
+        "title": "Health Systems Governance - World Health Organization (WHO)",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBqdnlsLTg2dkhjMVhiTlhOMWpzQXZPWE5QWm9rdThNVUp5WlU0enVqQkpZN3dHbDE5WHExckxUb1FPTHFZQklMVG94SzExc3U2aGU1RU5yOVdjaGpHUkh3NG5OOGNqTFhoenpv?oc=5",
         "source": "Google News",
-        "date": "Fri, 01 May 2026 07:00:00 GMT"
+        "date": "Mon, 19 Aug 2019 21:23:49 GMT"
       },
       {
         "title": "Digital health governance in China by a whole-of-society approach - Nature",
@@ -233,16 +233,16 @@
         "date": "Sat, 22 May 2021 13:58:41 GMT"
       },
       {
-        "title": "The IDEAL framework for surgical robotics: development, comparative evaluation and long-term monitoring - Nature",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE93YlRGM2cwNTFvZW0xX2hHdGxsNS11SDY0dHFpS012b0Z3bWJHamNzR2dRRFBfSmVtUFplZVM4R3QtZnRxRHhWZVByTWx4TXRyTkZYM0RsSEkxNnl2RG1J?oc=5",
-        "source": "Google News",
-        "date": "Fri, 19 Jan 2024 08:00:00 GMT"
-      },
-      {
         "title": "Universal Health Care: What the Socialists Got Right and the Capitalists Got Wrong - China-US Focus",
         "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPUHRoa09GR3JPNnZPQnZSN3huTEQzWURIeHB5RnpIZ3JPc01oVk5pTXNoaFVLS0ZOcTFqb1R2YlpQUUw0cTBtODhKQnUwVGs2TjJTUWRfQ0RwTllTU00xeDQ5bmZDd1ZIcDQzb2JwSE5mSFFMNGxDZ0RUV1JjalZLRnMyc0lIY04xTUZBNHBoWE5Ddi1lcXBfb01jZEw0R0dtWHR6eWRZd1J2d1BxdmVRZWtPa0c0ZDZEaWM1ZEJ2WkZCRFV5?oc=5",
         "source": "Google News",
         "date": "Fri, 12 Jun 2026 07:00:00 GMT"
+      },
+      {
+        "title": "The hidden costs of universal health coverage: solutions from the fight against catastrophic healthcare expenditure in Thailand - BMJ Global Health",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1Ba1dsMy1aOTV5WlRnUXpKb3dkaUxhb1ZaNVd6TE9LcVBLOWZnRW9tVlRTNzBzU3c2T2FWR1hwWXNlcmRyUXUtT19LbTRaUzA?oc=5",
+        "source": "Google News",
+        "date": "Mon, 05 Jun 2023 07:00:00 GMT"
       }
     ],
     "scifi": [
@@ -259,6 +259,12 @@
         "date": "Sat, 20 Jun 2026 07:00:00 GMT"
       },
       {
+        "title": "12 Renewed Sci-Fi Shows Coming Back For More Seasons In 2026 & Beyond - ScreenRant",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBteHZvOC03cGxGeGtBQ0dvMkFidjdsajQ3NmZNZmtfY0VBSUxkZ0xmYjNVaXYtNlBQMXF6QXVESDRrdVdUSEZHVkdxc1ZWN1BTeEprY3VSMkZxeVIxSDN3R2J2MTY2OGg5ejczWkVtdw?oc=5",
+        "source": "Google News",
+        "date": "Tue, 14 Apr 2026 07:00:00 GMT"
+      },
+      {
         "title": "7 recently renewed TV shows to binge watch right now - PennLive.com",
         "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQb1lWZWxEZDFvcEZTZU1wS2JITmFDMzlYM3p4S2Y2S2FWQWQxNWV0ZU9CVW9BTXZrak9ZdDFRZlZZa1RFLXcwV3ZfTU1sX2RINkRzelJRSVpNaXhXTjBBX09uRmJrWTR2SnFfLUY0QVcyQkdxd0dDLW9sTXhEaDhYNTZDS3NveHNoMTVGSjhMbkc0UGJscDB4V0ZpeF9FbXVTVHdLOE5WTdIBuwFBVV95cUxNaDAzMVRsVDZReEhrdnVfU3Eyd00xYkJVTmdFUFVlZXB4eHowTDJXTlM2YjJsQ0ZlbElSN2VzaGtqMTAtUTZYWEVwaEdLNTFuSE11bVZKdml4dElKRkI2TFdGdmtmLXh3ekFYeFN0M0RKelBZLTBWRkNUdHJ4MjlfMTBJSmZ6NUJ1d1NERHdBTjRwWGwzZnUwVnFmai15bnhleUhKUTZxNTFLdEhrUTBYSjlOZ2pRZjJ2QUM4?oc=5",
         "source": "Google News",
@@ -269,12 +275,6 @@
         "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQjBDSkFzb1Q1R1F6RHJ3TmtuV2Z3bWdiZ281VzBCQktrVzRTQ3VjZ1NlQnprUFY0dWZ5cWhuRGpGbDRwWkx4WGtlQ1dXWHo4dEx1SS1qdXNRVEY2TlhDY1ZKNnliY3ZaVkJDcnFfVVF5NTIwSnJ2b3hmN3RUMS1IZ2FrNWdmSDVLY01va05TYTJ0dTBTUjNDV3RIVy1hdU0?oc=5",
         "source": "Google News",
         "date": "Tue, 15 Sep 2026 07:00:00 GMT"
-      },
-      {
-        "title": "12 Renewed Sci-Fi Shows Coming Back For More Seasons In 2026 & Beyond - ScreenRant",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBteHZvOC03cGxGeGtBQ0dvMkFidjdsajQ3NmZNZmtfY0VBSUxkZ0xmYjNVaXYtNlBQMXF6QXVESDRrdVdUSEZHVkdxc1ZWN1BTeEprY3VSMkZxeVIxSDN3R2J2MTY2OGg5ejczWkVtdw?oc=5",
-        "source": "Google News",
-        "date": "Tue, 14 Apr 2026 07:00:00 GMT"
       },
       {
         "title": "Apple’s acclaimed sci-fi hit “Dark Matter” returns for season two on August 28 - Apple",
@@ -289,16 +289,16 @@
         "date": "Sat, 26 Sep 2026 07:00:00 GMT"
       },
       {
+        "title": "The Ten Longest-Running Sci Fi/Fantasy TV Shows of All Time (Updated) - Cancelled Sci Fi",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdTZjVjZ0LWM0SFlkV1M5anZ5N2RtR2VIdTlGUTFIUHZfUWN5SHBOU19YOXFGUjItbjl4aGY0NUFWYWY0VVhBZVZHNUl0clFKcmE2UlFhRXlCVkxTSE1ZR0ZGWnZGcHBJV0YySjB0NWdDVGtYZ3QxM3B2dUFSUWdkMGl2QmE4Q3RjdktoSjBBM1E4bG9JU1pETDA2RjlwV3li0gGgAUFVX3lxTE11NmNWNnQtYzRIWWRXUzlqdnk3ZG1HZUh1OUZRMUhQdl9RY3lIcE5TX1g5cUZSMi1uOXhoZjQ1QVZhZjRVWEFlVkc1SXRyUUpyYTZSUWFFeUJWTFNITVlHRkZadkZwcElXRjJKMHQ1Z0NUa1hndDEzcHZ1QVJRZ2QwaXZCYThDdGN2S2hKMEEzUThsb0lTWkRMMDZGOXBXeWI?oc=5",
+        "source": "Google News",
+        "date": "Sat, 24 Oct 2026 07:00:00 GMT"
+      },
+      {
         "title": "6 Sci-Fi Series Renewed For 2026 That You Should Binge Now - JustWatch",
         "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE84elF1dGpnZEttTmhHd19GWVRHaWh4UnpwckRkNU5VSFpSbTVpYm5ZMHRnM0M1N2ZMSW1CbmNyOXJkLTFkZEtpM0VORVlycFBNcGFNMzBuLWE3WnRRTXU2TjV5TzRwOHowVXFjMFhUaw?oc=5",
         "source": "Google News",
         "date": "Wed, 22 Oct 2025 07:00:00 GMT"
-      },
-      {
-        "title": "All of the Cancelled and Ending Sci Fi and Fantasy Shows from the 2024-25 Season (So Far) - Cancelled Sci Fi",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxONGc3cFBTZzRYY0VKckdoc0FQSWp1Ykp5WlM4QU5JMnZHZ09Pa0F1NE1YSXpIUDFFNGw5X04xaG1TX2ZXQ2Izcl9BN0lDNFRwOWRXZkNmUGdQTFlPZDQ3b0pRaGczOXRlaGU4REdCZDlSRUNnUmtyVnQyd1ZoeWM1YlBXei1RemRQeWhGbVdabkhjR25Kd3RrcnNiZU9WWnc3MkppMXNKd1ltc2FveGtTUXItaFU5MVFtZmRJMUVzdmg4dWpEWlozblZn0gHKAUFVX3lxTE40ZzdwUFNnNFhjRUpyR2hzQVBJanViSnlaUzhBTkkydkdnT09rQXU0TVhJekhQMUU0bDlfTjFobVNfZldDYjNyX0E3SUM0VHA5ZFdmQ2ZQZ1BMWU9kNDdvSlFoZzM5dGVoZThER0JkOVJFQ2dSa3JWdDJ3Vmh5YzViUFd6LVF6ZFB5aEZtV1puSGNHbkp3dGtyc2JlT1ZadzcySmkxc0p3WW1zYW94a1NRci1oVTkxUW1mZEkxRXN2aDh1akRaWjNuVmc?oc=5",
-        "source": "Google News",
-        "date": "Mon, 11 Aug 2025 07:00:00 GMT"
       },
       {
         "title": "All the sci-fi and fantasy shows confirmed for 2026 (so far) - Winter is Coming",
@@ -313,10 +313,10 @@
         "date": "Sun, 12 Jul 2026 07:00:00 GMT"
       },
       {
-        "title": "New Sci-Fi TV Shows (November 2026) - Rotten Tomatoes",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNU0lVeFVISGdfTFY5bXFEYTd5WjlnYjlDQ1E3VUZtMVlBYktLemEwLUt5bDlFUkNDQ3Zyd240amZOS0FicmJrRFp5Wlg2ckIyTVJ6QU9UOVRNVWFwNXFuOEpfRmFaUndub0RfdFY1Y1prTmQ5NTRvUE1XUWtWZE1nbHJyQ1F0bVk?oc=5",
+        "title": "More Missions to Come! SYFY's The Ark Renewed for Season 3 - Everything to Know - SYFY",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9qLXdMVTFrenFabWtDU0tIVGI5OXZKYnZhZFNGOWFOeFF0cGotblVwaWEycHBxNGRfS0tkSEtybURtTGtXVDlBcXBqLUVyb3FwSjREakZmSVIybTF6bEdtUGNsNjNMU09paGxoTTFMemVXc05ENkE?oc=5",
         "source": "Google News",
-        "date": "Sun, 08 Jan 2023 04:17:22 GMT"
+        "date": "Wed, 05 Mar 2025 08:00:00 GMT"
       },
       {
         "title": "Apocalyptic sci-fi novel 'The End of Everything' wins this year's Booker Prize - NPR",
@@ -343,16 +343,16 @@
         "date": "Mon, 09 Nov 2026 23:45:46 GMT"
       },
       {
+        "title": "50 Best Sci-Fi Books Of All Time - ScreenRant",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5HZUlWZWpDbnR3UFZKeHRQRTBaVm9nanlkaVY5My0wMzZ4ejQxa2kzRmp4ZW5ieVZfX3prbktQOWw1U19NS3paWWg1M3Z4ZzYyaVFycFlSd2VLTWQtbG8w?oc=5",
+        "source": "Google News",
+        "date": "Sat, 24 Oct 2026 07:00:00 GMT"
+      },
+      {
         "title": "M John Harrison becomes first science fiction author to win the Booker prize - The Guardian",
         "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRUxiOGJ6X2RXWlBEWE80aFhfUGJ6MEtpcUZfdDYtTjlkaDVHbTRFRmNLd1J5UU8xU2ZSdHRRUHhaUGotN3JmZEpzSU43emNpZnJSb2FnSm95OEh2bmhWNG83cEg5bDhrNUN4M2Vkc1dOUVZvVWpTZnVJOFNzWmo3N3JtV0ZheWlzUmxrcEFRdWdMZmlVZ1dvYkVVc1lPRGoxOFJRdUpwTFhXUQ?oc=5",
         "source": "Google News",
         "date": "Sun, 08 Nov 2026 08:00:00 GMT"
-      },
-      {
-        "title": "The best new science-fiction books of June 2026 include novels from Adrian Tchaikovsky and M. John Harrison - New Scientist",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQU0psazRybHJBTG1SSG53QlNoXzVuVFdyNEZrNEhIVkhpblltdFBlYjFNeV8tWWhpNVBNcDZzYXBLZ1BCUm9IamtEdjRCOC1oUFR3OGVjUXV0bklyNURDNGdObXVIRzNhT3hmazZNTTk2UHlLSklmVUpBZnQ4bkpzTGs4SkZ6OXFZNTBiS1lzMnBRODZnWFlwbA?oc=5",
-        "source": "Google News",
-        "date": "Sat, 30 May 2026 07:00:00 GMT"
       },
       {
         "title": "8 Best Post-Apocalyptic Books of All Time - Collider",
@@ -361,13 +361,49 @@
         "date": "Sat, 27 Jun 2026 07:00:00 GMT"
       },
       {
-        "title": "The 19 most anticipated sci-fi and fantasy books of 2026 - www.andrewliptak.com",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxObExncTk1R0wxV1VIV3lnMlpOMjZkZC13UzRXdDRwZ1haOHltQ1FrLVVuRUIyRVJNVlVyT0F4UmRMOUNmQTVuMmlCX1FUaEpEN0V5U2pFc3NwZE5nby05bGZCZWpabk1laUE0ekJLUk9UOWI0YUg0TF9DbWlwZEVUamZ1V3UxYXAxN3FMdWhNQUozVWZq?oc=5",
+        "title": "The best new science-fiction books of June 2026 include novels from Adrian Tchaikovsky and M. John Harrison - New Scientist",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQU0psazRybHJBTG1SSG53QlNoXzVuVFdyNEZrNEhIVkhpblltdFBlYjFNeV8tWWhpNVBNcDZzYXBLZ1BCUm9IamtEdjRCOC1oUFR3OGVjUXV0bklyNURDNGdObXVIRzNhT3hmazZNTTk2UHlLSklmVUpBZnQ4bkpzTGs4SkZ6OXFZNTBiS1lzMnBRODZnWFlwbA?oc=5",
         "source": "Google News",
-        "date": "Thu, 08 Jan 2026 08:00:00 GMT"
+        "date": "Sat, 30 May 2026 07:00:00 GMT"
       }
     ],
     "sports": [
+      {
+        "title": "College football rankings after Week 11: Updated Coaches Poll, AP Top 25 for Big Ten - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNS2hMTXdheUVuYlF4dXoyY0tReksyOC1WVXg2MU5iUm4zTTU5LVJvTDhHR3AtR21IVUVMb2xObFFFR2JEQ0FEUFVlUWJVOHN2RnJ1TWw4djJqRVpsRF9YbTFNT296OXRlRFNhZ2RmZTVVdFdVaHg3RVRidVJDM1N1TFpPR1p2UnlKdUE?oc=5",
+        "source": "Google News",
+        "date": "Sun, 15 Nov 2026 11:04:43 GMT"
+      },
+      {
+        "title": "Tomorrow's Top 25 Today: LSU flirts with exit from college football rankings as Texas solidifies status - CBS Sports",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNaWVreUhzWDFfS0d1UFgtNUhqaE9mYmNZQXRCTnFkSDE1el9pLTZXcnVFN1dsUVdOQmNjaENGcHMyNF8wNFpJSDFuR3hvbmhkLVY5N09nWVhGQjlHNWxKVmMtYjBhcXQxQUdXcXhqeFNNR1l1SGxUcjdDbkRFZVFiaWpKNHRFUko4N3Etb3BTenZfODlDdkNjZEo5QldHTzBrYl9TZzJkaw?oc=5",
+        "source": "Google News",
+        "date": "Sun, 15 Nov 2026 05:07:00 GMT"
+      },
+      {
+        "title": "College Football Rankings: Projecting the New AP Top 25 Poll After Week 11 - Sports Illustrated",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMXJXaGtZUkZWRlFNVFpjMzVWaXJhTG1acFpscjFwblM3S2w0LUxtcU56Vk1nYnpBMXVPRERJYTlHRTBwa0d5SzBZclpSRGgwOE41NTd4SGxOOUJ1UWw5WHFCNHlUdHd4WHBzVTF6dWV2WU5PTnBzRjZoRlJkZl9pbmNIMEVMelZwRWt2Qm5Zb2V5aWs5amxkczRKS1Y4c0hmb3ZlckxJSWNHOHpFd2RuS0pCNXZJMHNLYkE?oc=5",
+        "source": "Google News",
+        "date": "Sun, 15 Nov 2026 07:26:47 GMT"
+      },
+      {
+        "title": "AP Top 25 Poll Prediction: Can Anyone New Crack the Top 12? - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Lbndzckd5WWFDY21kbkRxbk1RYmJyMzM0WmFpb0x4blFIcHRfamxUWDhGbkZNTUEtcjVBV1FyeXdrZVNyR25QQnh3NFVFTUQ5S0pCeV8xT3lHTDYwbEVXRHpFdXpIcEpGTnhfTFlpbmVranNKY0NkR0ZpU2VydnM?oc=5",
+        "source": "Google News",
+        "date": "Sun, 15 Nov 2026 08:01:00 GMT"
+      },
+      {
+        "title": "College Football Rankings: AP Top 25 Teams Moving Up, Down in Week 12 - Sports Illustrated",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRlhnX2xKbExDQ29vZDhUaE9FWHMxMXluZ21iMU1qX2pNUWdhTUFBTXNUNC1HNHFTQjd1QXFxWnRMUXVkVlcxN3FXbU02a0owOUlkWTF3eElfMkxnN0FDSW5SQnlVTU5OcXdJM0FoSzlPNGNvNV9mR21SQkRnT2ZZTnNnZU1hYWp0T1VxSVppQi1Dejl5OWwxMkg5QnU3UlRxVW1ZRVduMDFzZDVYY2dNQ25haHdSWDdu?oc=5",
+        "source": "Google News",
+        "date": "Sun, 15 Nov 2026 04:42:22 GMT"
+      },
+      {
+        "title": "College football rankings: Projected AP Top 25 after Texas stuns LSU, Georgia clowns Mizzou, Indiana ends USC - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQ2hTXzlYNUhrZDFrR09KRHhGUmota0VOVnhpa29VM2pINTY5QVhhN3dzVlM2YURvbTJFOXEwT09wSzQxQlpQVXFqX0VkWlpzZmRFV2tXTVo3NkVtS2VGdmNHdW4zc3YwTlQ1S050UlFUQy1PWHA2eTFKanNDdWpxbWRTZTRGR3oxcEktVnBJeXY?oc=5",
+        "source": "Google News",
+        "date": "Sun, 15 Nov 2026 04:46:00 GMT"
+      },
       {
         "title": "Power Rankings: How an action-packed Week 10 changed the top 25 - ESPN",
         "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNeHFfcElMVkVWczF3YUNIazlIQlZ1NHNxT2pyU0ZGSldWZ2xFN1Y3UUgxRGR4T29vbkNYdG1kcmdOYTNwZEI5MW5NSzl3eHRySjNfaklnVmp1RGNzVHQ1VXprM2hxY3V3cW9ZWGhHZEpyTzBZM2Z4T1dWeWU1d0NYZXVpRng5cXMzbVdyZGZfWmc2SE5DSVdKcnVqaU4wM2VfeUk1ZzJxS3BDZzZsQkE?oc=5",
@@ -403,42 +439,6 @@
         "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdEFYWHVqdy05YlBqNUhlb1ZRWUUxU2xLVlZkeFVkc0N4cVotaW9tX0g0UkZ0QS1kLUhKaUYxb3BobEtIaFhhcGluTkxVLXNlVHhYQkVGVGhNWnZJdHRHZEt1MHpSWW9jUFExdWFMWTZScllmZEh0QWJJNWtBZVlRdWRXeUY4YW82?oc=5",
         "source": "Google News",
         "date": "Sun, 11 Oct 2026 07:00:00 GMT"
-      },
-      {
-        "title": "College Football Playoff top 12 projection after Week 8 - ESPN",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQLVN6MWg4bDVLOVVyRjg3ejVjcW85QmRGaTlnMHZMcmFrMUpNTDBTaV9GRkVRcU01bGxCS1B6NnNKTFB4ZUlKQzRVZHVfWE00UzRPd0pGYzB5R3FzYjduM2YwQzFZYVV1ZEM4T2h1b29ibkVmc2NQVjBicnF0bWlXdlEydkJEYThSR2t1SWUwZFBBcFl5N3I1c0o4WTN1X1Jh?oc=5",
-        "source": "Google News",
-        "date": "Sun, 25 Oct 2026 07:00:00 GMT"
-      },
-      {
-        "title": "College football AP Top 25 rankings: Some marquee wins have aged well -- others, not so much - CBS Sports",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTzFLTmFzcWZoQTNjcmJhemRSTU1fUlJ0MDhmNXlsa2xmQk1ZRUFEOVVpbmJrcDMzUTdONzBXZnZJdG42S1RMRERYS1g0QWxnejBzY3R2ajR1S2lXNFpENll1czdHRXB0NXc3b3ZzTlhGckxod1Rmc2F4MXViUjNfZk80R19Tb3M4N0twUkFPWjVMTGk2anluYmVn?oc=5",
-        "source": "Google News",
-        "date": "Sun, 25 Oct 2026 07:00:00 GMT"
-      },
-      {
-        "title": "AP Top 25: Alabama jumps Indiana, Missouri surges and Pitt is in college football rankings - The New York Times",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRERtdmtFd2szWHlrc3lod3ZKcVY4TF9kR214b0ZFU3FOSzAtb0hFU2M5WGFyRDB0ZGU3R0hDQTFjbk1CNnNVdXlGVUR3elJqWHRnU1VkYk43YkZxNjBEdldlQjNKcXV4dnVDNzhKUzFjMlFZZE44VVZ6Ujl5MFh3RmZSTDRhMVNZdDdwN1N0RFZuS25NWDNkXzdQQ1hmOHc?oc=5",
-        "source": "Google News",
-        "date": "Sun, 11 Oct 2026 07:00:00 GMT"
-      },
-      {
-        "title": "AP college football Week 8 poll reaction: What's next for Top 25 - ESPN",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNcnJ3YlpVanFzZUg4U2lzYk9kWG1WZVhXaHlzN0JFWElUTmg4akRKNUszMkVuS0t0WEs5bUpaMUs0NkhSR3NNdTktdlhac3poQUdOOTNlRVpQUGZaSjNhMVBGa2gxZEdCTkFGbFI0OEJBdGF3NlN1MHBBbFVTdi1LTEJLVmtTVkFNZXk1d3dIekxKclNsNHRRa21kdEdKbVZDVkZSRFFzaFVSbjN4OWRR?oc=5",
-        "source": "Google News",
-        "date": "Sun, 25 Oct 2026 07:00:00 GMT"
-      },
-      {
-        "title": "College football Power Rankings: How a wild Week 7 changed top 25 - ESPN",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQREVRUHlYN0FDc2lYRmJKV1NrR2JGMkZWZlJ4SEVSYW45WWxNWkF1VExzN3h5MEl2aGR4QjA3U2x2TTlvVmt1REFxSVJjYkFVNGI0RXJJeGNKLXFxZ3NSLXlBWlJhZWprOUhJRUJiY1hiX29RQzB2YWlpVVo4aWl3czFNcGk4Sy1NdkV5czMzYnFnb2JNaEhYbXhsT2lqWEFLbS03U0QxbTgwLXRy?oc=5",
-        "source": "Google News",
-        "date": "Mon, 19 Oct 2026 07:00:00 GMT"
-      },
-      {
-        "title": "Projecting the College Football Playoff top 12 after Week 1 - ESPN",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQVNkSTVYVFZ1SW9IQV9GQmYyTDlCU0VpckVaOURjTmlHa2RVbGxvZndjY01IMGFCX3dibmV1MFlFd0Z3S19DVm1xR0RIWUc1ZFZqWFVmNXI2LUtCM01SclFIZXhTbl9fLWVrTFNrS0N3YnhHNGJYMVRpQjVVZGNqcHhsQXIwNnJOemVEdWRldVpoMTdnRnVKZ0o2UGg0MktmelZMR3dwMFVGTTA?oc=5",
-        "source": "Google News",
-        "date": "Sun, 06 Sep 2026 07:00:00 GMT"
       }
     ],
     "lastz": [
@@ -452,7 +452,7 @@
         "title": "Last Z: Survival Shooter codes (November 2026) - Anything to keep those zombies at bay - Pocket Gamer",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9YZDBXek9NSnI3bmF4eDBVT3dFdTRGWkRuQzAzTzJ3elItbVFOMlZPUnAwM2lQWGZtQVh2aDVpelEtT01BcHhxUkF3dXYycDc2UmNRamZoZFU1cnpwWlhDby04QmIwd0FwOGc?oc=5",
         "source": "Google News",
-        "date": "Sun, 08 Nov 2026 08:00:00 GMT"
+        "date": "Sun, 08 Nov 2026 02:02:00 GMT"
       },
       {
         "title": "Last Shelter Survival codes: November 2026 - Pocket Gamer",
@@ -461,16 +461,16 @@
         "date": "Sat, 07 Nov 2026 01:50:00 GMT"
       },
       {
-        "title": "Magic Chess: Go Go redeem codes (October 2026) - Pocket Gamer",
-        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0xYVhXakJOdk9Va1ZRY3NRclZJczZ2anhDQ2RXUzhyajc4enBJM2phN1Azem9za0hicFBZal90S2s3YUJxVWdrZzQxd1AxMEdmRjF2TmF5TjQ0MU81R1ZGZ0NR?oc=5",
-        "source": "Google News",
-        "date": "Sun, 08 Nov 2026 02:20:00 GMT"
-      },
-      {
         "title": "POLY-Z RNG Codes (September 2026) [Zombie Shooter] - Pro Game Guides",
         "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1UUkVMQXA2d0p2aG1XUERIdXRfcjd0U0xfcEE0V3RoMGJmLWVFa0hRUTZFN015djRRT3RoYjFzNldGMUdWaGxWN29iRG9DNkxoSm5fWWQ3SVNHcy1Wbk96YTZEMA?oc=5",
         "source": "Google News",
         "date": "Tue, 01 Sep 2026 07:00:00 GMT"
+      },
+      {
+        "title": "Magic Chess: Go Go redeem codes (October 2026) - Pocket Gamer",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0xYVhXakJOdk9Va1ZRY3NRclZJczZ2anhDQ2RXUzhyajc4enBJM2phN1Azem9za0hicFBZal90S2s3YUJxVWdrZzQxd1AxMEdmRjF2TmF5TjQ0MU81R1ZGZ0NR?oc=5",
+        "source": "Google News",
+        "date": "Sun, 08 Nov 2026 02:20:00 GMT"
       },
       {
         "title": "POLY-Z RNG Codes (September 2026) - Twinfinite",
@@ -491,16 +491,16 @@
         "date": "Thu, 12 Nov 2026 08:00:00 GMT"
       },
       {
+        "title": "Zombie Waves Codes (March 2026) - GameRant",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE85RGxQYUI4Y3FYN2c0R1g1a3J0ZTRvUkVzbENVcFdwdjFyV050OGM3TUlKZVZkcmpHem9RWndtS3p2bDluZlhfdVA4RjkySXc4T3c?oc=5",
+        "source": "Google News",
+        "date": "Fri, 16 Aug 2024 07:00:00 GMT"
+      },
+      {
         "title": "Roblox Game Codes (November 2026) – 1300+ Active Game Codes! - Pro Game Guides",
         "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBPZGRBdVN5ckw2LWl5RElpdGppYjgydlZpamJRVHRLVEEwNnZFemlCYm9RMmRyeWhCeGU0b3lBTWJFaXRTb1VmM2g5NWFNWDJaeUsyM0tfUlNyUXVxM19UaQ?oc=5",
         "source": "Google News",
         "date": "Tue, 10 Nov 2026 10:13:20 GMT"
-      },
-      {
-        "title": "Roblox Codes - complete list of redeem codes - Pocket Gamer",
-        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAxQU40cTRuX3FhbzJlNml0cXozU0dOaGVvRVJFWnJnU2lpX3ZXZEpCdUJuVlN5TERCNG1xU21nSkdQM0dSdGhhRVJteHFPdTdSZDFB?oc=5",
-        "source": "Google News",
-        "date": "Sat, 07 Nov 2026 01:00:00 GMT"
       }
     ]
   },
@@ -891,126 +891,6 @@
         "score": 40
       },
       {
-        "id": "https://openalex.org/W7225112401",
-        "title": "Screen use in children and adolescents: Developmental risks, benefits, and educational implications",
-        "url": "https://doi.org/10.5281/zenodo.23879615",
-        "source": "OpenAlex",
-        "authors": "Hanna David",
-        "date": "2026-12-30",
-        "why": "Research match: political determinants of public health",
-        "summary": "The “war against screens” — the intense parental and societal pushback against children’s and adolescents’ excessive use of smartphones, social media, tablets, and games — was lost from the outset. Modern life is inseparable from screens; even closed communities fail at total prohibition. Cross-national parent movements (Wait Until 8th, Smartphone Free Childhood) and policy responses (age restrictions, phone-free schools in Australia, Brazil, Europe, etc.) reflect these worries. Practical guidance centers on the Surgeon General’s “5 Ds” (Discus",
-        "kind": "publication",
-        "score": 40
-      },
-      {
-        "id": "https://openalex.org/W7118790824",
-        "title": "DOES MILITARY SPENDING STIMULATE ENERGY CONSUMPTION IN NIGERIA?",
-        "url": "https://doi.org/10.5281/zenodo.18163143",
-        "source": "OpenAlex",
-        "authors": "Ahmed Oluwatobi Adekunle",
-        "date": "2026-12-22",
-        "why": "Research match: political determinants of public health",
-        "summary": "Abstract Numerous studies have underscored the detrimental environmental effects of military spending vis-à-vis energy consumption, including pollution and habitat damage. Sequel to this, this study examines the effects of military spending on energy consumption in Nigeria. The data for the study were obtained from World Development Indicator (WDI, 2022) which covered from 1990-2022. The ARDL methods were employed to analyze the data. The analysis indicates that military spending has a positive effect on Nigeria's energy consumption in both the",
-        "kind": "publication",
-        "score": 40
-      },
-      {
-        "id": "https://openalex.org/W7225212262",
-        "title": "Intersectional Realities and Adaptive Leadership: A Phenomenological Study of Black Women Administrators in Higher Education",
-        "url": "https://dc.etsu.edu/etd/4775",
-        "source": "OpenAlex",
-        "authors": "Jocelyn Vernet",
-        "date": "2026-12-01",
-        "why": "Research match: political determinants of public health",
-        "summary": "Existing literature consistently documents the acute underrepresentation of Black women in administrative leadership. Furthermore, Black women administrators that are represented and visible in higher education often oversee programs and task forces that heighten their experiences to high-risk situations. Emerging narratives suggest Black women employ effective coping strategies and embrace opportunities to strengthen and cultivate support networks while in their leadership roles. However, there is a significant lack in understanding how these ",
-        "kind": "publication",
-        "score": 40
-      },
-      {
-        "id": "https://openalex.org/W7225220194",
-        "title": "The effect of organizational change on performance-based funding and decision-making at a state-funded Historically Black College and University",
-        "url": "https://scholar.utc.edu/theses/1094",
-        "source": "OpenAlex",
-        "authors": "Valerie G. Williams",
-        "date": "2026-12-01",
-        "why": "Research match: political determinants of public health",
-        "summary": "Performance-based funding (PBF) has become an increasingly common mechanism for allocating state resources to public higher education institutions; however, questions remain regarding its effectiveness and potential unintended consequences for historically underfunded institutions, particularly Historically Black Colleges and Universities (HBCUs). This study examined the effect of organizational change on institutional performance and decision-making at a publicly funded land-grant HBCU in the southeastern United States operating within a PBF e",
-        "kind": "publication",
-        "score": 40
-      },
-      {
-        "id": "https://openalex.org/W7225447869",
-        "title": "Unraveling Urban Inclusion: A Study on Accessibility to Place Types and Social Satisfaction for Individuals With Disabilities",
-        "url": "https://doi.org/10.26076/m2yv-1d09",
-        "source": "OpenAlex",
-        "authors": "Minoo Abrishami",
-        "date": "2026-12-01",
-        "why": "Research match: political determinants of public health",
-        "summary": "This research explored how access to everyday destinations influences neighborhood and social satisfaction among individuals with disabilities. It examined how factors such as sociodemographic characteristics, accessibility, and frequency of visits to places contribute to how people experience their neighborhoods and social lives. The study also investigated how satisfaction with one’s neighborhood can mediate the connection between accessibility and overall social satisfaction. First, the study compared different ways of measuring access to pl",
-        "kind": "publication",
-        "score": 40
-      },
-      {
-        "id": "https://openalex.org/W7225754632",
-        "title": "Algorithmic Blind Spots in Digital Crisis Sensing: Human Validation of Social Media Sentiment on Indonesia's Free Nutritious Meals Program",
-        "url": "https://doi.org/10.15642/saicopss.2026.4.1.1-19",
-        "source": "OpenAlex",
-        "authors": "Bayu Aulia Priyantomo",
-        "date": "2026-12-01",
-        "why": "Research match: political determinants of public health",
-        "summary": "Digital social media monitoring offers governments a rapid means of detecting public concerns, but automated sentiment classification may overlook policy-crisis signals expressed in descriptive or context-dependent language. This study examines algorithmic blind spots in sentiment analysis of Indonesia’s Free Nutritious Meals (MBG) Program through a comparative content-analysis design combining automated classification with manual validation. The study used 100 high-engagement TikTok and Instagram video posts collected between January and June ",
-        "kind": "publication",
-        "score": 40
-      },
-      {
-        "id": "https://openalex.org/W7160294455",
-        "title": "Environmental Performance and Renewable Resources: The Impact on Economic Growth in the Emerging and Developing Economies",
-        "url": "https://doi.org/10.53941/gssd.2026.100029",
-        "source": "OpenAlex",
-        "authors": "Francesco Scalamonti",
-        "date": "2026-11-13",
-        "why": "Research match: political determinants of public health",
-        "summary": "This study investigates the impacts of environmental performance measured by CO2 emission from industrial processes and renewable capacity measured by electricity production from renewable sources excluding hydroelectric on economic growth in emerging and developing economies. The analysis uses time-series data over the period 2000–2025 and three World Bank aggregates based on historical series of income levels (low, lower-middle, and upper-middle). Foreign direct investment inflows, trade openness, urbanization, and in an original way, the cou",
-        "kind": "publication",
-        "score": 40
-      },
-      {
-        "id": "https://openalex.org/W7162987722",
-        "title": "Personalized to Persuade: The Effects of Contextualization and Warmth on Trust and Reliance in Conversational AI",
-        "url": "https://doi.org/10.1145/3841580.3845741",
-        "source": "OpenAlex",
-        "authors": "Mert Yazan, Suzan Verberne, Frederik Situmeang",
-        "date": "2026-11-13",
-        "why": "Research match: political determinants of public health",
-        "summary": "Conversational agents tailor explanations to users’ backgrounds and interests, a strategy we refer to as contextualization. While personalization is an established persuasive lever in politics and marketing, its effect in everyday tasks, where users lack prior knowledge, remains unclear. We report a 2 × 2 between-subjects experiment (N = 380) testing how contextualization and conversational warmth shape the persuasiveness of, and reliance on, an AI assistant that argues against expert recommendations. Contextualization and warmth each reduce pe",
-        "kind": "publication",
-        "score": 40
-      },
-      {
-        "id": "https://openalex.org/W7220894933",
-        "title": "When the Facts Run Out: Measuring and Steering Identity Substitution in Large Language Model Investment Advice",
-        "url": "https://doi.org/10.1145/3858063.3858841",
-        "source": "OpenAlex",
-        "authors": "Saanvi Khetan, Sankar Balasubramanian",
-        "date": "2026-11-13",
-        "why": "Research match: political determinants of public health",
-        "summary": "People increasingly ask large language models what to do with their money, yet seldom describe their finances in full. This paper asks what a model does with the gap. Holding finances fixed and changing only who the investor is said to be, we grade the financial evidence in the prompt from eight facts to none and measure how far the recommended equity allocation moves. Across 96,600 prompts to Llama-3.1-8B-Instruct, built from 100 financial profiles, 138 personas and seven disclosure conditions, the average gap between two personas with identic",
-        "kind": "publication",
-        "score": 40
-      },
-      {
-        "id": "https://openalex.org/W7221982172",
-        "title": "A life course approach to population oral health",
-        "url": "https://doi.org/10.1038/s41415-026-9802-8",
-        "source": "OpenAlex",
-        "authors": "Heilmann A, Richard D. Holmes",
-        "date": "2026-11-13",
-        "why": "Research match: political determinants of public health",
-        "summary": "Oral health inequalities are caused by social, commercial, and political determinants, and remain a persistent national and global challenge. This paper presents an overview of the social determinants of health and highlights the importance of a life course perspective to examine and understand how health inequalities are produced and perpetuated. We discuss how life course theory is linked to wider public health strategies such as the Common Risk Factor Approach and population (or upstream) approaches to prevention, and how it applies to oral ",
-        "kind": "publication",
-        "score": 40
-      },
-      {
         "id": "https://openalex.org/W7153078620",
         "title": "Investigating the effects of vaping on lung structure and function with pulmonary imaging",
         "url": "https://doi.org/10.14288/1.0451822",
@@ -1035,6 +915,18 @@
         "score": 40
       },
       {
+        "id": "https://openalex.org/W7225754632",
+        "title": "Algorithmic Blind Spots in Digital Crisis Sensing: Human Validation of Social Media Sentiment on Indonesia's Free Nutritious Meals Program",
+        "url": "https://doi.org/10.15642/saicopss.2026.4.1.1-19",
+        "source": "OpenAlex",
+        "authors": "Bayu Aulia Priyantomo",
+        "date": "2026-12-01",
+        "why": "Research match: policy diffusion health systems",
+        "summary": "Digital social media monitoring offers governments a rapid means of detecting public concerns, but automated sentiment classification may overlook policy-crisis signals expressed in descriptive or context-dependent language. This study examines algorithmic blind spots in sentiment analysis of Indonesia’s Free Nutritious Meals (MBG) Program through a comparative content-analysis design combining automated classification with manual validation. The study used 100 high-engagement TikTok and Instagram video posts collected between January and June ",
+        "kind": "publication",
+        "score": 40
+      },
+      {
         "id": "https://openalex.org/W4414976416",
         "title": "Digital twins for intelligent intersections: A literature review",
         "url": "https://doi.org/10.1016/j.trip.2026.102352",
@@ -1043,6 +935,54 @@
         "date": "2026-11-13",
         "why": "Research match: policy diffusion health systems",
         "summary": "Intelligent intersections play a pivotal role in urban mobility, demanding innovative solutions such as digital twins to enhance safety and efficiency. This literature review investigates the integration and application of digital twins for intelligent intersections, a critical area within smart urban traffic systems. The review systematically categorizes existing research into five key thematic areas: (i) Digital Twin Architectures and Frameworks; (ii) Data Processing and Simulation Techniques; (iii) Artificial Intelligence and Machine Learnin",
+        "kind": "publication",
+        "score": 40
+      },
+      {
+        "id": "https://openalex.org/W7128034413",
+        "title": "User Understanding of Robot Learning Evaluations through Task Success Rates and Beyond",
+        "url": "https://doi.org/10.1145/3841580.3841602",
+        "source": "OpenAlex",
+        "authors": "Isaac S. Sheidlower, Jindan Huang, James Staley, Bingyu Wu",
+        "date": "2026-11-13",
+        "why": "Research match: policy diffusion health systems",
+        "summary": "Robot Foundation Models (RFMs) and related robot learning techniques represent a promising approach to developing general-purpose home robots. Given the broad capabilities of RFMs, users will inevitably ask an RFM-based robot to perform tasks that the RFM was not trained or evaluated on. In these cases, it is crucial that users understand the risks associated with attempting novel tasks due to the relatively high cost of failure. Furthermore, an informed user who understands an RFM’s capabilities will know what situations and tasks the robot ca",
+        "kind": "publication",
+        "score": 40
+      },
+      {
+        "id": "https://openalex.org/W7160294455",
+        "title": "Environmental Performance and Renewable Resources: The Impact on Economic Growth in the Emerging and Developing Economies",
+        "url": "https://doi.org/10.53941/gssd.2026.100029",
+        "source": "OpenAlex",
+        "authors": "Francesco Scalamonti",
+        "date": "2026-11-13",
+        "why": "Research match: policy diffusion health systems",
+        "summary": "This study investigates the impacts of environmental performance measured by CO2 emission from industrial processes and renewable capacity measured by electricity production from renewable sources excluding hydroelectric on economic growth in emerging and developing economies. The analysis uses time-series data over the period 2000–2025 and three World Bank aggregates based on historical series of income levels (low, lower-middle, and upper-middle). Foreign direct investment inflows, trade openness, urbanization, and in an original way, the cou",
+        "kind": "publication",
+        "score": 40
+      },
+      {
+        "id": "https://openalex.org/W7225855505",
+        "title": "Rooting, flourishing and cultural exchange of Chinese ancestors along the South Seas Maritime Silk Road before the Qing Dynasty",
+        "url": "https://doi.org/10.1186/s41257-026-00167-9",
+        "source": "OpenAlex",
+        "authors": "SengHuat Ong",
+        "date": "2026-11-13",
+        "why": "Research match: policy diffusion health systems",
+        "summary": "Abstract The Maritime Silk Road of the Chinese ancestors was characterized by the establishment and the flourishing and rooting of Chinese settlements across various regions, and by the long-term practice of cultural exchange and mutual learning. Its background lay in the continuous advancement of navigation and shipbuilding knowledge from the Han to the Song dynasties. With large ships capable of carrying hundreds of people, the number of crew members landing and staying at different ports increased. The shortening of sailing days and distance",
+        "kind": "publication",
+        "score": 40
+      },
+      {
+        "id": "https://openalex.org/W7225866174",
+        "title": "The Political Economy of Workplace Surveillance: Labour Process and the Transformation of Work in the Digital Age",
+        "url": "https://doi.org/10.4324/9781003240679",
+        "source": "OpenAlex",
+        "authors": "Ivan Manokha",
+        "date": "2026-11-13",
+        "why": "Research match: policy diffusion health systems",
+        "summary": "This book examines developments in workplace surveillance, and, most fundamentally, the implications it has for workplace power relations in the digital age. Workplace surveillance has become one of the central mechanisms through which labour is organised under contemporary capitalism. From warehouse scanners and call-centre scoring systems, employee-monitoring software installed on home computers during the Covid-19 pandemic, and wearable health trackers to experiments with implanted chips and brain-monitoring devices, employers are increasing",
         "kind": "publication",
         "score": 40
       }
