@@ -1,6 +1,4 @@
-"""Harris Hub v2.1: structured scholarly discoveries + optional authenticated eBay listings.
-No invented prices; preserve old records during API failures. Standard library only.
-"""
+"""Harris Hub v2.2: scholarly discoveries and public news; no eBay API or listing storage."""
 import datetime as dt
 import html
 import json
@@ -24,7 +22,6 @@ QUERIES = {
  'lastz':['Last Z Survival Shooter updates redeem codes'],
 }
 TOPICS = ['health technology assessment policy','Thailand universal health coverage','global health governance','political determinants of public health','policy diffusion health systems']
-COMIC_SEARCHES = ['Wonder Woman golden age comic','Batman golden age comic','Comic Cavalcade golden age','All Star Comics golden age','X-Men 1 1963','Ebon 1 comic','Argosy comic book price guide','Comic Book Marketplace magazine lot']
 
 def get(url,headers=None,tries=2):
  for attempt in range(tries):
@@ -77,39 +74,6 @@ def openalex():
   time.sleep(.35)
  return out
 
-def ebay_token():
- client=os.getenv('EBAY_CLIENT_ID','').strip();secret=os.getenv('EBAY_CLIENT_SECRET','').strip()
- if not client or not secret:return None
- import base64
- auth=base64.b64encode((client+':'+secret).encode()).decode()
- data=urllib.parse.urlencode({'grant_type':'client_credentials','scope':'https://api.ebay.com/oauth/api_scope'}).encode()
- try:
-  req=urllib.request.Request('https://api.ebay.com/identity/v1/oauth2/token',data=data,headers={'Authorization':'Basic '+auth,'Content-Type':'application/x-www-form-urlencoded'})
-  with urllib.request.urlopen(req,timeout=20) as r:return json.load(r).get('access_token')
- except (urllib.error.URLError,ValueError) as e:print('eBay authentication unavailable:',str(e)[:120]);return None
-
-def ebay_listings():
- token=ebay_token()
- if not token:
-  print('eBay listings disabled: set EBAY_CLIENT_ID and EBAY_CLIENT_SECRET as repository Actions secrets.');return []
- out=[]
- for term in COMIC_SEARCHES:
-  params=urllib.parse.urlencode({'q':term,'limit':15,'filter':'buyingOptions:{FIXED_PRICE}','sort':'newlyListed'})
-  data=get('https://api.ebay.com/buy/browse/v1/item_summary/search?'+params,headers={'Authorization':'Bearer '+token,'X-EBAY-C-MARKETPLACE-ID':'EBAY_US'},tries=1)
-  if not data:continue
-  try:items=json.loads(data).get('itemSummaries',[])
-  except (ValueError,TypeError):continue
-  for item in items:
-   price=item.get('price') or {};value=price.get('value');url=item.get('itemWebUrl');title=item.get('title','')
-   if not (value and url and title):continue
-   try:amount=float(value)
-   except (TypeError,ValueError):continue
-   if amount>1800:continue
-   if 'X-Men 1 1963' not in term and amount>1200:continue
-   out.append({'id':'ebay:'+str(item.get('itemId','')),'title':title[:220],'url':url,'source':'eBay Browse API','date':item.get('itemCreationDate','')[:10], 'price':f'{price.get("currency","USD")} {amount:,.2f}', 'kind':'listing','why':'Matches watchlist: '+term+'; check grade, completeness and shipping before buying', 'score':45 if amount<=500 else 25})
-  time.sleep(.4)
- return out
-
 def unique(items,cap=50):
  seen=set();out=[]
  for item in items:
@@ -129,7 +93,7 @@ def main():
  listings=unique(ebay_listings(),45)
  if listings:discoveries['comics']=listings
  else:print('Keeping previous listings if any; verify availability before buying')
- feeds={};fresh=bool(papers or listings)
+ feeds={};fresh=bool(papers)
  for category,queries in QUERIES.items():
   items=[]
   for query in queries:items.extend(news(query));time.sleep(.2)
